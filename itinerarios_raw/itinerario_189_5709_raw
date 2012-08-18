@@ -1,0 +1,1719 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/interna_1nivel.dwt.asp" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Grande Recife</title>
+<!-- InstanceEndEditable -->
+<base href="http://www.granderecife.pe.gov.br/consulta/">
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="interna.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="779" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="../images/index/bg_topo.gif" width="779" height="6" /></td>
+  </tr>
+  <tr>
+    <td background="../images/index/bg_meio.gif"><table width="779" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="20"><img src="../images/inv.gif" width="20" height="10" /></td>
+        <td width="740" height="118" valign="top" background="../images/index/totpo_bg.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td colspan="3"><img src="../images/inv.gif" width="15" height="10" /></td>
+            </tr>
+          <tr>
+            <td colspan="3"><table border="0" align="right" cellpadding="0" cellspacing="0">
+                 <tr valign="bottom">
+                  <td><img src="../images/index/menu_quadrado.gif" width="5" height="5" hspace="5" vspace="2" /></td>
+                  <td><a href="../index.asp" class="menu_sup">home</a></td>
+                  <td><img src="../images/inv.gif" width="7" height="5" /></td>
+                  <td><img src="../images/index/menu_quadrado.gif" width="5" height="5" hspace="5" vspace="2" /></td>
+                  <td><a href="../mapa_do_site.asp" class="menu_sup">mapa do site</a> </td>
+                  <td><img src="../images/inv.gif" width="7" height="5" /></td>
+                  <td><img src="../images/index/menu_quadrado.gif" width="5" height="5" hspace="5" vspace="2" /></td>
+                  <td><a href="../funcionario.asp" class="menu_sup">funcion&aacute;rio</a></td>
+                  <td><img src="../images/inv.gif" width="20" height="5" /></td>
+                </tr> 
+                        </table></td>
+            </tr>
+          <tr>
+            <td colspan="3"><img src="../images/inv.gif" width="15" height="4" /></td>
+            </tr>
+          <tr>
+            <td width="2%"><img src="../images/inv.gif" width="13" height="5" /></td>
+            <td width="43%"><a href="../index.asp"><img src="../images/index_novo/logo_granderecife.gif" width="314" height="80" border="0" /></a></td>
+            <td width="55%" valign="bottom"><div align="right"></div></td>
+          </tr>
+
+        </table></td>
+        <td width="19"><img src="../images/inv.gif" width="19" height="10" /></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td height="42" background="../images/index/menu_bg.jpg"><script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('../images/menu/transporte3.gif','../images/menu/servicos3.gif','../images/menu/campanhas3.gif','../images/menu/imprensa3.gif','../images/menu/ouvidoria3.gif','../images/menu/granderecife3.gif')">
+<table border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><a href="../granderecife_historico.asp"><img src="../images/menu/granderecife.gif" name="Image9" width="99" height="16" border="0" id="Image9" onMouseOver="MM_swapImage('Image9','','../images/menu/granderecife3.gif',1)" onMouseOut="MM_swapImgRestore()" /></a></td>
+    <td><img src="../images/menu/menu_divisoria.jpg" width="2" height="30" hspace="7" /></td>
+    <td><a href="../transporte_operadoras.asp"><img src="../images/menu/transporte.gif" width="82" height="16" border="0" id="Image10" onMouseOver="MM_swapImage('Image10','','../images/menu/transporte3.gif',1)" onMouseOut="MM_swapImgRestore()" /></a></td>
+    <td><img src="../images/menu/menu_divisoria.jpg" width="2" height="30" hspace="7" /></td>
+    <td><a href="/"><img src="../images/menu/servicos.gif" width="62" height="16" border="0" id="Image13" onMouseOver="MM_swapImage('Image13','','../images/menu/servicos3.gif',1)" onMouseOut="MM_swapImgRestore()" /></a></td>
+    <td><img src="../images/menu/menu_divisoria.jpg" width="2" height="30" hspace="7" /></td>
+    <td><a href="../campanhas.asp"><img src="../images/menu/campanhas.gif" width="83" height="16" border="0" id="Image14" onMouseOver="MM_swapImage('Image14','','../images/menu/campanhas3.gif',1)" onMouseOut="MM_swapImgRestore()" /></a></td>
+    <td><img src="../images/menu/menu_divisoria.jpg" width="2" height="30" hspace="7" /></td>
+    <td><a href="../noticias.asp"><img src="../images/menu/imprensa.gif" width="67" height="16" border="0" id="Image15" onMouseOver="MM_swapImage('Image15','','../images/menu/imprensa3.gif',1)" onMouseOut="MM_swapImgRestore()" /></a></td>
+    <td><img src="../images/menu/menu_divisoria.jpg" width="2" height="30" hspace="7" /></td>
+    <td><a href="../ouvidoria.asp"><img src="../images/menu/ouvidoria.gif" width="68" height="16" border="0" id="Image16" onMouseOver="MM_swapImage('Image16','','../images/menu/ouvidoria3.gif',1)" onMouseOut="MM_swapImgRestore()" /></a></td>
+    <td><img src="../images/inv.gif" width="10" height="10" /></td>
+  </tr>
+</table>
+</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><table border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><img src="../images/inv.gif" width="180" height="10" /></td>
+            <td><img src="../images/inv.gif" width="34" height="10" /></td>
+            <td><img src="../images/inv.gif" width="506" height="10" /></td>
+          </tr>
+          <tr>
+            <td valign="top"><!-- InstanceBeginEditable name="submenu" -->
+              <table width="100%" border="0" cellspacing="0" cellpadding="0" id="menu">
+  <tr>
+    <td><img src="../images/index/linha05.gif" width="180" height="1" /></td>
+  </tr>
+  <tr>
+    <td><table width="180" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="1" valign="top"><img src="../images/index/linha01.jpg" width="1" height="74" /></td>
+        <td width="176" rowspan="2" valign="top"><table width="142" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><img src="../images/inv.gif" width="25" height="25" /></td>
+          </tr>
+          <tr>
+            <td width="142">&nbsp;</td>
+          </tr>
+          <!--<tr>
+            <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td valign="top"><img src="images/index/seta_laranja.gif" width="12" height="7" vspace="3" /></td>
+                <td><a href="imprensa_jornal.asp">Expresso EMTU </a></td>
+              </tr>
+            </table>              </td>
+          </tr>
+          <tr>
+            <td><img src="images/interna/linha_pontilhada.gif" width="142" height="5" vspace="4" /></td>
+          </tr>-->
+          <tr>
+            <td><img src="../images/index/seta_laranja.gif" width="12" height="7" /><a href="http://200.238.84.28/site/consulta/itinerarios.asp">Itiner&aacute;rios  </a></td>
+          </tr>
+          <tr>
+            <td><img src="../images/interna/linha_pontilhada.gif" width="142" height="5" vspace="4" /></td>
+          </tr>
+          <tr>
+            <td><img src="../images/index/seta_laranja.gif" width="12" height="7" /><a href="http://200.238.84.28/site/consulta/itinerarios_linhas_empresas.asp">Linhas x Empresas    </a></td>
+          </tr>
+          <tr>
+            <td><img src="../images/interna/linha_pontilhada.gif" width="142" height="5" vspace="4" /></td>
+          </tr>
+          <tr>
+            <td><img src="../images/index/seta_laranja.gif" width="12" height="7" /><a href="http://200.238.84.28/site/consulta/itinerarios_tarifas.asp">Tarifas </a></td>
+          </tr>
+          <tr>
+            <td><img src="../images/interna/linha_pontilhada.gif" width="142" height="5" vspace="4" /></td>
+          </tr>
+          <tr>
+            <td><img src="../images/index/seta_laranja.gif" width="12" height="7" /><a href="http://200.238.84.28/site/consulta/itinerarios_linhas_logradouro.asp">Logradouro x Linha  </a></td>
+          </tr>
+		  </tr>
+          <tr>
+            <td><img src="../images/interna/linha_pontilhada.gif" width="142" height="5" vspace="4" /></td>
+          </tr>
+          <tr>
+            <td><img src="../images/index/seta_laranja.gif" width="12" height="7" /><a href="http://200.238.84.28/site/consulta/quadro_horarios.asp">Horários x Linha  </a></td>
+          </tr>
+
+		  <tr>
+            <td><img src="../images/interna/linha_pontilhada.gif" width="142" height="5" vspace="4" /></td>
+          </tr>
+          <tr>
+            <td><img src="../images/index/seta_laranja.gif" width="12" height="7" /><a href="http://200.238.84.28/site/consulta/itinerarios_linhas_parada.asp">Linhas x Parada  </a></td>
+          </tr>
+		  <tr>
+            <td><img src="../images/interna/linha_pontilhada.gif" width="142" height="5" vspace="4" /></td>
+          </tr>
+          <tr>
+            <td><img src="../images/index/seta_laranja.gif" width="12" height="7" /><a href="http://200.238.84.28/site/consulta/itinerarios_parada_linhas.asp">Parada x Linhas </a></td>
+          </tr>
+		  <tr>
+            <td><img src="../images/interna/linha_pontilhada.gif" width="142" height="5" vspace="4" /></td>
+          </tr>
+          <tr>
+            <td><img src="../images/index/seta_laranja.gif" width="12" height="7" /><a href="http://200.238.84.28/site/consulta/itinerarios_paradas_logradouro.asp">Parada x Logradouro  </a></td>
+          </tr>
+<!-- 		  <tr>
+            <td><img src="../images/interna/linha_pontilhada.gif" width="142" height="5" vspace="4" /></td>
+          </tr>
+          <tr>
+            <td><img src="../images/index/seta_laranja.gif" width="12" height="7" /><a href="http://200.238.84.28/site/consulta/itinerarios_paradas_tipo.asp">Paradas x Tipo  </a></td>
+          </tr> -->
+<!-- 		  <tr>
+            <td><img src="../images/interna/linha_pontilhada.gif" width="142" height="5" vspace="4" /></td>
+          </tr>
+          <tr>
+            <td nowrap><img src="../images/index/seta_laranja.gif" width="12" height="7" /><a href="http://200.238.84.28/site/consulta/itinerarios_linhas_trecho_logradouro.asp">Linhas x Trecho de Logradouro  </a></td>
+          </tr> -->
+		  <tr>
+            <td><img src="../images/interna/linha_pontilhada.gif" width="142" height="5" vspace="4" /></td>
+          </tr>
+          <tr>
+            <td nowrap><img src="../images/index/seta_laranja.gif" width="12" height="7" /><a href="http://200.238.84.28/site/consulta/itinerarios_linhas_ponto_referencia.asp">Linhas x Ponto de Referência  </a></td>
+          </tr>
+		  <tr>
+            <td><img src="../images/interna/linha_pontilhada.gif" width="142" height="5" vspace="4" /></td>
+          </tr>
+          <tr>
+            <td nowrap><img src="../images/index/seta_laranja.gif" width="12" height="7" /><a href="http://200.238.84.28/site/consulta/itinerarios_numero_parada.asp">Nº Parada  </a></td>
+          </tr>
+
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td><img src="../images/inv.gif" width="25" height="25" /></td>
+          </tr>
+        </table></td>
+        <td width="1" valign="top"><img src="../images/index/linha02.jpg" width="1" height="74" /></td>
+      </tr>
+      <tr>
+        <td valign="bottom"><img src="../images/index/linha03.jpg" width="1" height="74" /></td>
+        <td valign="bottom"><img src="../images/index/linha04.jpg" width="1" height="74" /></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><img src="../images/index/linha05.gif" width="180" height="1" /></td>
+  </tr>
+</table>
+
+<!-- InstanceEndEditable --></td>
+            <td>&nbsp;</td>
+            <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><!-- InstanceBeginEditable name="titulo" --><img src="../images/interna/titulo/itinerarios.gif" width="506" height="25" /><!-- InstanceEndEditable --></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td><!-- InstanceBeginEditable name="conteudo" -->
+                  <table width="470" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="506">                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+					  
+<!-- Creation date: 30/4/2004 -->
+
+
+<script language="javascript" src="inhalt.js"></script>
+<script language="Javascript">
+var wFlag = true;
+
+function impri(){
+  window.open('http://200.238.84.28/site/consulta/Template_Impressao.asp','Janela','height = 530, width = 481,scrollbars = yes');
+}
+function carregaItinerario(){
+  var selAux = document.form1.SelLinhas;
+  var iCodigoAux = document.form1.CodigoLinha.value;
+  var i = 1;
+  var achei = false;
+  var posicao = 0;
+  while ((i < selAux.length) && (achei == false)) {
+   cod = selAux.options[i].value;
+   if (Math.round(iCodigoAux) == Math.round(cod)) {
+    posicao = i;
+    achei = true;
+    }
+   i++;
+  }
+selAux.options[posicao].selected = true;
+
+wFlag = false;
+carreganomeitinerario()
+wFlag = true;
+}
+
+var arrayitinerario = new Array(3);
+  var tamanho = 496;
+  arrayitinerario[0] = new Array(tamanho);
+  arrayitinerario[1] = new Array(tamanho);
+  arrayitinerario[2] = new Array(tamanho);
+arrayitinerario[0][0] = '105';arrayitinerario[1][0] = '34';arrayitinerario[2][0] = 'Principal';arrayitinerario[0][1] = '275';arrayitinerario[1][1] = '121';arrayitinerario[2][1] = 'Principal';arrayitinerario[0][2] = '300';arrayitinerario[1][2] = '122';arrayitinerario[2][2] = 'Principal';arrayitinerario[0][3] = '404';arrayitinerario[1][3] = '157';arrayitinerario[2][3] = 'Principal';arrayitinerario[0][4] = '408';arrayitinerario[1][4] = '160';arrayitinerario[2][4] = 'Principal';arrayitinerario[0][5] = '444';arrayitinerario[1][5] = '189';arrayitinerario[2][5] = 'Principal';arrayitinerario[0][6] = '600';arrayitinerario[1][6] = '241';arrayitinerario[2][6] = 'Principal';arrayitinerario[0][7] = '641';arrayitinerario[1][7] = '259';arrayitinerario[2][7] = 'Principal';arrayitinerario[0][8] = '660';arrayitinerario[1][8] = '265';arrayitinerario[2][8] = 'Principal';arrayitinerario[0][9] = '860';arrayitinerario[1][9] = '318';arrayitinerario[2][9] = 'Principal';arrayitinerario[0][10] = '2';arrayitinerario[1][10] = '712';arrayitinerario[2][10] = 'Principal';arrayitinerario[0][11] = '0';arrayitinerario[1][11] = '1561';arrayitinerario[2][11] = 'ImbiribeiraBoaviagem';arrayitinerario[0][12] = '966';arrayitinerario[1][12] = '1907';arrayitinerario[2][12] = 'Principal';arrayitinerario[0][13] = '1';arrayitinerario[1][13] = '3403';arrayitinerario[2][13] = 'Principal';arrayitinerario[0][14] = '233';arrayitinerario[1][14] = '3629';arrayitinerario[2][14] = 'Principal';arrayitinerario[0][15] = '254';arrayitinerario[1][15] = '3691';arrayitinerario[2][15] = 'Principal';arrayitinerario[0][16] = '250';arrayitinerario[1][16] = '3821';arrayitinerario[2][16] = 'Principal';arrayitinerario[0][17] = '251';arrayitinerario[1][17] = '3822';arrayitinerario[2][17] = 'Principal';arrayitinerario[0][18] = '717';arrayitinerario[1][18] = '4109';arrayitinerario[2][18] = 'Principal';arrayitinerario[0][19] = '929';arrayitinerario[1][19] = '4571';arrayitinerario[2][19] = 'Principal';arrayitinerario[0][20] = '980';arrayitinerario[1][20] = '4787';arrayitinerario[2][20] = 'Principal';arrayitinerario[0][21] = '145';arrayitinerario[1][21] = '4901';arrayitinerario[2][21] = 'Principal';arrayitinerario[0][22] = '258';arrayitinerario[1][22] = '4999';arrayitinerario[2][22] = 'Principal';arrayitinerario[0][23] = '140';arrayitinerario[1][23] = '5008';arrayitinerario[2][23] = 'ShoppingCenterRecife';arrayitinerario[0][24] = '209';arrayitinerario[1][24] = '5244';arrayitinerario[2][24] = 'Principal';arrayitinerario[0][25] = '146';arrayitinerario[1][25] = '5276';arrayitinerario[2][25] = 'Principal';arrayitinerario[0][26] = '203';arrayitinerario[1][26] = '5371';arrayitinerario[2][26] = 'Principal';arrayitinerario[0][27] = '206';arrayitinerario[1][27] = '5373';arrayitinerario[2][27] = 'Principal';arrayitinerario[0][28] = '216';arrayitinerario[1][28] = '5375';arrayitinerario[2][28] = 'Principal';arrayitinerario[0][29] = '108';arrayitinerario[1][29] = '5380';arrayitinerario[2][29] = 'Principal';arrayitinerario[0][30] = '632';arrayitinerario[1][30] = '5598';arrayitinerario[2][30] = 'Principal';arrayitinerario[0][31] = '724';arrayitinerario[1][31] = '5649';arrayitinerario[2][31] = 'NaoAtendePCR';arrayitinerario[0][32] = '36';arrayitinerario[1][32] = '5673';arrayitinerario[2][32] = 'Principal';arrayitinerario[0][33] = '189';arrayitinerario[1][33] = '5709';arrayitinerario[2][33] = 'Principal';arrayitinerario[0][34] = '517';arrayitinerario[1][34] = '5725';arrayitinerario[2][34] = 'Principal';arrayitinerario[0][35] = '996';arrayitinerario[1][35] = '5760';arrayitinerario[2][35] = 'Principal';arrayitinerario[0][36] = '611';arrayitinerario[1][36] = '5767';arrayitinerario[2][36] = 'Principal';arrayitinerario[0][37] = '843';arrayitinerario[1][37] = '5852';arrayitinerario[2][37] = 'Principal';arrayitinerario[0][38] = '255';arrayitinerario[1][38] = '5868';arrayitinerario[2][38] = 'Principal';arrayitinerario[0][39] = '261';arrayitinerario[1][39] = '5899';arrayitinerario[2][39] = 'Principal';arrayitinerario[0][40] = '902';arrayitinerario[1][40] = '6107';arrayitinerario[2][40] = 'Principal';arrayitinerario[0][41] = '172';arrayitinerario[1][41] = '6175';arrayitinerario[2][41] = 'Principal';arrayitinerario[0][42] = '333';arrayitinerario[1][42] = '6191';arrayitinerario[2][42] = 'Principal';arrayitinerario[0][43] = '341';arrayitinerario[1][43] = '6192';arrayitinerario[2][43] = 'Principal';arrayitinerario[0][44] = '427';arrayitinerario[1][44] = '6205';arrayitinerario[2][44] = 'Principal';arrayitinerario[0][45] = '435';arrayitinerario[1][45] = '6207';arrayitinerario[2][45] = 'Principal';arrayitinerario[0][46] = '626';arrayitinerario[1][46] = '6222';arrayitinerario[2][46] = 'Principal';arrayitinerario[0][47] = '643';arrayitinerario[1][47] = '6225';arrayitinerario[2][47] = 'Principal';arrayitinerario[0][48] = '242';arrayitinerario[1][48] = '6267';arrayitinerario[2][48] = 'Principal';arrayitinerario[0][49] = '242';arrayitinerario[1][49] = '6269';arrayitinerario[2][49] = 'PCRecife';arrayitinerario[0][50] = '812';arrayitinerario[1][50] = '6304';arrayitinerario[2][50] = 'Principal';arrayitinerario[0][51] = '220';arrayitinerario[1][51] = '6314';arrayitinerario[2][51] = 'Principal';arrayitinerario[0][52] = '851';arrayitinerario[1][52] = '6320';arrayitinerario[2][52] = 'Principal';arrayitinerario[0][53] = '621';arrayitinerario[1][53] = '6328';arrayitinerario[2][53] = 'Principal';arrayitinerario[0][54] = '256';arrayitinerario[1][54] = '6338';arrayitinerario[2][54] = 'Principal';arrayitinerario[0][55] = '149';arrayitinerario[1][55] = '6339';arrayitinerario[2][55] = 'Principal';arrayitinerario[0][56] = '106';arrayitinerario[1][56] = '6342';arrayitinerario[2][56] = 'Principal';arrayitinerario[0][57] = '631';arrayitinerario[1][57] = '6348';arrayitinerario[2][57] = 'NaoAtendePCR';arrayitinerario[0][58] = '990';arrayitinerario[1][58] = '6359';arrayitinerario[2][58] = 'Principal';arrayitinerario[0][59] = '126';arrayitinerario[1][59] = '6401';arrayitinerario[2][59] = 'Principal';arrayitinerario[0][60] = '612';arrayitinerario[1][60] = '6543';arrayitinerario[2][60] = 'ViaPCR';arrayitinerario[0][61] = '642';arrayitinerario[1][61] = '6545';arrayitinerario[2][61] = 'PCRecife';arrayitinerario[0][62] = '613';arrayitinerario[1][62] = '6550';arrayitinerario[2][62] = 'Principal';arrayitinerario[0][63] = '244';arrayitinerario[1][63] = '6556';arrayitinerario[2][63] = 'Principal';arrayitinerario[0][64] = '841';arrayitinerario[1][64] = '6574';arrayitinerario[2][64] = 'Principal';arrayitinerario[0][65] = '917';arrayitinerario[1][65] = '6580';arrayitinerario[2][65] = 'Principal';arrayitinerario[0][66] = '140';arrayitinerario[1][66] = '6585';arrayitinerario[2][66] = 'NaoAtendeShopping';arrayitinerario[0][67] = '992';arrayitinerario[1][67] = '6621';arrayitinerario[2][67] = 'Principal';arrayitinerario[0][68] = '119';arrayitinerario[1][68] = '6641';arrayitinerario[2][68] = 'Principal';arrayitinerario[0][69] = '129';arrayitinerario[1][69] = '6644';arrayitinerario[2][69] = 'Principal';arrayitinerario[0][70] = '159';arrayitinerario[1][70] = '6652';arrayitinerario[2][70] = 'Principal';arrayitinerario[0][71] = '437';arrayitinerario[1][71] = '6682';arrayitinerario[2][71] = 'Principal';arrayitinerario[0][72] = '827';arrayitinerario[1][72] = '6690';arrayitinerario[2][72] = 'Principal';arrayitinerario[0][73] = '711';arrayitinerario[1][73] = '6715';arrayitinerario[2][73] = 'Principal';arrayitinerario[0][74] = '712';arrayitinerario[1][74] = '6716';arrayitinerario[2][74] = 'PCRecife';arrayitinerario[0][75] = '680';arrayitinerario[1][75] = '6748';arrayitinerario[2][75] = 'Principal';arrayitinerario[0][76] = '746';arrayitinerario[1][76] = '6752';arrayitinerario[2][76] = 'PCRecife';arrayitinerario[0][77] = '157';arrayitinerario[1][77] = '6818';arrayitinerario[2][77] = 'Principal';arrayitinerario[0][78] = '415';arrayitinerario[1][78] = '6822';arrayitinerario[2][78] = 'Principal';arrayitinerario[0][79] = '416';arrayitinerario[1][79] = '6823';arrayitinerario[2][79] = 'Principal';arrayitinerario[0][80] = '713';arrayitinerario[1][80] = '6834';arrayitinerario[2][80] = 'ViaChadeAlegria';arrayitinerario[0][81] = '713';arrayitinerario[1][81] = '6835';arrayitinerario[2][81] = 'Principal';arrayitinerario[0][82] = '713';arrayitinerario[1][82] = '6836';arrayitinerario[2][82] = 'PCRecife';arrayitinerario[0][83] = '723';arrayitinerario[1][83] = '6843';arrayitinerario[2][83] = 'Principal';arrayitinerario[0][84] = '724';arrayitinerario[1][84] = '6844';arrayitinerario[2][84] = 'Principal';arrayitinerario[0][85] = '741';arrayitinerario[1][85] = '6846';arrayitinerario[2][85] = 'Principal';arrayitinerario[0][86] = '741';arrayitinerario[1][86] = '6847';arrayitinerario[2][86] = 'PrefeituraPombal';arrayitinerario[0][87] = '743';arrayitinerario[1][87] = '6848';arrayitinerario[2][87] = 'Principal';arrayitinerario[0][88] = '743';arrayitinerario[1][88] = '6849';arrayitinerario[2][88] = 'PCRecife';arrayitinerario[0][89] = '746';arrayitinerario[1][89] = '6862';arrayitinerario[2][89] = 'Principal';arrayitinerario[0][90] = '712';arrayitinerario[1][90] = '6864';arrayitinerario[2][90] = 'Principal';arrayitinerario[0][91] = '642';arrayitinerario[1][91] = '6930';arrayitinerario[2][91] = 'Principal';arrayitinerario[0][92] = '612';arrayitinerario[1][92] = '6931';arrayitinerario[2][92] = 'Principal';arrayitinerario[0][93] = '111';arrayitinerario[1][93] = '6938';arrayitinerario[2][93] = 'Principal';arrayitinerario[0][94] = '208';arrayitinerario[1][94] = '6995';arrayitinerario[2][94] = 'Principal';arrayitinerario[0][95] = '63';arrayitinerario[1][95] = '7043';arrayitinerario[2][95] = 'Principal';arrayitinerario[0][96] = '944';arrayitinerario[1][96] = '7052';arrayitinerario[2][96] = 'Principal';arrayitinerario[0][97] = '952';arrayitinerario[1][97] = '7054';arrayitinerario[2][97] = 'ViaManoelQuirinoTavares';arrayitinerario[0][98] = '952';arrayitinerario[1][98] = '7055';arrayitinerario[2][98] = 'ViaNelsonFerreira';arrayitinerario[0][99] = '116';arrayitinerario[1][99] = '7140';arrayitinerario[2][99] = 'Principal';arrayitinerario[0][100] = '821';arrayitinerario[1][100] = '7141';arrayitinerario[2][100] = 'Principal';arrayitinerario[0][101] = '417';arrayitinerario[1][101] = '7193';arrayitinerario[2][101] = 'Principal';arrayitinerario[0][102] = '422';arrayitinerario[1][102] = '7195';arrayitinerario[2][102] = 'Principal';arrayitinerario[0][103] = '423';arrayitinerario[1][103] = '7196';arrayitinerario[2][103] = 'Principal';arrayitinerario[0][104] = '183';arrayitinerario[1][104] = '7265';arrayitinerario[2][104] = 'Principal';arrayitinerario[0][105] = '520';arrayitinerario[1][105] = '7278';arrayitinerario[2][105] = 'Principal';arrayitinerario[0][106] = '304';arrayitinerario[1][106] = '7336';arrayitinerario[2][106] = 'Principal';arrayitinerario[0][107] = '190';arrayitinerario[1][107] = '7362';arrayitinerario[2][107] = 'Principal';arrayitinerario[0][108] = '135';arrayitinerario[1][108] = '7367';arrayitinerario[2][108] = 'Principal';arrayitinerario[0][109] = '143';arrayitinerario[1][109] = '7372';arrayitinerario[2][109] = 'Principal';arrayitinerario[0][110] = '135';arrayitinerario[1][110] = '7377';arrayitinerario[2][110] = 'ViaBetel';arrayitinerario[0][111] = '204';arrayitinerario[1][111] = '7390';arrayitinerario[2][111] = 'Principal';arrayitinerario[0][112] = '38';arrayitinerario[1][112] = '7392';arrayitinerario[2][112] = 'Principal';arrayitinerario[0][113] = '245';arrayitinerario[1][113] = '7394';arrayitinerario[2][113] = 'Principal';arrayitinerario[0][114] = '904';arrayitinerario[1][114] = '7413';arrayitinerario[2][114] = 'Principal';arrayitinerario[0][115] = '969';arrayitinerario[1][115] = '7416';arrayitinerario[2][115] = 'Principal';arrayitinerario[0][116] = '844';arrayitinerario[1][116] = '7419';arrayitinerario[2][116] = 'Principal';arrayitinerario[0][117] = '870';arrayitinerario[1][117] = '7434';arrayitinerario[2][117] = 'Principal';arrayitinerario[0][118] = '160';arrayitinerario[1][118] = '7467';arrayitinerario[2][118] = 'Principal';arrayitinerario[0][119] = '998';arrayitinerario[1][119] = '7478';arrayitinerario[2][119] = 'Principal';arrayitinerario[0][120] = '71';arrayitinerario[1][120] = '7485';arrayitinerario[2][120] = 'PCRecife';arrayitinerario[0][121] = '988';arrayitinerario[1][121] = '7512';arrayitinerario[2][121] = 'Principal';arrayitinerario[0][122] = '989';arrayitinerario[1][122] = '7516';arrayitinerario[2][122] = 'Principal';arrayitinerario[0][123] = '949';arrayitinerario[1][123] = '7517';arrayitinerario[2][123] = 'ViaCaetesIIIParatibe';arrayitinerario[0][124] = '949';arrayitinerario[1][124] = '7518';arrayitinerario[2][124] = 'ViaParatibeCaetesIII';arrayitinerario[0][125] = '933';arrayitinerario[1][125] = '7520';arrayitinerario[2][125] = 'Principal';arrayitinerario[0][126] = '901';arrayitinerario[1][126] = '7573';arrayitinerario[2][126] = 'ViaAvNiloCoelhoTarde';arrayitinerario[0][127] = '901';arrayitinerario[1][127] = '7574';arrayitinerario[2][127] = 'ViaAvNiloCoelhoManha';arrayitinerario[0][128] = '181';arrayitinerario[1][128] = '7604';arrayitinerario[2][128] = 'Principal';arrayitinerario[0][129] = '139';arrayitinerario[1][129] = '7605';arrayitinerario[2][129] = 'ShoppingCenterRecife';arrayitinerario[0][130] = '184';arrayitinerario[1][130] = '7606';arrayitinerario[2][130] = 'Principal';arrayitinerario[0][131] = '197';arrayitinerario[1][131] = '7612';arrayitinerario[2][131] = 'Principal';arrayitinerario[0][132] = '949';arrayitinerario[1][132] = '7627';arrayitinerario[2][132] = 'Principal';arrayitinerario[0][133] = '457';arrayitinerario[1][133] = '7640';arrayitinerario[2][133] = 'Principal';arrayitinerario[0][134] = '418';arrayitinerario[1][134] = '7646';arrayitinerario[2][134] = 'Principal';arrayitinerario[0][135] = '402';arrayitinerario[1][135] = '7647';arrayitinerario[2][135] = 'Principal';arrayitinerario[0][136] = '601';arrayitinerario[1][136] = '7732';arrayitinerario[2][136] = 'Principal';arrayitinerario[0][137] = '901';arrayitinerario[1][137] = '7733';arrayitinerario[2][137] = 'Principal';arrayitinerario[0][138] = '912';arrayitinerario[1][138] = '7736';arrayitinerario[2][138] = 'Principal';arrayitinerario[0][139] = '918';arrayitinerario[1][139] = '7740';arrayitinerario[2][139] = 'Principal';arrayitinerario[0][140] = '923';arrayitinerario[1][140] = '7741';arrayitinerario[2][140] = 'Principal';arrayitinerario[0][141] = '931';arrayitinerario[1][141] = '7742';arrayitinerario[2][141] = 'Principal';arrayitinerario[0][142] = '932';arrayitinerario[1][142] = '7743';arrayitinerario[2][142] = 'Principal';arrayitinerario[0][143] = '934';arrayitinerario[1][143] = '7744';arrayitinerario[2][143] = 'Principal';arrayitinerario[0][144] = '935';arrayitinerario[1][144] = '7745';arrayitinerario[2][144] = 'Principal';arrayitinerario[0][145] = '937';arrayitinerario[1][145] = '7746';arrayitinerario[2][145] = 'Principal';arrayitinerario[0][146] = '941';arrayitinerario[1][146] = '7747';arrayitinerario[2][146] = 'Principal';arrayitinerario[0][147] = '943';arrayitinerario[1][147] = '7748';arrayitinerario[2][147] = 'Principal';arrayitinerario[0][148] = '968';arrayitinerario[1][148] = '7751';arrayitinerario[2][148] = 'Principal';arrayitinerario[0][149] = '968';arrayitinerario[1][149] = '7752';arrayitinerario[2][149] = 'ForteOrange';arrayitinerario[0][150] = '984';arrayitinerario[1][150] = '7754';arrayitinerario[2][150] = 'Principal';arrayitinerario[0][151] = '166';arrayitinerario[1][151] = '7758';arrayitinerario[2][151] = 'Principal';arrayitinerario[0][152] = '714';arrayitinerario[1][152] = '7771';arrayitinerario[2][152] = 'Principal';arrayitinerario[0][153] = '722';arrayitinerario[1][153] = '7772';arrayitinerario[2][153] = 'Principal';arrayitinerario[0][154] = '742';arrayitinerario[1][154] = '7773';arrayitinerario[2][154] = 'Principal';arrayitinerario[0][155] = '800';arrayitinerario[1][155] = '7774';arrayitinerario[2][155] = 'Principal';arrayitinerario[0][156] = '200';arrayitinerario[1][156] = '7775';arrayitinerario[2][156] = 'Principal';arrayitinerario[0][157] = '194';arrayitinerario[1][157] = '7841';arrayitinerario[2][157] = 'Principal';arrayitinerario[0][158] = '478';arrayitinerario[1][158] = '7858';arrayitinerario[2][158] = 'Principal';arrayitinerario[0][159] = '903';arrayitinerario[1][159] = '7890';arrayitinerario[2][159] = 'Principal';arrayitinerario[0][160] = '475';arrayitinerario[1][160] = '7891';arrayitinerario[2][160] = 'Principal';arrayitinerario[0][161] = '432';arrayitinerario[1][161] = '7893';arrayitinerario[2][161] = 'Principal';arrayitinerario[0][162] = '432';arrayitinerario[1][162] = '7894';arrayitinerario[2][162] = 'PCRecife';arrayitinerario[0][163] = '433';arrayitinerario[1][163] = '7895';arrayitinerario[2][163] = 'Principal';arrayitinerario[0][164] = '433';arrayitinerario[1][164] = '7896';arrayitinerario[2][164] = 'NaoAtendePCR';arrayitinerario[0][165] = '994';arrayitinerario[1][165] = '7934';arrayitinerario[2][165] = 'Principal';arrayitinerario[0][166] = '994';arrayitinerario[1][166] = '7935';arrayitinerario[2][166] = 'PCRecife';arrayitinerario[0][167] = '922';arrayitinerario[1][167] = '7939';arrayitinerario[2][167] = 'Principal';arrayitinerario[0][168] = '945';arrayitinerario[1][168] = '7940';arrayitinerario[2][168] = 'Principal';arrayitinerario[0][169] = '974';arrayitinerario[1][169] = '7941';arrayitinerario[2][169] = 'Principal';arrayitinerario[0][170] = '953';arrayitinerario[1][170] = '7943';arrayitinerario[2][170] = 'Principal';arrayitinerario[0][171] = '810';arrayitinerario[1][171] = '7960';arrayitinerario[2][171] = 'Principal';arrayitinerario[0][172] = '885';arrayitinerario[1][172] = '7963';arrayitinerario[2][172] = 'Principal';arrayitinerario[0][173] = '332';arrayitinerario[1][173] = '7997';arrayitinerario[2][173] = 'Principal';arrayitinerario[0][174] = '522';arrayitinerario[1][174] = '8012';arrayitinerario[2][174] = 'Principal';arrayitinerario[0][175] = '522';arrayitinerario[1][175] = '8013';arrayitinerario[2][175] = 'PCRecife';arrayitinerario[0][176] = '731';arrayitinerario[1][176] = '8027';arrayitinerario[2][176] = 'Principal';arrayitinerario[0][177] = '521';arrayitinerario[1][177] = '8056';arrayitinerario[2][177] = 'Principal';arrayitinerario[0][178] = '721';arrayitinerario[1][178] = '8063';arrayitinerario[2][178] = 'Principal';arrayitinerario[0][179] = '726';arrayitinerario[1][179] = '8064';arrayitinerario[2][179] = 'Principal';arrayitinerario[0][180] = '811';arrayitinerario[1][180] = '8065';arrayitinerario[2][180] = 'Principal';arrayitinerario[0][181] = '274';arrayitinerario[1][181] = '8070';arrayitinerario[2][181] = 'Principal';arrayitinerario[0][182] = '445';arrayitinerario[1][182] = '8073';arrayitinerario[2][182] = 'Principal';arrayitinerario[0][183] = '446';arrayitinerario[1][183] = '8074';arrayitinerario[2][183] = 'Principal';arrayitinerario[0][184] = '450';arrayitinerario[1][184] = '8075';arrayitinerario[2][184] = 'Principal';arrayitinerario[0][185] = '459';arrayitinerario[1][185] = '8076';arrayitinerario[2][185] = 'UR07';arrayitinerario[0][186] = '459';arrayitinerario[1][186] = '8077';arrayitinerario[2][186] = 'UR07PCRecife';arrayitinerario[0][187] = '466';arrayitinerario[1][187] = '8081';arrayitinerario[2][187] = 'Principal';arrayitinerario[0][188] = '473';arrayitinerario[1][188] = '8083';arrayitinerario[2][188] = 'Principal';arrayitinerario[0][189] = '476';arrayitinerario[1][189] = '8084';arrayitinerario[2][189] = 'Principal';arrayitinerario[0][190] = '476';arrayitinerario[1][190] = '8085';arrayitinerario[2][190] = 'AtendimentoaViana';arrayitinerario[0][191] = '477';arrayitinerario[1][191] = '8086';arrayitinerario[2][191] = 'Principal';arrayitinerario[0][192] = '480';arrayitinerario[1][192] = '8087';arrayitinerario[2][192] = 'Principal';arrayitinerario[0][193] = '483';arrayitinerario[1][193] = '8090';arrayitinerario[2][193] = 'Principal';arrayitinerario[0][194] = '487';arrayitinerario[1][194] = '8092';arrayitinerario[2][194] = 'Principal';arrayitinerario[0][195] = '488';arrayitinerario[1][195] = '8093';arrayitinerario[2][195] = 'Principal';arrayitinerario[0][196] = '488';arrayitinerario[1][196] = '8094';arrayitinerario[2][196] = 'ViaEstradadeAldeia';arrayitinerario[0][197] = '489';arrayitinerario[1][197] = '8095';arrayitinerario[2][197] = 'Principal';arrayitinerario[0][198] = '410';arrayitinerario[1][198] = '8100';arrayitinerario[2][198] = 'Principal';arrayitinerario[0][199] = '419';arrayitinerario[1][199] = '8101';arrayitinerario[2][199] = 'Principal';arrayitinerario[0][200] = '420';arrayitinerario[1][200] = '8102';arrayitinerario[2][200] = 'Principal';arrayitinerario[0][201] = '442';arrayitinerario[1][201] = '8103';arrayitinerario[2][201] = 'Principal';arrayitinerario[0][202] = '158';arrayitinerario[1][202] = '8108';arrayitinerario[2][202] = 'Principal';arrayitinerario[0][203] = '717';arrayitinerario[1][203] = '8131';arrayitinerario[2][203] = 'AtendimentoRuaMamedeCoelho';arrayitinerario[0][204] = '103';arrayitinerario[1][204] = '8152';arrayitinerario[2][204] = 'Principal';arrayitinerario[0][205] = '460';arrayitinerario[1][205] = '8155';arrayitinerario[2][205] = 'Principal';arrayitinerario[0][206] = '119';arrayitinerario[1][206] = '8157';arrayitinerario[2][206] = 'AtendimentoGarapu';arrayitinerario[0][207] = '481';arrayitinerario[1][207] = '8175';arrayitinerario[2][207] = 'Principal';arrayitinerario[0][208] = '982';arrayitinerario[1][208] = '8186';arrayitinerario[2][208] = 'Principal';arrayitinerario[0][209] = '463';arrayitinerario[1][209] = '8192';arrayitinerario[2][209] = 'Principal';arrayitinerario[0][210] = '467';arrayitinerario[1][210] = '8193';arrayitinerario[2][210] = 'Principal';arrayitinerario[0][211] = '486';arrayitinerario[1][211] = '8194';arrayitinerario[2][211] = 'Principal';arrayitinerario[0][212] = '492';arrayitinerario[1][212] = '8195';arrayitinerario[2][212] = 'Principal';arrayitinerario[0][213] = '491';arrayitinerario[1][213] = '8196';arrayitinerario[2][213] = 'Principal';arrayitinerario[0][214] = '164';arrayitinerario[1][214] = '8201';arrayitinerario[2][214] = 'Principal';arrayitinerario[0][215] = '906';arrayitinerario[1][215] = '8210';arrayitinerario[2][215] = 'Principal';arrayitinerario[0][216] = '128';arrayitinerario[1][216] = '8218';arrayitinerario[2][216] = 'Principal';arrayitinerario[0][217] = '425';arrayitinerario[1][217] = '8223';arrayitinerario[2][217] = 'ViaCaxanga';arrayitinerario[0][218] = '352';arrayitinerario[1][218] = '8226';arrayitinerario[2][218] = 'Principal';arrayitinerario[0][219] = '362';arrayitinerario[1][219] = '8228';arrayitinerario[2][219] = 'Principal';arrayitinerario[0][220] = '363';arrayitinerario[1][220] = '8230';arrayitinerario[2][220] = 'CuradoTIP';arrayitinerario[0][221] = '421';arrayitinerario[1][221] = '8231';arrayitinerario[2][221] = 'Principal';arrayitinerario[0][222] = '431';arrayitinerario[1][222] = '8232';arrayitinerario[2][222] = 'Principal';arrayitinerario[0][223] = '469';arrayitinerario[1][223] = '8235';arrayitinerario[2][223] = 'Principal';arrayitinerario[0][224] = '411';arrayitinerario[1][224] = '8237';arrayitinerario[2][224] = 'NaoAtendePCR';arrayitinerario[0][225] = '411';arrayitinerario[1][225] = '8238';arrayitinerario[2][225] = 'Principal';arrayitinerario[0][226] = '154';arrayitinerario[1][226] = '8242';arrayitinerario[2][226] = 'Principal';arrayitinerario[0][227] = '125';arrayitinerario[1][227] = '8246';arrayitinerario[2][227] = 'Principal';arrayitinerario[0][228] = '136';arrayitinerario[1][228] = '8248';arrayitinerario[2][228] = 'Principal';arrayitinerario[0][229] = '136';arrayitinerario[1][229] = '8249';arrayitinerario[2][229] = 'PCRecife';arrayitinerario[0][230] = '222';arrayitinerario[1][230] = '8256';arrayitinerario[2][230] = 'Principal';arrayitinerario[0][231] = '252';arrayitinerario[1][231] = '8260';arrayitinerario[2][231] = 'Principal';arrayitinerario[0][232] = '313';arrayitinerario[1][232] = '8264';arrayitinerario[2][232] = 'Principal';arrayitinerario[0][233] = '424';arrayitinerario[1][233] = '8270';arrayitinerario[2][233] = 'Principal';arrayitinerario[0][234] = '40';arrayitinerario[1][234] = '8279';arrayitinerario[2][234] = 'Principal';arrayitinerario[0][235] = '72';arrayitinerario[1][235] = '8284';arrayitinerario[2][235] = 'Principal';arrayitinerario[0][236] = '910';arrayitinerario[1][236] = '8322';arrayitinerario[2][236] = 'BarradeJangada';arrayitinerario[0][237] = '830';arrayitinerario[1][237] = '8347';arrayitinerario[2][237] = 'CorregodoAbacaxi';arrayitinerario[0][238] = '830';arrayitinerario[1][238] = '8348';arrayitinerario[2][238] = 'Principal';arrayitinerario[0][239] = '825';arrayitinerario[1][239] = '8357';arrayitinerario[2][239] = 'Principal';arrayitinerario[0][240] = '760';arrayitinerario[1][240] = '8359';arrayitinerario[2][240] = 'Principal';arrayitinerario[0][241] = '723';arrayitinerario[1][241] = '8360';arrayitinerario[2][241] = 'ViaDerby';arrayitinerario[0][242] = '480';arrayitinerario[1][242] = '8366';arrayitinerario[2][242] = 'SET';arrayitinerario[0][243] = '331';arrayitinerario[1][243] = '8373';arrayitinerario[2][243] = 'PCRecife';arrayitinerario[0][244] = '730';arrayitinerario[1][244] = '8375';arrayitinerario[2][244] = 'Principal';arrayitinerario[0][245] = '207';arrayitinerario[1][245] = '8376';arrayitinerario[2][245] = 'Principal';arrayitinerario[0][246] = '464';arrayitinerario[1][246] = '8388';arrayitinerario[2][246] = 'Principal';arrayitinerario[0][247] = '459';arrayitinerario[1][247] = '8389';arrayitinerario[2][247] = 'CamaragibePCRecife';arrayitinerario[0][248] = '459';arrayitinerario[1][248] = '8390';arrayitinerario[2][248] = 'Camaragibe';arrayitinerario[0][249] = '462';arrayitinerario[1][249] = '8391';arrayitinerario[2][249] = 'Principal';arrayitinerario[0][250] = '948';arrayitinerario[1][250] = '8397';arrayitinerario[2][250] = 'Principal';arrayitinerario[0][251] = '926';arrayitinerario[1][251] = '8401';arrayitinerario[2][251] = 'Principal';arrayitinerario[0][252] = '889';arrayitinerario[1][252] = '8402';arrayitinerario[2][252] = 'Principal';arrayitinerario[0][253] = '893';arrayitinerario[1][253] = '8403';arrayitinerario[2][253] = 'Principal';arrayitinerario[0][254] = '896';arrayitinerario[1][254] = '8405';arrayitinerario[2][254] = 'Principal';arrayitinerario[0][255] = '897';arrayitinerario[1][255] = '8406';arrayitinerario[2][255] = 'Principal';arrayitinerario[0][256] = '890';arrayitinerario[1][256] = '8407';arrayitinerario[2][256] = 'Principal';arrayitinerario[0][257] = '891';arrayitinerario[1][257] = '8408';arrayitinerario[2][257] = 'Principal';arrayitinerario[0][258] = '892';arrayitinerario[1][258] = '8409';arrayitinerario[2][258] = 'Principal';arrayitinerario[0][259] = '894';arrayitinerario[1][259] = '8410';arrayitinerario[2][259] = 'Principal';arrayitinerario[0][260] = '448';arrayitinerario[1][260] = '8412';arrayitinerario[2][260] = 'Principal';arrayitinerario[0][261] = '975';arrayitinerario[1][261] = '8413';arrayitinerario[2][261] = 'Principal';arrayitinerario[0][262] = '425';arrayitinerario[1][262] = '8422';arrayitinerario[2][262] = 'ViaMauriciodeNassau';arrayitinerario[0][263] = '960';arrayitinerario[1][263] = '8450';arrayitinerario[2][263] = 'Principal';arrayitinerario[0][264] = '978';arrayitinerario[1][264] = '8451';arrayitinerario[2][264] = 'Principal';arrayitinerario[0][265] = '981';arrayitinerario[1][265] = '8452';arrayitinerario[2][265] = 'Principal';arrayitinerario[0][266] = '983';arrayitinerario[1][266] = '8453';arrayitinerario[2][266] = 'Principal';arrayitinerario[0][267] = '985';arrayitinerario[1][267] = '8454';arrayitinerario[2][267] = 'Principal';arrayitinerario[0][268] = '987';arrayitinerario[1][268] = '8457';arrayitinerario[2][268] = 'Principal';arrayitinerario[0][269] = '191';arrayitinerario[1][269] = '8461';arrayitinerario[2][269] = 'ViaBoaViagemDerby';arrayitinerario[0][270] = '191';arrayitinerario[1][270] = '8462';arrayitinerario[2][270] = 'ViaBoaViagem';arrayitinerario[0][271] = '191';arrayitinerario[1][271] = '8463';arrayitinerario[2][271] = 'Principal';arrayitinerario[0][272] = '191';arrayitinerario[1][272] = '8464';arrayitinerario[2][272] = 'PrincipalMaracaipe';arrayitinerario[0][273] = '191';arrayitinerario[1][273] = '8465';arrayitinerario[2][273] = 'ViaBoaViagemMaracaipe';arrayitinerario[0][274] = '191';arrayitinerario[1][274] = '8466';arrayitinerario[2][274] = 'ViaBoaViagemMuroAlto';arrayitinerario[0][275] = '196';arrayitinerario[1][275] = '8468';arrayitinerario[2][275] = 'Principal';arrayitinerario[0][276] = '196';arrayitinerario[1][276] = '8469';arrayitinerario[2][276] = 'ViaMaracaipe';arrayitinerario[0][277] = '196';arrayitinerario[1][277] = '8470';arrayitinerario[2][277] = 'ViaMuroAlto';arrayitinerario[0][278] = '195';arrayitinerario[1][278] = '8471';arrayitinerario[2][278] = 'Principal';arrayitinerario[0][279] = '195';arrayitinerario[1][279] = '8472';arrayitinerario[2][279] = 'ViaMuroAlto';arrayitinerario[0][280] = '185';arrayitinerario[1][280] = '8482';arrayitinerario[2][280] = 'Principal';arrayitinerario[0][281] = '414';arrayitinerario[1][281] = '8483';arrayitinerario[2][281] = 'Principal';arrayitinerario[0][282] = '624';arrayitinerario[1][282] = '8485';arrayitinerario[2][282] = 'Principal';arrayitinerario[0][283] = '631';arrayitinerario[1][283] = '8486';arrayitinerario[2][283] = 'Principal';arrayitinerario[0][284] = '414';arrayitinerario[1][284] = '8487';arrayitinerario[2][284] = 'ViaPCR';arrayitinerario[0][285] = '414';arrayitinerario[1][285] = '8488';arrayitinerario[2][285] = 'ViaBeiraRio';arrayitinerario[0][286] = '717';arrayitinerario[1][286] = '8491';arrayitinerario[2][286] = 'PCRecife';arrayitinerario[0][287] = '622';arrayitinerario[1][287] = '8492';arrayitinerario[2][287] = 'Principal';arrayitinerario[0][288] = '700';arrayitinerario[1][288] = '8496';arrayitinerario[2][288] = 'Principal';arrayitinerario[0][289] = '914';arrayitinerario[1][289] = '8497';arrayitinerario[2][289] = 'Principal';arrayitinerario[0][290] = '914';arrayitinerario[1][290] = '8498';arrayitinerario[2][290] = 'ViaTamarineira';arrayitinerario[0][291] = '645';arrayitinerario[1][291] = '8499';arrayitinerario[2][291] = 'Principal';arrayitinerario[0][292] = '780';arrayitinerario[1][292] = '8500';arrayitinerario[2][292] = 'Principal';arrayitinerario[0][293] = '822';arrayitinerario[1][293] = '8501';arrayitinerario[2][293] = 'Principal';arrayitinerario[0][294] = '823';arrayitinerario[1][294] = '8502';arrayitinerario[2][294] = 'Principal';arrayitinerario[0][295] = '824';arrayitinerario[1][295] = '8503';arrayitinerario[2][295] = 'Principal';arrayitinerario[0][296] = '831';arrayitinerario[1][296] = '8504';arrayitinerario[2][296] = 'ViaEstradadeBelem';arrayitinerario[0][297] = '838';arrayitinerario[1][297] = '8505';arrayitinerario[2][297] = 'Principal';arrayitinerario[0][298] = '831';arrayitinerario[1][298] = '8506';arrayitinerario[2][298] = 'ViaCruzCabuga';arrayitinerario[0][299] = '840';arrayitinerario[1][299] = '8508';arrayitinerario[2][299] = 'Principal';arrayitinerario[0][300] = '842';arrayitinerario[1][300] = '8509';arrayitinerario[2][300] = 'Principal';arrayitinerario[0][301] = '847';arrayitinerario[1][301] = '8510';arrayitinerario[2][301] = 'Principal';arrayitinerario[0][302] = '884';arrayitinerario[1][302] = '8511';arrayitinerario[2][302] = 'Principal';arrayitinerario[0][303] = '881';arrayitinerario[1][303] = '8512';arrayitinerario[2][303] = 'Principal';arrayitinerario[0][304] = '883';arrayitinerario[1][304] = '8514';arrayitinerario[2][304] = 'Principal';arrayitinerario[0][305] = '850';arrayitinerario[1][305] = '8515';arrayitinerario[2][305] = 'Principal';arrayitinerario[0][306] = '852';arrayitinerario[1][306] = '8516';arrayitinerario[2][306] = 'Principal';arrayitinerario[0][307] = '852';arrayitinerario[1][307] = '8517';arrayitinerario[2][307] = 'PCRecife';arrayitinerario[0][308] = '861';arrayitinerario[1][308] = '8518';arrayitinerario[2][308] = 'Principal';arrayitinerario[0][309] = '852';arrayitinerario[1][309] = '8519';arrayitinerario[2][309] = 'Cabuga';arrayitinerario[0][310] = '920';arrayitinerario[1][310] = '8521';arrayitinerario[2][310] = 'Principal';arrayitinerario[0][311] = '921';arrayitinerario[1][311] = '8522';arrayitinerario[2][311] = 'Principal';arrayitinerario[0][312] = '604';arrayitinerario[1][312] = '8528';arrayitinerario[2][312] = 'Principal';arrayitinerario[0][313] = '476';arrayitinerario[1][313] = '8529';arrayitinerario[2][313] = 'AtendimentoAltoSantoAntonio';arrayitinerario[0][314] = '895';arrayitinerario[1][314] = '8531';arrayitinerario[2][314] = 'Principal';arrayitinerario[0][315] = '995';arrayitinerario[1][315] = '8532';arrayitinerario[2][315] = 'Principal';arrayitinerario[0][316] = '909';arrayitinerario[1][316] = '8546';arrayitinerario[2][316] = 'Principal';arrayitinerario[0][317] = '913';arrayitinerario[1][317] = '8551';arrayitinerario[2][317] = 'Principal';arrayitinerario[0][318] = '915';arrayitinerario[1][318] = '8552';arrayitinerario[2][318] = 'RuadoSol';arrayitinerario[0][319] = '915';arrayitinerario[1][319] = '8553';arrayitinerario[2][319] = 'PCRecife';arrayitinerario[0][320] = '916';arrayitinerario[1][320] = '8554';arrayitinerario[2][320] = 'ViaArgentina';arrayitinerario[0][321] = '916';arrayitinerario[1][321] = '8555';arrayitinerario[2][321] = 'ViaCohab';arrayitinerario[0][322] = '928';arrayitinerario[1][322] = '8556';arrayitinerario[2][322] = 'Principal';arrayitinerario[0][323] = '936';arrayitinerario[1][323] = '8557';arrayitinerario[2][323] = 'Principal';arrayitinerario[0][324] = '940';arrayitinerario[1][324] = '8558';arrayitinerario[2][324] = 'Principal';arrayitinerario[0][325] = '970';arrayitinerario[1][325] = '8574';arrayitinerario[2][325] = 'Principal';arrayitinerario[0][326] = '882';arrayitinerario[1][326] = '8575';arrayitinerario[2][326] = 'Principal';arrayitinerario[0][327] = '10';arrayitinerario[1][327] = '8577';arrayitinerario[2][327] = 'Principal';arrayitinerario[0][328] = '11';arrayitinerario[1][328] = '8578';arrayitinerario[2][328] = 'Principal';arrayitinerario[0][329] = '13';arrayitinerario[1][329] = '8579';arrayitinerario[2][329] = 'Principal';arrayitinerario[0][330] = '14';arrayitinerario[1][330] = '8580';arrayitinerario[2][330] = 'Principal';arrayitinerario[0][331] = '14';arrayitinerario[1][331] = '8581';arrayitinerario[2][331] = 'ViaPrincipe';arrayitinerario[0][332] = '18';arrayitinerario[1][332] = '8582';arrayitinerario[2][332] = 'Principal';arrayitinerario[0][333] = '18';arrayitinerario[1][333] = '8583';arrayitinerario[2][333] = 'ViaPCR';arrayitinerario[0][334] = '20';arrayitinerario[1][334] = '8584';arrayitinerario[2][334] = 'Principal';arrayitinerario[0][335] = '31';arrayitinerario[1][335] = '8585';arrayitinerario[2][335] = 'Principal';arrayitinerario[0][336] = '32';arrayitinerario[1][336] = '8586';arrayitinerario[2][336] = 'Principal';arrayitinerario[0][337] = '39';arrayitinerario[1][337] = '8587';arrayitinerario[2][337] = 'Principal';arrayitinerario[0][338] = '44';arrayitinerario[1][338] = '8589';arrayitinerario[2][338] = 'Principal';arrayitinerario[0][339] = '50';arrayitinerario[1][339] = '8590';arrayitinerario[2][339] = 'Principal';arrayitinerario[0][340] = '60';arrayitinerario[1][340] = '8591';arrayitinerario[2][340] = 'Principal';arrayitinerario[0][341] = '61';arrayitinerario[1][341] = '8592';arrayitinerario[2][341] = 'Principal';arrayitinerario[0][342] = '62';arrayitinerario[1][342] = '8593';arrayitinerario[2][342] = 'Principal';arrayitinerario[0][343] = '69';arrayitinerario[1][343] = '8594';arrayitinerario[2][343] = 'Principal';arrayitinerario[0][344] = '70';arrayitinerario[1][344] = '8595';arrayitinerario[2][344] = 'Principal';arrayitinerario[0][345] = '71';arrayitinerario[1][345] = '8596';arrayitinerario[2][345] = 'Principal';arrayitinerario[0][346] = '80';arrayitinerario[1][346] = '8597';arrayitinerario[2][346] = 'Principal';arrayitinerario[0][347] = '118';arrayitinerario[1][347] = '8599';arrayitinerario[2][347] = 'Principal';arrayitinerario[0][348] = '130';arrayitinerario[1][348] = '8600';arrayitinerario[2][348] = 'Principal';arrayitinerario[0][349] = '155';arrayitinerario[1][349] = '8601';arrayitinerario[2][349] = 'Principal';arrayitinerario[0][350] = '161';arrayitinerario[1][350] = '8602';arrayitinerario[2][350] = 'Principal';arrayitinerario[0][351] = '180';arrayitinerario[1][351] = '8603';arrayitinerario[2][351] = 'Principal';arrayitinerario[0][352] = '201';arrayitinerario[1][352] = '8604';arrayitinerario[2][352] = 'Principal';arrayitinerario[0][353] = '331';arrayitinerario[1][353] = '8605';arrayitinerario[2][353] = 'Principal';arrayitinerario[0][354] = '351';arrayitinerario[1][354] = '8606';arrayitinerario[2][354] = 'Principal';arrayitinerario[0][355] = '361';arrayitinerario[1][355] = '8608';arrayitinerario[2][355] = 'Principal';arrayitinerario[0][356] = '363';arrayitinerario[1][356] = '8609';arrayitinerario[2][356] = 'Principal';arrayitinerario[0][357] = '440';arrayitinerario[1][357] = '8610';arrayitinerario[2][357] = 'Principal';arrayitinerario[0][358] = '910';arrayitinerario[1][358] = '8611';arrayitinerario[2][358] = 'Principal';arrayitinerario[0][359] = '303';arrayitinerario[1][359] = '8614';arrayitinerario[2][359] = 'Principal';arrayitinerario[0][360] = '124';arrayitinerario[1][360] = '8616';arrayitinerario[2][360] = 'Principal';arrayitinerario[0][361] = '211';arrayitinerario[1][361] = '8617';arrayitinerario[2][361] = 'Principal';arrayitinerario[0][362] = '221';arrayitinerario[1][362] = '8618';arrayitinerario[2][362] = 'Principal';arrayitinerario[0][363] = '413';arrayitinerario[1][363] = '8621';arrayitinerario[2][363] = 'Principal';arrayitinerario[0][364] = '205';arrayitinerario[1][364] = '8624';arrayitinerario[2][364] = 'Principal';arrayitinerario[0][365] = '232';arrayitinerario[1][365] = '8625';arrayitinerario[2][365] = 'Principal';arrayitinerario[0][366] = '272';arrayitinerario[1][366] = '8626';arrayitinerario[2][366] = 'Principal';arrayitinerario[0][367] = '314';arrayitinerario[1][367] = '8627';arrayitinerario[2][367] = 'Principal';arrayitinerario[0][368] = '412';arrayitinerario[1][368] = '8629';arrayitinerario[2][368] = 'Principal';arrayitinerario[0][369] = '312';arrayitinerario[1][369] = '8641';arrayitinerario[2][369] = 'Principal';arrayitinerario[0][370] = '905';arrayitinerario[1][370] = '8649';arrayitinerario[2][370] = 'Principal';arrayitinerario[0][371] = '964';arrayitinerario[1][371] = '8652';arrayitinerario[2][371] = 'Principal';arrayitinerario[0][372] = '967';arrayitinerario[1][372] = '8653';arrayitinerario[2][372] = 'Principal';arrayitinerario[0][373] = '957';arrayitinerario[1][373] = '8654';arrayitinerario[2][373] = 'Principal';arrayitinerario[0][374] = '202';arrayitinerario[1][374] = '8663';arrayitinerario[2][374] = 'Principal';arrayitinerario[0][375] = '490';arrayitinerario[1][375] = '8664';arrayitinerario[2][375] = 'Principal';arrayitinerario[0][376] = '524';arrayitinerario[1][376] = '8665';arrayitinerario[2][376] = 'Principal';arrayitinerario[0][377] = '524';arrayitinerario[1][377] = '8666';arrayitinerario[2][377] = 'PCRecife';arrayitinerario[0][378] = '324';arrayitinerario[1][378] = '8678';arrayitinerario[2][378] = 'Principal';arrayitinerario[0][379] = '426';arrayitinerario[1][379] = '8682';arrayitinerario[2][379] = 'Principal';arrayitinerario[0][380] = '907';arrayitinerario[1][380] = '8686';arrayitinerario[2][380] = 'ViaBultrins';arrayitinerario[0][381] = '907';arrayitinerario[1][381] = '8687';arrayitinerario[2][381] = 'ViaPE022';arrayitinerario[0][382] = '907';arrayitinerario[1][382] = '8689';arrayitinerario[2][382] = 'ViaBultrinsAtendeJdPaulistaMirueiraCidSub';arrayitinerario[0][383] = '907';arrayitinerario[1][383] = '8690';arrayitinerario[2][383] = 'ViaPE022AtendeJdPaulistaMirueiraSubCid';arrayitinerario[0][384] = '907';arrayitinerario[1][384] = '8691';arrayitinerario[2][384] = 'ViaPe022AtendeJdPaulistaMirueiraCidSub';arrayitinerario[0][385] = '950';arrayitinerario[1][385] = '8692';arrayitinerario[2][385] = 'Principal';arrayitinerario[0][386] = '955';arrayitinerario[1][386] = '8693';arrayitinerario[2][386] = 'Principal';arrayitinerario[0][387] = '971';arrayitinerario[1][387] = '8694';arrayitinerario[2][387] = 'Principal';arrayitinerario[0][388] = '971';arrayitinerario[1][388] = '8696';arrayitinerario[2][388] = 'AtendimentoRosario';arrayitinerario[0][389] = '973';arrayitinerario[1][389] = '8697';arrayitinerario[2][389] = 'ItinerarioTurnoMT';arrayitinerario[0][390] = '973';arrayitinerario[1][390] = '8698';arrayitinerario[2][390] = 'ItinerarioN';arrayitinerario[0][391] = '993';arrayitinerario[1][391] = '8699';arrayitinerario[2][391] = 'Principal';arrayitinerario[0][392] = '993';arrayitinerario[1][392] = '8700';arrayitinerario[2][392] = 'Tururu';arrayitinerario[0][393] = '886';arrayitinerario[1][393] = '8701';arrayitinerario[2][393] = 'Principal';arrayitinerario[0][394] = '986';arrayitinerario[1][394] = '8702';arrayitinerario[2][394] = 'Principal';arrayitinerario[0][395] = '100';arrayitinerario[1][395] = '8714';arrayitinerario[2][395] = 'Principal';arrayitinerario[0][396] = '107';arrayitinerario[1][396] = '8715';arrayitinerario[2][396] = 'Principal';arrayitinerario[0][397] = '117';arrayitinerario[1][397] = '8716';arrayitinerario[2][397] = 'Principal';arrayitinerario[0][398] = '101';arrayitinerario[1][398] = '8718';arrayitinerario[2][398] = 'Principal';arrayitinerario[0][399] = '151';arrayitinerario[1][399] = '8722';arrayitinerario[2][399] = 'Principal';arrayitinerario[0][400] = '153';arrayitinerario[1][400] = '8723';arrayitinerario[2][400] = 'Principal';arrayitinerario[0][401] = '152';arrayitinerario[1][401] = '8724';arrayitinerario[2][401] = 'Principal';arrayitinerario[0][402] = '115';arrayitinerario[1][402] = '8726';arrayitinerario[2][402] = 'Principal';arrayitinerario[0][403] = '118';arrayitinerario[1][403] = '8728';arrayitinerario[2][403] = 'ViaJardimBeiraRio';arrayitinerario[0][404] = '26';arrayitinerario[1][404] = '8731';arrayitinerario[2][404] = 'Principal';arrayitinerario[0][405] = '148';arrayitinerario[1][405] = '8735';arrayitinerario[2][405] = 'Principal';arrayitinerario[0][406] = '219';arrayitinerario[1][406] = '8736';arrayitinerario[2][406] = 'ViaFabricas1';arrayitinerario[0][407] = '219';arrayitinerario[1][407] = '8737';arrayitinerario[2][407] = 'ViaFabricas2';arrayitinerario[0][408] = '321';arrayitinerario[1][408] = '8739';arrayitinerario[2][408] = 'Principal';arrayitinerario[0][409] = '911';arrayitinerario[1][409] = '8741';arrayitinerario[2][409] = 'Principal';arrayitinerario[0][410] = '946';arrayitinerario[1][410] = '8742';arrayitinerario[2][410] = 'Principal';arrayitinerario[0][411] = '956';arrayitinerario[1][411] = '8743';arrayitinerario[2][411] = 'Principal';arrayitinerario[0][412] = '976';arrayitinerario[1][412] = '8744';arrayitinerario[2][412] = 'Principal';arrayitinerario[0][413] = '977';arrayitinerario[1][413] = '8745';arrayitinerario[2][413] = 'Principal';arrayitinerario[0][414] = '979';arrayitinerario[1][414] = '8746';arrayitinerario[2][414] = 'Principal';arrayitinerario[0][415] = '907';arrayitinerario[1][415] = '8747';arrayitinerario[2][415] = 'ViaBultrinsAtendeJdPaulistaMirueiraSubCid';arrayitinerario[0][416] = '290';arrayitinerario[1][416] = '8750';arrayitinerario[2][416] = 'Principal';arrayitinerario[0][417] = '104';arrayitinerario[1][417] = '8751';arrayitinerario[2][417] = 'Principal';arrayitinerario[0][418] = '162';arrayitinerario[1][418] = '8752';arrayitinerario[2][418] = 'Principal';arrayitinerario[0][419] = '165';arrayitinerario[1][419] = '8753';arrayitinerario[2][419] = 'Principal';arrayitinerario[0][420] = '527';arrayitinerario[1][420] = '8763';arrayitinerario[2][420] = 'Principal';arrayitinerario[0][421] = '121';arrayitinerario[1][421] = '8767';arrayitinerario[2][421] = 'Principal';arrayitinerario[0][422] = '493';arrayitinerario[1][422] = '8768';arrayitinerario[2][422] = 'Principal';arrayitinerario[0][423] = '150';arrayitinerario[1][423] = '8772';arrayitinerario[2][423] = 'Principal';arrayitinerario[0][424] = '958';arrayitinerario[1][424] = '8776';arrayitinerario[2][424] = 'Principal';arrayitinerario[0][425] = '122';arrayitinerario[1][425] = '8777';arrayitinerario[2][425] = 'Principal';arrayitinerario[0][426] = '123';arrayitinerario[1][426] = '8778';arrayitinerario[2][426] = 'Principal';arrayitinerario[0][427] = '134';arrayitinerario[1][427] = '8779';arrayitinerario[2][427] = 'PCRecife';arrayitinerario[0][428] = '134';arrayitinerario[1][428] = '8780';arrayitinerario[2][428] = 'Principal';arrayitinerario[0][429] = '137';arrayitinerario[1][429] = '8781';arrayitinerario[2][429] = 'Principal';arrayitinerario[0][430] = '137';arrayitinerario[1][430] = '8782';arrayitinerario[2][430] = 'PCRecife';arrayitinerario[0][431] = '141';arrayitinerario[1][431] = '8783';arrayitinerario[2][431] = 'Principal';arrayitinerario[0][432] = '142';arrayitinerario[1][432] = '8784';arrayitinerario[2][432] = 'Principal';arrayitinerario[0][433] = '144';arrayitinerario[1][433] = '8785';arrayitinerario[2][433] = 'Principal';arrayitinerario[0][434] = '163';arrayitinerario[1][434] = '8786';arrayitinerario[2][434] = 'Principal';arrayitinerario[0][435] = '163';arrayitinerario[1][435] = '8787';arrayitinerario[2][435] = 'MemorialGuararapes';arrayitinerario[0][436] = '243';arrayitinerario[1][436] = '8788';arrayitinerario[2][436] = 'DantasBarreto';arrayitinerario[0][437] = '243';arrayitinerario[1][437] = '8789';arrayitinerario[2][437] = 'CaisdeSantaRita';arrayitinerario[0][438] = '138';arrayitinerario[1][438] = '8791';arrayitinerario[2][438] = 'Principal';arrayitinerario[0][439] = '315';arrayitinerario[1][439] = '8795';arrayitinerario[2][439] = 'Principal';arrayitinerario[0][440] = '311';arrayitinerario[1][440] = '8796';arrayitinerario[2][440] = 'Principal';arrayitinerario[0][441] = '120';arrayitinerario[1][441] = '8799';arrayitinerario[2][441] = 'Principal';arrayitinerario[0][442] = '370';arrayitinerario[1][442] = '8802';arrayitinerario[2][442] = 'Principal';arrayitinerario[0][443] = '330';arrayitinerario[1][443] = '8816';arrayitinerario[2][443] = 'Principal';arrayitinerario[0][444] = '510';arrayitinerario[1][444] = '8817';arrayitinerario[2][444] = 'Principal';arrayitinerario[0][445] = '511';arrayitinerario[1][445] = '8818';arrayitinerario[2][445] = 'Principal';arrayitinerario[0][446] = '513';arrayitinerario[1][446] = '8819';arrayitinerario[2][446] = 'Principal';arrayitinerario[0][447] = '514';arrayitinerario[1][447] = '8820';arrayitinerario[2][447] = 'Principal';arrayitinerario[0][448] = '515';arrayitinerario[1][448] = '8821';arrayitinerario[2][448] = 'Principal';arrayitinerario[0][449] = '516';arrayitinerario[1][449] = '8822';arrayitinerario[2][449] = 'Principal';arrayitinerario[0][450] = '531';arrayitinerario[1][450] = '8823';arrayitinerario[2][450] = 'Principal';arrayitinerario[0][451] = '630';arrayitinerario[1][451] = '8826';arrayitinerario[2][451] = 'Principal';arrayitinerario[0][452] = '710';arrayitinerario[1][452] = '8828';arrayitinerario[2][452] = 'Principal';arrayitinerario[0][453] = '718';arrayitinerario[1][453] = '8829';arrayitinerario[2][453] = 'Principal';arrayitinerario[0][454] = '930';arrayitinerario[1][454] = '8830';arrayitinerario[2][454] = 'Principal';arrayitinerario[0][455] = '513';arrayitinerario[1][455] = '8831';arrayitinerario[2][455] = 'NaoAtendePCR';arrayitinerario[0][456] = '532';arrayitinerario[1][456] = '8832';arrayitinerario[2][456] = 'Principal';arrayitinerario[0][457] = '640';arrayitinerario[1][457] = '8833';arrayitinerario[2][457] = 'Principal';arrayitinerario[0][458] = '302';arrayitinerario[1][458] = '8834';arrayitinerario[2][458] = 'Principal';arrayitinerario[0][459] = '972';arrayitinerario[1][459] = '8839';arrayitinerario[2][459] = 'Principal';arrayitinerario[0][460] = '33';arrayitinerario[1][460] = '8841';arrayitinerario[2][460] = 'Principal';arrayitinerario[0][461] = '33';arrayitinerario[1][461] = '8842';arrayitinerario[2][461] = 'PCRecife';arrayitinerario[0][462] = '43';arrayitinerario[1][462] = '8843';arrayitinerario[2][462] = 'Principal';arrayitinerario[0][463] = '42';arrayitinerario[1][463] = '8845';arrayitinerario[2][463] = 'Principal';arrayitinerario[0][464] = '644';arrayitinerario[1][464] = '8847';arrayitinerario[2][464] = 'Principal';arrayitinerario[0][465] = '623';arrayitinerario[1][465] = '8848';arrayitinerario[2][465] = 'Principal';arrayitinerario[0][466] = '623';arrayitinerario[1][466] = '8849';arrayitinerario[2][466] = 'PCRecife';arrayitinerario[0][467] = '110';arrayitinerario[1][467] = '8856';arrayitinerario[2][467] = 'Principal';arrayitinerario[0][468] = '110';arrayitinerario[1][468] = '8857';arrayitinerario[2][468] = 'NaoAtendeaoShopping';arrayitinerario[0][469] = '131';arrayitinerario[1][469] = '8859';arrayitinerario[2][469] = 'Principal';arrayitinerario[0][470] = '132';arrayitinerario[1][470] = '8860';arrayitinerario[2][470] = 'Principal';arrayitinerario[0][471] = '102';arrayitinerario[1][471] = '8861';arrayitinerario[2][471] = 'Principal';arrayitinerario[0][472] = '133';arrayitinerario[1][472] = '8862';arrayitinerario[2][472] = 'Principal';arrayitinerario[0][473] = '133';arrayitinerario[1][473] = '8863';arrayitinerario[2][473] = 'PCRecife';arrayitinerario[0][474] = '170';arrayitinerario[1][474] = '8864';arrayitinerario[2][474] = 'Principal';arrayitinerario[0][475] = '212';arrayitinerario[1][475] = '8865';arrayitinerario[2][475] = 'Principal';arrayitinerario[0][476] = '240';arrayitinerario[1][476] = '8866';arrayitinerario[2][476] = 'Principal';arrayitinerario[0][477] = '320';arrayitinerario[1][477] = '8867';arrayitinerario[2][477] = 'Principal';arrayitinerario[0][478] = '322';arrayitinerario[1][478] = '8868';arrayitinerario[2][478] = 'Principal';arrayitinerario[0][479] = '324';arrayitinerario[1][479] = '8869';arrayitinerario[2][479] = 'ViaJusticaFederal';arrayitinerario[0][480] = '360';arrayitinerario[1][480] = '8870';arrayitinerario[2][480] = 'Principal';arrayitinerario[0][481] = '927';arrayitinerario[1][481] = '8871';arrayitinerario[2][481] = 'Principal';arrayitinerario[0][482] = '846';arrayitinerario[1][482] = '8872';arrayitinerario[2][482] = 'Principal';arrayitinerario[0][483] = '715';arrayitinerario[1][483] = '8873';arrayitinerario[2][483] = 'Principal';arrayitinerario[0][484] = '846';arrayitinerario[1][484] = '8874';arrayitinerario[2][484] = 'ViaStaCasaeAguazinha';arrayitinerario[0][485] = '846';arrayitinerario[1][485] = '8875';arrayitinerario[2][485] = 'ViaAltodaBondade';arrayitinerario[0][486] = '73';arrayitinerario[1][486] = '8876';arrayitinerario[2][486] = 'Principal';arrayitinerario[0][487] = '523';arrayitinerario[1][487] = '8878';arrayitinerario[2][487] = 'Principal';arrayitinerario[0][488] = '744';arrayitinerario[1][488] = '8880';arrayitinerario[2][488] = 'Principal';arrayitinerario[0][489] = '745';arrayitinerario[1][489] = '8881';arrayitinerario[2][489] = 'Principal';arrayitinerario[0][490] = '178';arrayitinerario[1][490] = '8883';arrayitinerario[2][490] = 'Principal';arrayitinerario[0][491] = '23';arrayitinerario[1][491] = '8887';arrayitinerario[2][491] = 'Principal';arrayitinerario[0][492] = '198';arrayitinerario[1][492] = '8888';arrayitinerario[2][492] = 'Principal';arrayitinerario[0][493] = '199';arrayitinerario[1][493] = '8889';arrayitinerario[2][493] = 'Principal';arrayitinerario[0][494] = '199';arrayitinerario[1][494] = '8890';arrayitinerario[2][494] = 'ViaSerrambi';arrayitinerario[0][495] = '533';arrayitinerario[1][495] = '8891';arrayitinerario[2][495] = 'Principal';
+
+function ativaKeys(){
+  document.form1.CodigoLinha.onkeypress = function (){	 return charNumeric();	}
+}
+
+
+function charNumeric(){
+  var limite = "48;49;50;51;52;53;54;55;56;57";
+//  alert("Evento = " + event.keyCode);
+  if(limite.indexOf(event.keyCode) == -1){
+     return false;
+  }
+}
+
+
+function carreganomeitinerario(){
+  var cod = document.form1.SelLinhas.value;
+  var aux = document.form1.SelNomeItinerario;
+  for(var i=0;i<aux.length;i++)
+    aux.options[i] = null;
+  aux.options[0] = new Option('--Nome do Itinerário--','0');
+  var x = 1;
+  for(var i=0;i<tamanho;i++){
+    if(cod == arrayitinerario[0][i]){
+      aux.options[x] = new Option(arrayitinerario[1][i]+' - '+arrayitinerario[2][i],arrayitinerario[1][i]);
+      x = x + 1;
+    }
+  }
+  if (wFlag){
+   document.form1.CodigoLinha.value = cod;
+  }
+  if(aux.length > 1){aux.options[1].selected = true;}
+  if (x > 2){
+    font_01.style.display= ''
+    document.form1.SelNomeItinerario.style.display= ''
+  }else{
+    font_01.style.display= 'none'
+    document.form1.SelNomeItinerario.style.display= 'none'
+  }
+
+}
+
+function Procurar() {
+//alert(document.form1.CodigoLinha.length());
+  var objEdit = document.form1.CodigoLinha;
+  var objSelect = document.form1.SelLinhas;
+  if (objEdit.value.length > 2){
+    if (objSelect.length > 0) {
+      for (var i = 0;i < objSelect.length;i++){
+	var x = objSelect.options[i].value; //.slice(0,objEdit.value.length);
+	var y = objEdit.value;	//.slice(0,objEdit.value.length)
+	if (x == y) {
+	  objSelect.options[i].selected = true;
+	  i = 0;
+	  break;
+	} else {
+	  objSelect.options[0].selected = true;
+	}
+      }
+    }
+    carreganomeitinerario();
+  }
+}
+
+
+
+function MostraItinerario(){
+ if (document.form1.SelLinhas.options[document.form1.SelLinhas.selectedIndex].value != 0){
+   if (document.form1.SelNomeItinerario.options[document.form1.SelNomeItinerario.selectedIndex].value != 0){
+     document.location.href=("http://200.238.84.28/site/consulta/itinerarios.asp?linha=" + document.form1.SelLinhas.options[document.form1.SelLinhas.selectedIndex].value + "&nomeitinerario=" + document.form1.SelNomeItinerario.options[document.form1.SelNomeItinerario.selectedIndex].value);
+	 }else{
+	 	 alert('Esta linha não possui itinerario cadastrado')
+	 } 	 
+ }else{
+   alert('Selecione uma linha.')
+ }
+
+
+}
+
+
+function MM_preloadimagens() {var d=document; if(d.imagens){ if(!d.MM_p) d.MM_p=new Array();var i,j=d.MM_p.length,a=MM_preloadimagens.arguments; for(i=0; i<a.length; i++)if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}}
+function MM_reloadPage(init) {if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();}MM_reloadPage(true);
+function click1(){identidade.style.background='#cc2222';primeira.style.background='';resumo.style.background='';editor.style.background='';editor1.style.background='';editor2.style.background='';editor3.style.background='';fonte1.style.color='#ffffff';fonte2.style.color='#000000';fonte3.style.color='#000000';fonte4.style.color='#000000';fonte5.style.color='#000000';fonte6.style.color='#000000';fonte7.style.color='#000000';}
+function click2(){identidade.style.background='';primeira.style.background='#cc2222';resumo.style.background='';editor.style.background='';editor1.style.background='';editor2.style.background='';editor3.style.background='';fonte1.style.color='#000000';fonte2.style.color='#ffffff';fonte3.style.color='#000000';fonte4.style.color='#000000';fonte5.style.color='#000000';fonte6.style.color='#000000';fonte7.style.color='#000000';}
+function click3(){identidade.style.background='';primeira.style.background='';resumo.style.background='#cc2222';editor.style.background='';editor1.style.background='';editor2.style.background='';editor3.style.background='';fonte1.style.color='#000000';fonte2.style.color='#000000';fonte3.style.color='#ffffff';fonte4.style.color='#000000';fonte5.style.color='#000000';fonte6.style.color='#000000';fonte7.style.color='#000000';}
+function click4(){identidade.style.background='';primeira.style.background='';resumo.style.background='';editor.style.background='#cc2222';editor1.style.background='';editor2.style.background='';editor3.style.background='';fonte1.style.color='#000000';fonte2.style.color='#000000';fonte3.style.color='#000000';fonte4.style.color='#ffffff';fonte5.style.color='#000000';fonte6.style.color='#000000';fonte7.style.color='#000000';}
+function click5(){identidade.style.background='';primeira.style.background='';resumo.style.background='';editor2.style.background='';editor.style.background='#cc2222';editor1.style.background='';editor3.style.background='';fonte1.style.color='#000000';fonte2.style.color='#000000';fonte3.style.color='#000000';fonte5.style.color='#000000';fonte4.style.color='#ffffff';fonte6.style.color='#000000';fonte7.style.color='#000000';}
+function click6(){identidade.style.background='';primeira.style.background='';resumo.style.background='';editor1.style.background='';editor.style.background='';editor2.style.background='#cc2222';editor3.style.background='';fonte1.style.color='#000000';fonte2.style.color='#000000';fonte3.style.color='#000000';fonte6.style.color='#000000';fonte4.style.color='#000000';fonte5.style.color='#ffffff';fonte7.style.color='#000000';}
+function click7(){identidade.style.background='';primeira.style.background='';resumo.style.background='';editor1.style.background='';editor.style.background='';editor3.style.background='';editor2.style.background='#cc2222';fonte1.style.color='#000000';fonte2.style.color='#000000';fonte3.style.color='#000000';fonte7.style.color='#000000';fonte4.style.color='#000000';fonte5.style.color='#000000';fonte6.style.color='#ffffff';}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<form name="form1" action="http://200.238.84.28/site/consulta/itinerarios.asp">
+<input type="hidden" name="CodNomeItinerario" value="5709"/>
+<table border="0" cellspacing=0 cellpadding=0 width="420" >
+	<tr>
+ 	  <td >
+<!--  	  <td background="imagens/degrade.gif"> -->
+		  <table border="0" cellpadding="0" cellspacing="0" summary="">
+	<tr>
+		<td>
+
+ <!--        inicio -->
+
+  <table width="420" id="tblDados" border="0" cellspacing="0" cellpadding="0" bordercolor="#000000" height="100%">
+     <td valign="top">
+	 <table width="400" border="0" cellspacing="0" cellpadding="0">
+	  <td width="13"><img src="" width="10" height="1"></td>
+	  <td valign="top" >
+		  <table align=center border=0 cellpadding=0 cellspacing=0 width="400">
+		<tbody>
+		
+<!--	<tr>
+		  <td align="center" height="32" bgcolor="efefef" width="39"><b><img src="Imagens/gerarpag.gif" height="28"></b></td>
+		  <td align="left" height="32" bgcolor="efefef" width="" colspan=3><b><font face="arial" size="2" color="#666666">&nbsp;&nbsp;Itinerários</font></b></td>
+		  <td align="right" height="32" bgcolor="efefef" width="">
+                   <img name="Image00" border="0" src="Imagens/imprimir.gif" onClick="self.print();" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image00','','Imagens/imprimir_clic.gif',1)">
+                   <img name="Image73" border="0" src="Imagens/oknormal.gif" onClick="MostraItinerario()" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image73','','Imagens/okdown.gif',1)"></td>
+		</tr> 
+-->
+		<td align=left valign=top colspan="5">
+		  <!--TABLE 01-->
+		  <table border="0" cellspacing="0" cellpadding="3" width="400">
+            <tr >
+              <td height="25" width="85"><b> Código:&nbsp;</b></td>
+              <td height="25" colspan=6><b>
+                <input type="text" name="CodigoLinha" size="3" maxlength="3" onkeypress="charNumeric()"  onkeyup="carregaItinerario();" value="189" />
+              </b></td>
+            </tr>
+            <tr>
+              <td width="85" height="25" ><b>Linha
+                : </b></td>
+              <td height="25" width="335"><b><font face="arial" size="2" color="#000000">
+                <select name="SelLinhas" onchange="carreganomeitinerario()" style="width:275">
+                  <option value="0">--Selecione a Linha--</option>
+                  
+                  <option value="940"> Abreu e Lima/Olinda </option>
+                  
+                  <option value="933"> Abreu e Lima/Paulista </option>
+                  
+                  <option value="33"> Aeroporto </option>
+                  
+                  <option value="36"> Aeroporto (Bacurau) </option>
+                  
+                  <option value="42"> Aeroporto (Opcional) </option>
+                  
+                  <option value="43"> Aeroporto/Tacaruna (Derby) </option>
+                  
+                  <option value="721"> Água Fria </option>
+                  
+                  <option value="842"> Águas Compridas </option>
+                  
+                  <option value="846"> Águas Compridas (Bacurau) </option>
+                  
+                  <option value="831"> Aguazinha </option>
+                  
+                  <option value="890"> Aguazinha/Caenga </option>
+                  
+                  <option value="850"> Aguazinha/Joana Bezerra </option>
+                  
+                  <option value="929"> Alameda Paulista/Rio Doce (Maranguape I) </option>
+                  
+                  <option value="843"> Alto da Bondade (Vila Nossa Senhora da Conceição) </option>
+                  
+                  <option value="840"> Alto da Bondade/Joana Bezerra </option>
+                  
+                  <option value="838"> Alto da Conquista </option>
+                  
+                  <option value="893"> Alto da Conquista/Caenga </option>
+                  
+                  <option value="894"> Alto da Sucupira/Caenga </option>
+                  
+                  <option value="604"> Alto do Burity/Macaxeira </option>
+                  
+                  <option value="892"> Alto do Cajueiro/Caenga </option>
+                  
+                  <option value="746"> Alto do Capitão </option>
+                  
+                  <option value="511"> Alto do Mandú </option>
+                  
+                  <option value="711"> Alto do Pascoal </option>
+                  
+                  <option value="632"> Alto do Refúgio </option>
+                  
+                  <option value="895"> Alto do Sol Nascente/Caenga </option>
+                  
+                  <option value="244"> Alto do Vento/T.I. Cavaleiro </option>
+                  
+                  <option value="142"> Alto Dois Carneiros </option>
+                  
+                  <option value="145"> Alto Dois Carneiros (Bacurau) </option>
+                  
+                  <option value="714"> Alto José Bonifácio (Av. Norte) </option>
+                  
+                  <option value="745"> Alto José Bonifácio (Bacurau) </option>
+                  
+                  <option value="743"> Alto José Bonifácio (João de Barros) </option>
+                  
+                  <option value="611"> Alto José do Pinho </option>
+                  
+                  <option value="847"> Alto Nova Olinda </option>
+                  
+                  <option value="891"> Alto Nova Olinda/Caenga </option>
+                  
+                  <option value="521"> Alto Santa Isabel </option>
+                  
+                  <option value="712"> Alto Santa Terezinha </option>
+                  
+                  <option value="715"> Alto Santa Terezinha (Bacurau) </option>
+                  
+                  <option value="726"> Alto Santa Terezinha (Conde da Boa Vista) </option>
+                  
+                  <option value="780"> Alto Santa Terezinha/Derby </option>
+                  
+                  <option value="621"> Alto Treze de Maio </option>
+                  
+                  <option value="971"> Amparo </option>
+                  
+                  <option value="975"> Amparo (Bacurau) </option>
+                  
+                  <option value="463"> Araçoiaba/Camaragibe </option>
+                  
+                  <option value="934"> Arthur Lundgren I/PE-15 </option>
+                  
+                  <option value="948"> Arthur Lundgren II/Macaxeira </option>
+                  
+                  <option value="941"> Arthur Lundgren II/PE-15 </option>
+                  
+                  <option value="996"> Arthur Lundgren II/Rio Doce (Paratibe) </option>
+                  
+                  <option value="645"> Av. Norte (Macaxeira) </option>
+                  
+                  <option value="413"> Avenida do Forte </option>
+                  
+                  <option value="489"> Bairro dos Estados/Caxangá </option>
+                  
+                  <option value="425"> Barbalho (Detran) </option>
+                  
+                  <option value="108"> Barro/CEASA </option>
+                  
+                  <option value="207"> Barro/Macaxeira (BR -101) </option>
+                  
+                  <option value="202"> Barro/Macaxeira (Várzea) </option>
+                  
+                  <option value="206"> Barro/Prazeres </option>
+                  
+                  <option value="216"> Barro/Prazeres (BR-101) </option>
+                  
+                  <option value="731"> Beberibe (Espinheiro) </option>
+                  
+                  <option value="700"> Beberibe/Afogados </option>
+                  
+                  <option value="730"> Beberibe/Av. Norte </option>
+                  
+                  <option value="710"> Beberibe/Derby </option>
+                  
+                  <option value="713"> Bomba do Hemetério </option>
+                  
+                  <option value="290"> Bonança/Jaboatão </option>
+                  
+                  <option value="315"> Bongi </option>
+                  
+                  <option value="311"> Bongi (Afogados) </option>
+                  
+                  <option value="14"> Brasília (Conde da Boa Vista) </option>
+                  
+                  <option value="18"> Brasília Teimosa </option>
+                  
+                  <option value="433"> Brasilit </option>
+                  
+                  <option value="624"> Brejo </option>
+                  
+                  <option value="626"> Brejo (Bacurau) </option>
+                  
+                  <option value="161"> Brigadeiro Ivo Borges </option>
+                  
+                  <option value="972"> Bultrins </option>
+                  
+                  <option value="185"> Cabo </option>
+                  
+                  <option value="184"> Cabo (Bacurau) </option>
+                  
+                  <option value="181"> Cabo (Cohab) </option>
+                  
+                  <option value="139"> Cabo/Aeroporto </option>
+                  
+                  <option value="197"> Cabo/Ipojuca </option>
+                  
+                  <option value="194"> Cabo/Porto de Galinhas </option>
+                  
+                  <option value="189" selected> Cabo/Porto de Suape </option>
+                  
+                  <option value="882"> Caenga/Rio Doce (Carlos de Lima Cavalcanti) </option>
+                  
+                  <option value="881"> Caenga/Rio Doce (Getúlio Vargas) </option>
+                  
+                  <option value="883"> Caenga/Rio Doce (II Perimetral) </option>
+                  
+                  <option value="957"> Caetés I (Bacurau) </option>
+                  
+                  <option value="912"> Caetés I/Paulista </option>
+                  
+                  <option value="917"> Caetés II/Paulista </option>
+                  
+                  <option value="998"> Caetés III/Paulista </option>
+                  
+                  <option value="949"> Caetés/Centro de Paulista (Paratibe) </option>
+                  
+                  <option value="901"> Caetés/Macaxeira </option>
+                  
+                  <option value="870"> Caixa D´água/Afogados </option>
+                  
+                  <option value="830"> Caixa D´Água/Derby </option>
+                  
+                  <option value="852"> Caixa D'água </option>
+                  
+                  <option value="889"> Caixa Dágua/Caenga </option>
+                  
+                  <option value="723"> Cajueiro </option>
+                  
+                  <option value="163"> Cajueiro Seco </option>
+                  
+                  <option value="166"> Cajueiro Seco/Afogados </option>
+                  
+                  <option value="450"> Camaragibe (Conde da Boa Vista) </option>
+                  
+                  <option value="460"> Camaragibe (Príncipe) </option>
+                  
+                  <option value="469"> Camaragibe/CDU </option>
+                  
+                  <option value="480"> Camaragibe/Derby </option>
+                  
+                  <option value="490"> Camaragibe/Macaxeira </option>
+                  
+                  <option value="199"> Camela/T.I. Cabo </option>
+                  
+                  <option value="722"> Campina do Barreto </option>
+                  
+                  <option value="811"> Campo Grande (Term. Sítio Novo) </option>
+                  
+                  <option value="71"> Candeias </option>
+                  
+                  <option value="73"> Candeias (Bacurau) </option>
+                  
+                  <option value="72"> Candeias (Opcional) </option>
+                  
+                  <option value="20"> Candeias/Dois Irmãos </option>
+                  
+                  <option value="70"> Candeias/Joana Bezerra </option>
+                  
+                  <option value="533"> Casa Amarela (Bacurau) </option>
+                  
+                  <option value="532"> Casa Amarela (Cabugá) </option>
+                  
+                  <option value="516"> Casa Amarela (Nova Torre) </option>
+                  
+                  <option value="531"> Casa Amarela (Rosa e Silva) </option>
+                  
+                  <option value="330"> Casa Amarela/CDU (TRT) </option>
+                  
+                  <option value="973"> Casa Caiada </option>
+                  
+                  <option value="232"> Cavaleiro </option>
+                  
+                  <option value="233"> Cavaleiro (Bacurau) </option>
+                  
+                  <option value="240"> Cavaleiro/Ceasa </option>
+                  
+                  <option value="437"> Caxangá (Conde da Boa Vista) </option>
+                  
+                  <option value="432"> CDU (Várzea) </option>
+                  
+                  <option value="435"> CDU (Várzea) (Bacurau) </option>
+                  
+                  <option value="40"> CDU/Boa Viagem/Caxangá </option>
+                  
+                  <option value="440"> CDU/Caxangá/Boa Viagem </option>
+                  
+                  <option value="424"> CDU/Torrões (Via San Martin) </option>
+                  
+                  <option value="467"> Chã de Cruz (Integração) </option>
+                  
+                  <option value="724"> Chão de Estrelas </option>
+                  
+                  <option value="159"> Charneca/T.I. Cabo </option>
+                  
+                  <option value="896"> Cidade Tabajara/Ouro Preto </option>
+                  
+                  <option value="923"> Cidade Tabajara/PE-15 </option>
+                  
+                  <option value="431"> Cidade Universitária </option>
+                  
+                  <option value="107"> Circular (Cabugá / Prefeitura) </option>
+                  
+                  <option value="100"> Circular (Conde da Boa Vista) </option>
+                  
+                  <option value="101"> Circular (Conde da Boa Vista) - Rua do Sol </option>
+                  
+                  <option value="104"> Circular (IMIP) </option>
+                  
+                  <option value="918"> Circular (Porta Larga) </option>
+                  
+                  <option value="117"> Circular (Prefeitura / Cabugá) </option>
+                  
+                  <option value="116"> Circular (Príncipe) </option>
+                  
+                  <option value="119"> Circular/T.I. Cabo </option>
+                  
+                  <option value="140"> Cohab/Aeroporto </option>
+                  
+                  <option value="272"> Colônia/Jaboatão </option>
+                  
+                  <option value="130"> Conj. Marcos Freire/Boa Viagem </option>
+                  
+                  <option value="994"> Conjunto Beira Mar </option>
+                  
+                  <option value="982"> Conjunto Beira Mar/Derby </option>
+                  
+                  <option value="69"> Conjunto Catamarã </option>
+                  
+                  <option value="164"> Conjunto Marcos Freire </option>
+                  
+                  <option value="172"> Conjunto Marcos Freire (Bacurau) </option>
+                  
+                  <option value="993"> Conjunto Praia do Janga </option>
+                  
+                  <option value="209"> Coqueiral/Barro </option>
+                  
+                  <option value="513"> Córrego da Areia </option>
+                  
+                  <option value="125"> Córrego da Gameleira </option>
+                  
+                  <option value="851"> Córrego do Abacaxi </option>
+                  
+                  <option value="718"> Córrego do Euclides/Derby </option>
+                  
+                  <option value="517"> Córrego do Inácio </option>
+                  
+                  <option value="643"> Córrego do Jenipapo (Bacurau) </option>
+                  
+                  <option value="958"> Costa Azul </option>
+                  
+                  <option value="341"> Curado I </option>
+                  
+                  <option value="320"> Curado I/Werneck (Via Totó) </option>
+                  
+                  <option value="351"> Curado II </option>
+                  
+                  <option value="352"> Curado II (Bacurau) </option>
+                  
+                  <option value="302"> Curado II/Caxangá </option>
+                  
+                  <option value="303"> Curado II/Caxangá (BR-232) </option>
+                  
+                  <option value="363"> Curado IV - Av. 01 </option>
+                  
+                  <option value="361"> Curado IV - R. 14 </option>
+                  
+                  <option value="362"> Curado IV (Bacurau) </option>
+                  
+                  <option value="988"> Desterro/Paulista </option>
+                  
+                  <option value="180"> Dois Carneiros/Boa Viagem </option>
+                  
+                  <option value="245"> Dois Carneiros/T.I. Cavaleiro </option>
+                  
+                  <option value="523"> Dois Irmãos (Bacurau) </option>
+                  
+                  <option value="522"> Dois Irmãos (Rui Barbosa) </option>
+                  
+                  <option value="741"> Dois Unidos </option>
+                  
+                  <option value="744"> Dois Unidos (Bacurau) </option>
+                  
+                  <option value="800"> Dois Unidos/Afogados </option>
+                  
+                  <option value="760"> Dois Unidos/Derby </option>
+                  
+                  <option value="423"> Engenho do Meio </option>
+                  
+                  <option value="955"> Engenho Maranguape/Paulista </option>
+                  
+                  <option value="950"> Engenho Maranguape/Varadouro </option>
+                  
+                  <option value="411"> Estrada dos Remédios </option>
+                  
+                  <option value="160"> Gaibu/Barra de Jangada </option>
+                  
+                  <option value="157"> Gaibu/T.I. Cabo </option>
+                  
+                  <option value="158"> Garapu/T.I. Cabo </option>
+                  
+                  <option value="642"> Guabiraba (Córrego do Jenipapo) </option>
+                  
+                  <option value="640"> Guabiraba/Derby </option>
+                  
+                  <option value="110"> Ibura/Boa Viagem </option>
+                  
+                  <option value="102"> Ibura/Santa Luzia </option>
+                  
+                  <option value="956"> Igarassu (Bacurau) </option>
+                  
+                  <option value="946"> Igarassu (BR-101) </option>
+                  
+                  <option value="967"> Igarassu (Sítio Histórico) </option>
+                  
+                  <option value="903"> Igarassu/Araçoiaba </option>
+                  
+                  <option value="980"> Igarassu/Cidade Tabajara </option>
+                  
+                  <option value="964"> Igarassu/Macaxeira </option>
+                  
+                  <option value="904"> Igarassu/Nova Cruz </option>
+                  
+                  <option value="905"> Igarassu/Paulista </option>
+                  
+                  <option value="968"> Ilha de Itamaracá/Igarassu </option>
+                  
+                  <option value="198"> Ipojuca/T.I. Cabo </option>
+                  
+                  <option value="120"> IPSEP/Shopping Recife </option>
+                  
+                  <option value="969"> Itapissuma/Igarassu </option>
+                  
+                  <option value="254"> Jaboatão (Bacurau) </option>
+                  
+                  <option value="200"> Jaboatão (Parador) </option>
+                  
+                  <option value="220"> Jaboatão/T.I. Cavaleiro </option>
+                  
+                  <option value="219"> Jaboatão/TIP (Sancho) </option>
+                  
+                  <option value="945"> Jaguarana/Paulista (Alameda) </option>
+                  
+                  <option value="932"> Jardim  Paulista Alto/PE-15 </option>
+                  
+                  <option value="442"> Jardim  Primavera (Vale das Pedreiras) </option>
+                  
+                  <option value="974"> Jardim Atlântico </option>
+                  
+                  <option value="13"> Jardim Beira Rio (Pina) </option>
+                  
+                  <option value="827"> Jardim Brasil (Bacurau) </option>
+                  
+                  <option value="822"> Jardim Brasil I (Cruz Cabugá) </option>
+                  
+                  <option value="821"> Jardim Brasil I (Estrada de Belém) </option>
+                  
+                  <option value="824"> Jardim Brasil II (Cruz Cabugá) </option>
+                  
+                  <option value="823"> Jardim Brasil II (Estrada de Belém) </option>
+                  
+                  <option value="825"> Jardim Brasil/Joana Bezerra </option>
+                  
+                  <option value="884"> Jardim Brasil/Rio Doce </option>
+                  
+                  <option value="151"> Jardim Jordão / Aeroporto </option>
+                  
+                  <option value="141"> Jardim Monte Verde </option>
+                  
+                  <option value="931"> Jardim Paulista Baixo/PE-15 </option>
+                  
+                  <option value="448"> Jardim Petrópolis </option>
+                  
+                  <option value="62"> Jardim Piedade </option>
+                  
+                  <option value="63"> Jardim Piedade (Bacurau) </option>
+                  
+                  <option value="212"> Jardim São Paulo </option>
+                  
+                  <option value="321"> Jardim São Paulo (Abdias de Carvalho) </option>
+                  
+                  <option value="322"> Jardim São Paulo (Bacurau) </option>
+                  
+                  <option value="324"> Jardim São Paulo (Piracicaba) </option>
+                  
+                  <option value="464"> Jardim Teresópolis/Caxangá </option>
+                  
+                  <option value="222"> Jardim Uchôa </option>
+                  
+                  <option value="80"> Joana Bezerra/Boa Viagem </option>
+                  
+                  <option value="154"> Jordão (Bacurau) </option>
+                  
+                  <option value="153"> Jordão Alto / Aeroporto </option>
+                  
+                  <option value="152"> Jordão Baixo / Aeroporto </option>
+                  
+                  <option value="155"> Jordão Baixo/Boa Viagem </option>
+                  
+                  <option value="717"> José Amarino dos Reis </option>
+                  
+                  <option value="134"> Lagoa Encantada </option>
+                  
+                  <option value="644"> Largo do Maracanã </option>
+                  
+                  <option value="742"> Linha do Tiro </option>
+                  
+                  <option value="256"> Lot. Nova Esperança/T.I. Cavaleiro </option>
+                  
+                  <option value="462"> Lot. Santos Cosme Damião (Bacurau) </option>
+                  
+                  <option value="274"> Lote 56/Jaboatão </option>
+                  
+                  <option value="984"> Loteamento Bonfim/Paulista </option>
+                  
+                  <option value="944"> Loteamento Conceição/Paulista </option>
+                  
+                  <option value="978"> Loteamento Conceição/Rio Doce (PE-22) </option>
+                  
+                  <option value="473"> Loteamento João Paulo II (Integração) </option>
+                  
+                  <option value="989"> Loteamento Planalto/Paulista </option>
+                  
+                  <option value="459"> Loteamento Santos Cosme e Damião </option>
+                  
+                  <option value="483"> Loteamento São João e São Paulo (Integração) </option>
+                  
+                  <option value="520"> Macaxeira/Parnamirim </option>
+                  
+                  <option value="314"> Mangueira </option>
+                  
+                  <option value="952"> Maranguape I/Paulista </option>
+                  
+                  <option value="928"> Maranguape II (Bacurau) </option>
+                  
+                  <option value="953"> Maranguape II/Paulista </option>
+                  
+                  <option value="960"> Maria Farinha/Casa Caiada </option>
+                  
+                  <option value="44"> Massangana (Boa Vista) </option>
+                  
+                  <option value="419"> Matriz da Luz (Integração) </option>
+                  
+                  <option value="936"> Mirueira (Bacurau) </option>
+                  
+                  <option value="902"> Mirueira/Macaxeira </option>
+                  
+                  <option value="943"> Mirueira/PE-15 </option>
+                  
+                  <option value="422"> Monsenhor Fabrício </option>
+                  
+                  <option value="427"> Monsenhor Fabrício (Bacurau) </option>
+                  
+                  <option value="258"> Moreno (Bacurau) </option>
+                  
+                  <option value="201"> Moreno/Jaboatão </option>
+                  
+                  <option value="612"> Morro da Conceição </option>
+                  
+                  <option value="613"> Morro da Conceição (Bacurau) </option>
+                  
+                  <option value="420"> Muribara (Integração) </option>
+                  
+                  <option value="162"> Muribeca </option>
+                  
+                  <option value="165"> Muribeca dos Guararapes </option>
+                  
+                  <option value="312"> Mustardinha </option>
+                  
+                  <option value="937"> Nobre/Paulista </option>
+                  
+                  <option value="208"> Nossa Senhora da Conceição/Jaboatão </option>
+                  
+                  <option value="515"> Nova Descoberta (Bacurau) </option>
+                  
+                  <option value="631"> Nova Descoberta (Cabugá) </option>
+                  
+                  <option value="514"> Nova Descoberta (Córrego do Joaquim) </option>
+                  
+                  <option value="510"> Nova Descoberta/Derby </option>
+                  
+                  <option value="417"> Nova Morada/Caxangá </option>
+                  
+                  <option value="841"> Nova Olinda </option>
+                  
+                  <option value="927"> Ouro Preto (Bacurau) </option>
+                  
+                  <option value="911"> Ouro Preto (Cohab) </option>
+                  
+                  <option value="921"> Ouro Preto (Jatobá I) </option>
+                  
+                  <option value="926"> Ouro Preto (Jatobá II) </option>
+                  
+                  <option value="916"> Ouro Preto/Joana Bezerra </option>
+                  
+                  <option value="886"> Ouro Preto/Rio Doce </option>
+                  
+                  <option value="601"> P. R. Bola na Rede/Macaxeira </option>
+                  
+                  <option value="242"> Pacheco </option>
+                  
+                  <option value="129"> Paiva/T.I. Cabo </option>
+                  
+                  <option value="935"> Paratibe/PE-15 </option>
+                  
+                  <option value="106"> Parque Aeronáutica/Santa Luzia </option>
+                  
+                  <option value="492"> Parque Capibaribe (Integração) </option>
+                  
+                  <option value="402"> Parque Capibaribe/Caxangá </option>
+                  
+                  <option value="992"> Pau Amarelo </option>
+                  
+                  <option value="995"> Pau Amarelo (Bacurau) </option>
+                  
+                  <option value="922"> Pau Amarelo/Paulista </option>
+                  
+                  <option value="990"> Pau Amarelo/Varadouro </option>
+                  
+                  <option value="977"> Paulista (Conde da Boa Vista) </option>
+                  
+                  <option value="976"> Paulista (Prefeitura) </option>
+                  
+                  <option value="979"> Paulista (Rua do Sol) - Expresso </option>
+                  
+                  <option value="909"> Paulista/Joana Bezerra </option>
+                  
+                  <option value="906"> Paulista/Macaxeira </option>
+                  
+                  <option value="907"> Paulista/Rio Doce </option>
+                  
+                  <option value="970"> Paulista/T.I. PE-15 </option>
+                  
+                  <option value="915"> PE-15 </option>
+                  
+                  <option value="914"> PE-15/Afogados </option>
+                  
+                  <option value="50"> PE-15/Boa Viagem </option>
+                  
+                  <option value="913"> PE-15/Joana Bezerra </option>
+                  
+                  <option value="486"> Penedo/T.I. Camaragibe </option>
+                  
+                  <option value="61"> Piedade </option>
+                  
+                  <option value="11"> Piedade/Derby </option>
+                  
+                  <option value="910"> Piedade/Rio Doce </option>
+                  
+                  <option value="10"> Piedade/Shopping Center </option>
+                  
+                  <option value="111"> Pinheiros </option>
+                  
+                  <option value="183"> Ponte dos Carvalhos </option>
+                  
+                  <option value="150"> Ponte dos Carvalhos/Prazeres </option>
+                  
+                  <option value="1"> Ponte dos Carvalhos/Prazeres (Barra de Jangada) </option>
+                  
+                  <option value="178"> Porto de Suape/T.I. Cabo </option>
+                  
+                  <option value="118"> Prazeres/Boa Viagem </option>
+                  
+                  <option value="21"> Q.G. da Aeronáutica </option>
+                  
+                  <option value="255"> Quitandinha/T.I. Cavaleiro </option>
+                  
+                  <option value="196"> Recife/Porto de Galinhas (IMIP) </option>
+                  
+                  <option value="191"> Recife/Porto de Galinhas (Nossa Senhora do Ó) </option>
+                  
+                  <option value="195"> Recife/Porto de Galinhas (Opcional) </option>
+                  
+                  <option value="38"> Residencial Boa Viagem (Bacurau) </option>
+                  
+                  <option value="985"> Rio Doce (Bacurau) </option>
+                  
+                  <option value="966"> Rio Doce (Circular) </option>
+                  
+                  <option value="981"> Rio Doce (Conde da Boa Vista) </option>
+                  
+                  <option value="983"> Rio Doce (Princesa Isabel) </option>
+                  
+                  <option value="987"> Rio Doce (Príncipe) </option>
+                  
+                  <option value="920"> Rio Doce/CDU </option>
+                  
+                  <option value="986"> Rio Doce/Derby </option>
+                  
+                  <option value="930"> Rio Doce/Dois Irmãos </option>
+                  
+                  <option value="416"> Roda de Fogo </option>
+                  
+                  <option value="313"> San Martin (Abdias de Carvalho) </option>
+                  
+                  <option value="412"> San Martin (Largo da Paz) </option>
+                  
+                  <option value="844"> Santa Casa </option>
+                  
+                  <option value="897"> Santa Casa/Caenga </option>
+                  
+                  <option value="810"> Santa Casa/Encruzilhada </option>
+                  
+                  <option value="861"> Santa Casa/Joana Bezerra </option>
+                  
+                  <option value="204"> Santa Luzia/Loteamento Jiquiá </option>
+                  
+                  <option value="476"> Santa Mônica (Integração) </option>
+                  
+                  <option value="477"> Santa Terezinha (Integração) </option>
+                  
+                  <option value="478"> Santana (Integração) </option>
+                  
+                  <option value="250"> Santo Aleixo/Jaboatão (Luz) </option>
+                  
+                  <option value="251"> Santo Aleixo/Jaboatão (Rios) </option>
+                  
+                  <option value="457"> São Lourenço (Bacurau) </option>
+                  
+                  <option value="491"> São Lourenço/Camaragibe </option>
+                  
+                  <option value="410"> São Lourenço/TIP (Capibaribe) </option>
+                  
+                  <option value="32"> Setúbal (Conde da Boa Vista) </option>
+                  
+                  <option value="39"> Setúbal (Príncipe) </option>
+                  
+                  <option value="31"> Shopping Center (Terminal Res. Boa Viagem) </option>
+                  
+                  <option value="60"> Shopping/CDU </option>
+                  
+                  <option value="415"> Sítio das Palmeiras </option>
+                  
+                  <option value="524"> Sítio dos Pintos (Dois Irmãos) </option>
+                  
+                  <option value="527"> Sítio dos Pintos/IMIP (Joana Bezerra) </option>
+                  
+                  <option value="812"> Sítio Novo (Av.Norte) </option>
+                  
+                  <option value="885"> Sítio Novo/Rio Doce </option>
+                  
+                  <option value="445"> Tabatinga </option>
+                  
+                  <option value="26"> TI Aeroporto / Boa Viagem </option>
+                  
+                  <option value="23"> TI Aeroporto / Tancredo Neves </option>
+                  
+                  <option value="115"> TI Aeroporto / TI Afogados </option>
+                  
+                  <option value="475"> Timbi (Integração) </option>
+                  
+                  <option value="481"> Timbi/Derby </option>
+                  
+                  <option value="304"> TIP (Circular) (BR-408) </option>
+                  
+                  <option value="148"> TIP (Curados)/T.I. Cavaleiro </option>
+                  
+                  <option value="370"> TIP / TI Aeroporto </option>
+                  
+                  <option value="493"> Tiúma/Camaragibe </option>
+                  
+                  <option value="418"> Tiúma/Camaragibe (VPP) </option>
+                  
+                  <option value="414"> Torre </option>
+                  
+                  <option value="421"> Torrões </option>
+                  
+                  <option value="426"> Torrões (Bacurau) </option>
+                  
+                  <option value="332"> Totó (Abdias de Carvalho) </option>
+                  
+                  <option value="333"> Totó (Bacurau) </option>
+                  
+                  <option value="331"> Totó (Jardim Planalto) </option>
+                  
+                  <option value="360"> Totó/Boa Viagem </option>
+                  
+                  <option value="133"> Três Carneiros (IMIP) </option>
+                  
+                  <option value="123"> Três Carneiros Baixo (Monte Verde) </option>
+                  
+                  <option value="170"> Três Carneiros/CEASA </option>
+                  
+                  <option value="131"> UR-02 (Bacurau) </option>
+                  
+                  <option value="132"> UR-02/Ibura (Conde da Boa Vista) </option>
+                  
+                  <option value="126"> UR-03 (Pantanal) </option>
+                  
+                  <option value="128"> UR-03/Barro (Milagres) </option>
+                  
+                  <option value="144"> UR-04 </option>
+                  
+                  <option value="136"> UR-05 </option>
+                  
+                  <option value="205"> UR-05/Barro (BR-101) </option>
+                  
+                  <option value="143"> UR-06 </option>
+                  
+                  <option value="446"> UR-07 </option>
+                  
+                  <option value="135"> UR-10 </option>
+                  
+                  <option value="137"> UR-11 </option>
+                  
+                  <option value="146"> UR-11 (Bacurau) </option>
+                  
+                  <option value="103"> UR-11/Barro </option>
+                  
+                  <option value="190"> UR-11/Boa Viagem </option>
+                  
+                  <option value="487"> Várzea Fria/T.I. Camaragibe </option>
+                  
+                  <option value="622"> Vasco da Gama (Cabugá) </option>
+                  
+                  <option value="623"> Vasco da Gama (João de Barros) </option>
+                  
+                  <option value="680"> Vasco da Gama/Afogados </option>
+                  
+                  <option value="630"> Vasco da Gama/Derby </option>
+                  
+                  <option value="466"> Vera Cruz (Integração) </option>
+                  
+                  <option value="221"> Vila Cardeal Silva </option>
+                  
+                  <option value="488"> Vila da Fábrica/Caxangá </option>
+                  
+                  <option value="121"> Vila da Sudene </option>
+                  
+                  <option value="122"> Vila do IPSEP </option>
+                  
+                  <option value="124"> Vila do SESI </option>
+                  
+                  <option value="243"> Vila Dois Carneiros </option>
+                  
+                  <option value="261"> Vila Piedade/Jaboatão/Malvinas </option>
+                  
+                  <option value="252"> Vila Rica/Jaboatão </option>
+                  
+                  <option value="211"> Vila Tamandaré </option>
+                  
+                  <option value="138"> Zumbi do Pacheco </option>
+                  
+                  <option value="203"> Zumbi do Pacheco/Barro (Loteamento) </option>
+                  
+                  <option value="149"> Zumbi do Pacheco/T.I. Cavaleiro </option>
+                  
+                </select>
+              </font></b> </td>
+            </tr>
+            <tr>
+              <td width="85" ><b><font id="font_01"  style="display:''">Itinerário
+                : </font></b></td>
+              <td colspan="4" ><table border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="138" ><select name="SelNomeItinerario" class="caixa_de_texto" id="sel_01"  style="display:''; width:138">
+                        <option value="0">--Nome do Itinerário--</option>
+                        
+                        <option value="5709" selected> Principal </option>
+                        
+                      </select>                    </td>
+                    <td width="99"><div align="center"><img  id="btnImp" src=images/bot_imprimir.gif width="76" height="17" style="cursor:hand" onclick="impri();" /></div></td>
+                    <td width="41"><div align="center"><img  id="btnOK"  src=images/bot_ok.gif width="36" height="17" style="cursor:hand" onclick="MostraItinerario()" /></div></td>
+                  </tr>
+              </table></td>
+            </tr>
+            
+            <tr>
+              <td height="25" width="85"><b> Empresa:&nbsp; </b> </td>
+              <td height="25" width="335"><font color="#000000">
+                Auto Viação Cruzeiro Ltda<br/>
+              </font> </td>
+            </tr>
+            <tr>
+              <td height="25" width="85"><b>Tarifa
+                : </b></td>
+              <td height="25" width="335"><font color="#000000"> &nbsp;&nbsp;R$&nbsp;2,15 </font></td>
+            </tr>
+            <tr style="display:none">
+              
+            </tr>
+            
+		     
+<!--Inicio -->
+		      
+                                        <!-- Alteração contrato 07/2008 Inhalt Thiago Porto -->
+<!--fim -->
+                   
+			
+
+
+
+
+
+
+          </table>
+		  <!--FIM TABLE 01--></td>
+		<tr >
+		  <td align=left valign=top >
+		    <!--TABLE 02-->
+		    <br />
+		    <table width="400" border="0" cellspacing="0" cellpadding="0">
+              
+			  <tr>
+                <td width="781" bgcolor="#CA0F16"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+                    <tr>
+                      <td><b><font color="#FFFFFF"> TERMINAL/PONTO DE RETORNO</font></b></td>
+                    </tr>
+                    <tr>
+                      <td bgcolor="#FFFFFF"><table width="380" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td width="160" height="25"><b><font color="#000000">Logradouro</font></b></td>
+                          <td width="80" height="25" style="Display:none"><b><font color="#000000">Bairro</font></b></td>
+                          <td width="80" height="25"><b><font color="#000000">Munic&iacute;pio</font></b></td>
+                        </tr>
+                        
+                        <tr>
+                          <td colspan="3" height="1" bgcolor="#CCCCCC"></td>
+                        </tr>
+                        <tr >
+                          
+                          <td width="160" height="25"><font color="#000000">
+                            Praça Presidente Getúlio Vargas
+                          </font></td>
+                          
+                          <td style="Display:none" width="80" height="25"><font color="#000000">Boa Viagem</font></td>
+                          <td width="80" height="25"><font color="#000000">Cabo de Santo Agostinho</font></td>
+                        </tr>
+                        
+                        <tr>
+                          <td colspan="3" height="1" bgcolor="#CCCCCC"></td>
+                        </tr>
+                        <tr >
+                          
+                          <td width="160" height="25"><font color="#000000">
+                            Avenida Presidente Getúlio Vargas
+                          </font></td>
+                          
+                          <td style="Display:none" width="80" height="25"><font color="#000000"></font></td>
+                          <td width="80" height="25"><font color="#000000">Cabo de Santo Agostinho</font></td>
+                        </tr>
+                        
+                        <tr>
+                          <td colspan="3" height="1" bgcolor="#CCCCCC"></td>
+                        </tr>
+                        <tr >
+                          
+                          <td width="160" height="25"><font color="#000000">
+                            Rodovia   BR-101-Sul, Antiga
+                          </font></td>
+                          
+                          <td style="Display:none" width="80" height="25"><font color="#000000">Boa Viagem</font></td>
+                          <td width="80" height="25"><font color="#000000">Cabo de Santo Agostinho</font></td>
+                        </tr>
+                        
+                        <tr>
+                          <td colspan="3" height="1" bgcolor="#CCCCCC"></td>
+                        </tr>
+                        <tr >
+                          
+                          <td width="160" height="25"><font color="#000000">
+                            Rodovia   PE-060
+                          </font></td>
+                          
+                          <td style="Display:none" width="80" height="25"><font color="#000000">Boa Viagem</font></td>
+                          <td width="80" height="25"><font color="#000000">Cabo de Santo Agostinho</font></td>
+                        </tr>
+                        
+                        <tr>
+                          <td colspan="3" height="1" bgcolor="#CCCCCC"></td>
+                        </tr>
+                        <tr >
+                          
+                          <td width="160" height="25"><font color="#000000">
+                            Rodovia   PE-028
+                          </font></td>
+                          
+                          <td style="Display:none" width="80" height="25"><font color="#000000">Boa Viagem</font></td>
+                          <td width="80" height="25"><font color="#000000">Cabo de Santo Agostinho</font></td>
+                        </tr>
+                        
+                        <tr>
+                          <td colspan="3" height="1" bgcolor="#CCCCCC"></td>
+                        </tr>
+                        <tr >
+                          
+                          <td width="160" height="25"><font color="#000000">
+                            Rodovia   TDR-Norte
+                          </font></td>
+                          
+                          <td style="Display:none" width="80" height="25"><font color="#000000"></font></td>
+                          <td width="80" height="25"><font color="#000000">Ipojuca</font></td>
+                        </tr>
+                        
+                        <tr>
+                          <td colspan="3" height="1" bgcolor="#CCCCCC"></td>
+                        </tr>
+                        <tr >
+                          
+                          <td width="160" height="25"><font color="#000000">
+                            Rodovia   TDR-Sul
+                          </font></td>
+                          
+                          <td style="Display:none" width="80" height="25"><font color="#000000"></font></td>
+                          <td width="80" height="25"><font color="#000000">Ipojuca</font></td>
+                        </tr>
+                        
+                        <tr>
+                          <td colspan="3" height="1" bgcolor="#CCCCCC"></td>
+                        </tr>
+                        <tr >
+                          
+                          <td width="160" height="25"><font color="#000000">
+                            Acesso   ao Complexo Portuário de Suape
+                          </font></td>
+                          
+                          <td style="Display:none" width="80" height="25"><font color="#000000"></font></td>
+                          <td width="80" height="25"><font color="#000000">Ipojuca</font></td>
+                        </tr>
+                        
+                        <tr>
+                          <td colspan="3" height="2"></td>
+                        </tr>
+                      </table></td>
+                    </tr>
+					
+                </table></td>
+              </tr>
+            </table>
+		    <p><!--FIM TABLE 02-->
+		        <!--TABLE 03-->
+		    </p>
+		    <table width="400" border="0" cellspacing="0" cellpadding="0">
+			
+              <tr>
+                <td width="781" bgcolor="#CA0F16"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+                    <tr>
+                      <td><b><font color="#FFFFFF"> PONTO DE RETORNO/TERMINAL</font></b></td>
+                    </tr>
+                    <tr>
+                      <td bgcolor="#FFFFFF"><table width="380" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td width="160" height="25"><b><font color="#000000">Logradouro</font></b></td>
+                          <td width="80" height="25" style="Display:none"><b><font color="#000000">Bairro</font></b></td>
+                          <td width="80" height="25"><b><font color="#000000">Munic&iacute;pio</font></b></td>
+                        </tr>
+                        
+                        <tr>
+                          <td height="1" colspan="3" bgcolor="#CCCCCC"></td>
+                        </tr>
+                        <tr>
+                          
+                          <td width="160" height="25"><font color="#000000">
+                            Usina   Geradora de Eletricidade Termopernambuco
+                          </font></td>
+                          
+                          <td width="80" height="25" style="Display:none"><font color="#000000"></font></td>
+                          <td width="80" height="25"><font color="#000000">Ipojuca</font></td>
+                        </tr>
+                        
+                        <tr>
+                          <td height="1" colspan="3" bgcolor="#CCCCCC"></td>
+                        </tr>
+                        <tr>
+                          
+                          <td width="160" height="25"><font color="#000000">
+                            Acesso   ao Complexo Portuário de Suape
+                          </font></td>
+                          
+                          <td width="80" height="25" style="Display:none"><font color="#000000"></font></td>
+                          <td width="80" height="25"><font color="#000000">Ipojuca</font></td>
+                        </tr>
+                        
+                        <tr>
+                          <td height="1" colspan="3" bgcolor="#CCCCCC"></td>
+                        </tr>
+                        <tr>
+                          
+                          <td width="160" height="25"><font color="#000000">
+                            Rodovia   TDR-Sul
+                          </font></td>
+                          
+                          <td width="80" height="25" style="Display:none"><font color="#000000"></font></td>
+                          <td width="80" height="25"><font color="#000000">Ipojuca</font></td>
+                        </tr>
+                        
+                        <tr>
+                          <td height="1" colspan="3" bgcolor="#CCCCCC"></td>
+                        </tr>
+                        <tr>
+                          
+                          <td width="160" height="25"><font color="#000000">
+                            Rodovia   TDR-Norte
+                          </font></td>
+                          
+                          <td width="80" height="25" style="Display:none"><font color="#000000"></font></td>
+                          <td width="80" height="25"><font color="#000000">Ipojuca</font></td>
+                        </tr>
+                        
+                        <tr>
+                          <td height="1" colspan="3" bgcolor="#CCCCCC"></td>
+                        </tr>
+                        <tr>
+                          
+                          <td width="160" height="25"><font color="#000000">
+                            Rodovia   PE-028
+                          </font></td>
+                          
+                          <td width="80" height="25" style="Display:none"><font color="#000000">Boa Viagem</font></td>
+                          <td width="80" height="25"><font color="#000000">Cabo de Santo Agostinho</font></td>
+                        </tr>
+                        
+                        <tr>
+                          <td height="1" colspan="3" bgcolor="#CCCCCC"></td>
+                        </tr>
+                        <tr>
+                          
+                          <td width="160" height="25"><font color="#000000">
+                            Rodovia   PE-060
+                          </font></td>
+                          
+                          <td width="80" height="25" style="Display:none"><font color="#000000">Boa Viagem</font></td>
+                          <td width="80" height="25"><font color="#000000">Cabo de Santo Agostinho</font></td>
+                        </tr>
+                        
+                        <tr>
+                          <td height="1" colspan="3" bgcolor="#CCCCCC"></td>
+                        </tr>
+                        <tr>
+                          
+                          <td width="160" height="25"><font color="#000000">
+                            Rua Historiador Pereira da Costa
+                          </font></td>
+                          
+                          <td width="80" height="25" style="Display:none"><font color="#000000">Boa Viagem</font></td>
+                          <td width="80" height="25"><font color="#000000">Cabo de Santo Agostinho</font></td>
+                        </tr>
+                        
+                        <tr>
+                          <td height="1" colspan="3" bgcolor="#CCCCCC"></td>
+                        </tr>
+                        <tr>
+                          
+                          <td width="160" height="25"><font color="#000000">
+                            Avenida Presidente Getúlio Vargas
+                          </font></td>
+                          
+                          <td width="80" height="25" style="Display:none"><font color="#000000"></font></td>
+                          <td width="80" height="25"><font color="#000000">Cabo de Santo Agostinho</font></td>
+                        </tr>
+                        
+                        <tr>
+                          <td height="1" colspan="3" bgcolor="#CCCCCC"></td>
+                        </tr>
+                        <tr>
+                          
+                          <td width="160" height="25"><font color="#000000">
+                            Praça Presidente Getúlio Vargas
+                          </font></td>
+                          
+                          <td width="80" height="25" style="Display:none"><font color="#000000">Boa Viagem</font></td>
+                          <td width="80" height="25"><font color="#000000">Cabo de Santo Agostinho</font></td>
+                        </tr>
+                        
+                        <tr>
+                          <td colspan="3" height="2"></td>
+                        </tr>
+                      </table></td>
+                    </tr>
+                </table></td>
+              </tr>
+			   
+            </table>
+		    <br />
+		    <br />
+		    <!--FIM TABLE 03-->
+<table border="0" cellspacing=0 cellpadding=0  width="420">
+	<tr>
+<!-- 		<td background="imagens/degrade.gif"> -->
+		<td align=right>
+                  &nbsp;&nbsp;<img src=imagens/logo.gif onClick="window.open('http://www.inhalt.com.br','Inhalt');" style="cursor:hand" ></td>
+	</tr>
+	</table>
+	<table cellspacing=0 cellpadding=0  width="415">
+<!-- 	<tr>
+		<td background="imagens/pixel_azul.gif" height="3"  align="center"></td>
+	</tr> -->
+</table>		  </td>
+		</tr>
+		</tbody>
+	      </table>
+	  </td>
+
+	  </tr>
+	</table>
+			 </td>
+
+		      </tr>
+
+		   </table>
+
+
+
+
+
+
+
+<!--              fim -->
+
+        	</td>
+	</tr>
+
+</table>
+	  </td>
+	</tr>
+</table>
+</form>
+					  </td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+<!--                       <td><a href="javascript:history.back()"><img src="../images/interna/bt_voltar.gif" width="43" height="8" border="0" /></a></td> -->
+                    </tr>
+                  </table>
+                <!-- InstanceEndEditable --></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('../images/menu/transporte.gif','../images/menu/servicos.gif','../images/menu/campanhas.gif','../images/menu/imprensa.gif','../images/menu/ouvidoria.gif','../images/menu/granderecife.gif')"><table width="474" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="37"><a href="../granderecife_historico.asp"><img src="../images/menu/granderecife2.gif" width="99" height="16" border="0" id="Image1" onMouseOver="MM_swapImage('Image1','','../images/menu/granderecife.gif',1)" onMouseOut="MM_swapImgRestore()" /></a></td>
+    <td width="15"><img src="../images/inv.gif" width="15" height="10" /></td>
+    <td width="82"><a href="../transporte_operadoras.asp"><img src="../images/menu/transporte2.gif" width="82" height="16" border="0" id="Image2" onMouseOver="MM_swapImage('Image2','','../images/menu/transporte.gif',1)" onMouseOut="MM_swapImgRestore()" /></a></td>
+    <td width="15"><img src="../images/inv.gif" width="15" height="10" /></td>
+    <td width="62"><a href="../servicos_bilhetagem_eletronica.asp"><img src="../images/menu/servicos2.gif" width="62" height="16" border="0" id="Image5" onMouseOver="MM_swapImage('Image5','','../images/menu/servicos.gif',1)" onMouseOut="MM_swapImgRestore()" /></a></td>
+    <td width="100%" align="center"><a href="/"><img src="../images/menu/servicos2.gif" width="62" height="16" border="0" id="Image5" onMouseOver="MM_swapImage('Image5','','../images/menu/servicos.gif',1)" onMouseOut="MM_swapImgRestore()" /></a></td>
+    <td width="15"><img src="../images/inv.gif" width="15" height="10" /></td>
+    <td width="83"><a href="../campanhas.asp"><img src="../images/menu/campanhas2.gif" width="83" height="16" border="0" id="Image6" onMouseOver="MM_swapImage('Image6','','../images/menu/campanhas.gif',1)" onMouseOut="MM_swapImgRestore()" /></a></td>
+    <td width="15"><img src="../images/inv.gif" width="15" height="10" /></td>
+    <td width="67"><a href="../noticias.asp"><img src="../images/menu/imprensa2.gif" width="67" height="16" border="0" id="Image7" onMouseOver="MM_swapImage('Image7','','../images/menu/imprensa.gif',1)" onMouseOut="MM_swapImgRestore()" /></a></td>
+    <td width="15"><img src="../images/inv.gif" width="15" height="10" /></td>
+    <td width="68"><a href="../ouvidoria.asp"><img src="../images/menu/ouvidoria2.gif" width="68" height="16" border="0" id="Image8" onMouseOver="MM_swapImage('Image8','','../images/menu/ouvidoria.gif',1)" onMouseOut="MM_swapImgRestore()" /></a></td>
+  </tr>
+</table>
+</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="../images/index/bg_fim.gif" width="779" height="34" /></td>
+  </tr>
+</table>
+
+</body>
+<!-- InstanceEnd --></html>
