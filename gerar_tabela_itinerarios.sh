@@ -7,7 +7,7 @@ baixar_pagina ()
 
 extrair_lista_options ()
 {
-	grep --regexp="<option\svalue\s*=\s*" itinerarios.asp > linhas_onibus_raw
+	grep --regexp="<option\svalue\s*=\s*" itinerarios.asp > linhas_onibus_raw 
 }
 
 remover_caracteres_invalidos ()
@@ -34,7 +34,7 @@ remover_javascript ()
 
 gerar_lista_itinerarios ()
 {
-	join -t : itinerarios_sem_as_linhas linhas_onibus > lista_itinerarios
+	join -t : itinerarios_sem_as_linhas linhas_onibus > lista_itinerarios.txt
 }
 
 limpeza ()
