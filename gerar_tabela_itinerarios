@@ -8,7 +8,7 @@ grep --regexp="arrayitinerario\[[[:digit:]]\+\]\[[[:digit:]]\+\]" itinerarios.as
 sed s/"\(arrayitinerario\[2\]\[[[:digit:]]\+\][[:space:]]*=[[:space:]]*'[[:alnum:]]*';\)"/"\1\n"/g itinerarios_raw > itinerarios_raw2
 sed s/"arrayitinerario\[[[:digit:]]\+\]\[[[:digit:]]\+\][[:space:]]*=[[:space:]]*"//g itinerarios_raw2 > itinerarios_raw3
 sed s/\'//g itinerarios_raw3 | sed s/";"/":"/g | sed s/":\$"// | sort > itinerarios_sem_as_linhas
-join -t : itinerarios_sem_as_linhas linhas_onibus > itinerarios
+join -t : itinerarios_sem_as_linhas linhas_onibus > lista_itinerarios
 rm itinerarios_raw itinerarios_raw2 itinerarios_raw3 itinerarios.asp
 rm linhas_onibus_raw linhas_onibus_raw_ascii
 rm itinerarios_sem_as_linhas linhas_onibus
