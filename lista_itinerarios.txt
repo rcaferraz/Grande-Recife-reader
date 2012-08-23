@@ -203,7 +203,8 @@
 437:6682:Principal:Caxang (Conde da Boa Vista) 
 43:8843:Principal:Aeroporto/Tacaruna (Derby) 
 440:8610:Principal:CDU/Caxang/Boa Viagem 
-442:8103:Principal:Jardim  Primavera (Vale das Pedreiras) 
+442:8894:AtendimentoLoteamentoNazare:Jardim  Primavera (Vale das Pedreiras) 
+442:8895:Principal:Jardim  Primavera (Vale das Pedreiras) 
 445:8073:Principal:Tabatinga 
 446:8074:Principal:UR-07 
 448:8412:Principal:Jardim Petrpolis 
