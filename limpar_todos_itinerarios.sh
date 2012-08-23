@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for file in $(ls itinerarios_raw/ -1)
+do
+	filename=`echo $file | sed s/"\(itinerario_[[:digit:]]\+_[[:digit:]]\+\)_raw"/"\1_clean"/`
+	echo $filename
+	./extrair_logradouros.sh itinerarios_raw/$file > itinerarios_clean/$filename
+done
