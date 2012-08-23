@@ -41,7 +41,8 @@ limpeza ()
 {
 	rm itinerarios_raw.txt itinerarios_raw2 itinerarios_raw3 itinerarios.asp
 	rm linhas_onibus_raw.txt linhas_onibus_raw_ascii
-#	rm itinerarios_sem_as_linhas linhas_onibus
+	rm itinerarios_sem_as_linhas
+	rm linhas_onibus
 }
 
 
