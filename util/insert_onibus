@@ -1,0 +1,7 @@
+INSERT INTO `onibusrecife`.`searchstreet_onibus` (
+`numero` ,
+`nome`
+)
+VALUES (
+'522', 'Dois Irmaos (Rui Barbosa)'
+);
