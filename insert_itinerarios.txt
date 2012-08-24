@@ -241,7 +241,7 @@ INSERT INTO `onibusrecife`.`searchstreet_itinerario` ( `numero` , `nome` , `onib
 INSERT INTO `onibusrecife`.`searchstreet_itinerario` ( `numero` , `nome` , `onibus_id` ) VALUES ( '8768', 'Principal', '493');
 INSERT INTO `onibusrecife`.`searchstreet_itinerario` ( `numero` , `nome` , `onibus_id` ) VALUES ( '8590', 'Principal', '50');
 INSERT INTO `onibusrecife`.`searchstreet_itinerario` ( `numero` , `nome` , `onibus_id` ) VALUES ( '8817', 'Principal', '510');
-INSERT INTO `onibusrecife`.`searchstreet_itinerario` ( `numero` , `nome` , `onibus_id` ) VALUES ( '8818', 'Principal', '511');
+INSERT INTO `onibusrecife`.`searchstreet_itinerario` ( `numero` , `nome` , `onibus_id` ) VALUES ( '8897', 'Principal', '511');
 INSERT INTO `onibusrecife`.`searchstreet_itinerario` ( `numero` , `nome` , `onibus_id` ) VALUES ( '8819', 'Principal', '513');
 INSERT INTO `onibusrecife`.`searchstreet_itinerario` ( `numero` , `nome` , `onibus_id` ) VALUES ( '8831', 'NaoAtendePCR', '513');
 INSERT INTO `onibusrecife`.`searchstreet_itinerario` ( `numero` , `nome` , `onibus_id` ) VALUES ( '8820', 'Principal', '514');
@@ -339,7 +339,7 @@ INSERT INTO `onibusrecife`.`searchstreet_itinerario` ( `numero` , `nome` , `onib
 INSERT INTO `onibusrecife`.`searchstreet_itinerario` ( `numero` , `nome` , `onibus_id` ) VALUES ( '8506', 'ViaCruzCabuga', '831');
 INSERT INTO `onibusrecife`.`searchstreet_itinerario` ( `numero` , `nome` , `onibus_id` ) VALUES ( '8505', 'Principal', '838');
 INSERT INTO `onibusrecife`.`searchstreet_itinerario` ( `numero` , `nome` , `onibus_id` ) VALUES ( '8508', 'Principal', '840');
-INSERT INTO `onibusrecife`.`searchstreet_itinerario` ( `numero` , `nome` , `onibus_id` ) VALUES ( '6574', 'Principal', '841');
+INSERT INTO `onibusrecife`.`searchstreet_itinerario` ( `numero` , `nome` , `onibus_id` ) VALUES ( '8896', 'Principal', '841');
 INSERT INTO `onibusrecife`.`searchstreet_itinerario` ( `numero` , `nome` , `onibus_id` ) VALUES ( '8509', 'Principal', '842');
 INSERT INTO `onibusrecife`.`searchstreet_itinerario` ( `numero` , `nome` , `onibus_id` ) VALUES ( '5852', 'Principal', '843');
 INSERT INTO `onibusrecife`.`searchstreet_itinerario` ( `numero` , `nome` , `onibus_id` ) VALUES ( '7419', 'Principal', '844');
