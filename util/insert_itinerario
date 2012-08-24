@@ -1,0 +1,8 @@
+INSERT INTO `onibusrecife`.`searchstreet_itinerario` (
+`numero` ,
+`nome` ,
+`onibus_id`
+)
+VALUES (
+'8012', 'Principal', '522'
+);
