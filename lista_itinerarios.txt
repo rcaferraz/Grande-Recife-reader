@@ -1,3 +1,5 @@
+0:1561:ImbiribeiraBoaviagem:--Nome do Itinerário--
+0:1561:ImbiribeiraBoaviagem:--Selecione a Linha--
 100:8714:Principal:Circular (Conde da Boa Vista) 
 101:8718:Principal:Circular (Conde da Boa Vista) - Rua do Sol 
 102:8861:Principal:Ibura/Santa Luzia 

@@ -301,7 +301,7 @@ INSERT INTO `onibusrecife`.`searchstreet_onibus` ( `numero` , `nome` ) VALUES ( 
 INSERT INTO `onibusrecife`.`searchstreet_onibus` ( `numero` , `nome` ) VALUES ( '847', 'Alto Nova Olinda ' );
 INSERT INTO `onibusrecife`.`searchstreet_onibus` ( `numero` , `nome` ) VALUES ( '850', 'Aguazinha/Joana Bezerra ' );
 INSERT INTO `onibusrecife`.`searchstreet_onibus` ( `numero` , `nome` ) VALUES ( '851', 'Córrego do Abacaxi ' );
-INSERT INTO `onibusrecife`.`searchstreet_onibus` ( `numero` , `nome` ) VALUES ( '852', 'Caixa D´água ' );
+INSERT INTO `onibusrecife`.`searchstreet_onibus` ( `numero` , `nome` ) VALUES ( '852', 'Caixa D'água ' );
 INSERT INTO `onibusrecife`.`searchstreet_onibus` ( `numero` , `nome` ) VALUES ( '861', 'Santa Casa/Joana Bezerra ' );
 INSERT INTO `onibusrecife`.`searchstreet_onibus` ( `numero` , `nome` ) VALUES ( '870', 'Caixa D´água/Afogados ' );
 INSERT INTO `onibusrecife`.`searchstreet_onibus` ( `numero` , `nome` ) VALUES ( '881', 'Caenga/Rio Doce (Getúlio Vargas) ' );

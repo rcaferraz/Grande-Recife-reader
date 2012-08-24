@@ -1,0 +1,1 @@
+INSERT INTO `onibusrecife`.`searchstreet_itinerario_parada` (`id`, `itinerario_id`, `parada_id`, `parada_literal`, `ordem`) VALUES (NULL, '8012', NULL, 'Avenida Acadêmico Hélio Ramos', '1');
