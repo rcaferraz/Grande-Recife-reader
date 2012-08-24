@@ -1,20 +1,18 @@
-0:1561:ImbiribeiraBoaviagem:--Nome do Itinerrio--
-0:1561:ImbiribeiraBoaviagem:--Selecione a Linha--
 100:8714:Principal:Circular (Conde da Boa Vista) 
 101:8718:Principal:Circular (Conde da Boa Vista) - Rua do Sol 
 102:8861:Principal:Ibura/Santa Luzia 
 103:8152:Principal:UR-11/Barro 
 104:8751:Principal:Circular (IMIP) 
-106:6342:Principal:Parque Aeronutica/Santa Luzia 
-107:8715:Principal:Circular (Cabug / Prefeitura) 
+106:6342:Principal:Parque Aeronáutica/Santa Luzia 
+107:8715:Principal:Circular (Cabugá / Prefeitura) 
 108:5380:Principal:Barro/CEASA 
 10:8577:Principal:Piedade/Shopping Center 
 110:8856:Principal:Ibura/Boa Viagem 
 110:8857:NaoAtendeaoShopping:Ibura/Boa Viagem 
 111:6938:Principal:Pinheiros 
 115:8726:Principal:TI Aeroporto / TI Afogados 
-116:7140:Principal:Circular (Prncipe) 
-117:8716:Principal:Circular (Prefeitura / Cabug) 
+116:7140:Principal:Circular (Príncipe) 
+117:8716:Principal:Circular (Prefeitura / Cabugá) 
 118:8599:Principal:Prazeres/Boa Viagem 
 118:8728:ViaJardimBeiraRio:Prazeres/Boa Viagem 
 119:6641:Principal:Circular/T.I. Cabo 
@@ -22,17 +20,17 @@
 120:8799:Principal:IPSEP/Shopping Recife 
 121:8767:Principal:Vila da Sudene 
 122:8777:Principal:Vila do IPSEP 
-123:8778:Principal:Trs Carneiros Baixo (Monte Verde) 
+123:8778:Principal:Três Carneiros Baixo (Monte Verde) 
 124:8616:Principal:Vila do SESI 
-125:8246:Principal:Crrego da Gameleira 
+125:8246:Principal:Córrego da Gameleira 
 126:6401:Principal:UR-03 (Pantanal) 
 128:8218:Principal:UR-03/Barro (Milagres) 
 129:6644:Principal:Paiva/T.I. Cabo 
 130:8600:Principal:Conj. Marcos Freire/Boa Viagem 
 131:8859:Principal:UR-02 (Bacurau) 
 132:8860:Principal:UR-02/Ibura (Conde da Boa Vista) 
-133:8862:Principal:Trs Carneiros (IMIP) 
-133:8863:PCRecife:Trs Carneiros (IMIP) 
+133:8862:Principal:Três Carneiros (IMIP) 
+133:8863:PCRecife:Três Carneiros (IMIP) 
 134:8779:PCRecife:Lagoa Encantada 
 134:8780:Principal:Lagoa Encantada 
 135:7367:Principal:UR-10 
@@ -54,11 +52,11 @@
 148:8735:Principal:TIP (Curados)/T.I. Cavaleiro 
 149:6339:Principal:Zumbi do Pacheco/T.I. Cavaleiro 
 150:8772:Principal:Ponte dos Carvalhos/Prazeres 
-151:8722:Principal:Jardim Jordo / Aeroporto 
-152:8724:Principal:Jordo Baixo / Aeroporto 
-153:8723:Principal:Jordo Alto / Aeroporto 
-154:8242:Principal:Jordo (Bacurau) 
-155:8601:Principal:Jordo Baixo/Boa Viagem 
+151:8722:Principal:Jardim Jordão / Aeroporto 
+152:8724:Principal:Jordão Baixo / Aeroporto 
+153:8723:Principal:Jordão Alto / Aeroporto 
+154:8242:Principal:Jordão (Bacurau) 
+155:8601:Principal:Jordão Baixo/Boa Viagem 
 157:6818:Principal:Gaibu/T.I. Cabo 
 158:8108:Principal:Garapu/T.I. Cabo 
 159:6652:Principal:Charneca/T.I. Cabo 
@@ -70,7 +68,7 @@
 164:8201:Principal:Conjunto Marcos Freire 
 165:8753:Principal:Muribeca dos Guararapes 
 166:7758:Principal:Cajueiro Seco/Afogados 
-170:8864:Principal:Trs Carneiros/CEASA 
+170:8864:Principal:Três Carneiros/CEASA 
 172:6175:Principal:Conjunto Marcos Freire (Bacurau) 
 178:8883:Principal:Porto de Suape/T.I. Cabo 
 180:8603:Principal:Dois Carneiros/Boa Viagem 
@@ -80,12 +78,12 @@
 185:8482:Principal:Cabo 
 189:5709:Principal:Cabo/Porto de Suape 
 190:7362:Principal:UR-11/Boa Viagem 
-191:8461:ViaBoaViagemDerby:Recife/Porto de Galinhas (Nossa Senhora do ) 
-191:8462:ViaBoaViagem:Recife/Porto de Galinhas (Nossa Senhora do ) 
-191:8463:Principal:Recife/Porto de Galinhas (Nossa Senhora do ) 
-191:8464:PrincipalMaracaipe:Recife/Porto de Galinhas (Nossa Senhora do ) 
-191:8465:ViaBoaViagemMaracaipe:Recife/Porto de Galinhas (Nossa Senhora do ) 
-191:8466:ViaBoaViagemMuroAlto:Recife/Porto de Galinhas (Nossa Senhora do ) 
+191:8461:ViaBoaViagemDerby:Recife/Porto de Galinhas (Nossa Senhora do Ó) 
+191:8462:ViaBoaViagem:Recife/Porto de Galinhas (Nossa Senhora do Ó) 
+191:8463:Principal:Recife/Porto de Galinhas (Nossa Senhora do Ó) 
+191:8464:PrincipalMaracaipe:Recife/Porto de Galinhas (Nossa Senhora do Ó) 
+191:8465:ViaBoaViagemMaracaipe:Recife/Porto de Galinhas (Nossa Senhora do Ó) 
+191:8466:ViaBoaViagemMuroAlto:Recife/Porto de Galinhas (Nossa Senhora do Ó) 
 194:7841:Principal:Cabo/Porto de Galinhas 
 195:8471:Principal:Recife/Porto de Galinhas (Opcional) 
 195:8472:ViaMuroAlto:Recife/Porto de Galinhas (Opcional) 
@@ -96,24 +94,24 @@
 198:8888:Principal:Ipojuca/T.I. Cabo 
 199:8889:Principal:Camela/T.I. Cabo 
 199:8890:ViaSerrambi:Camela/T.I. Cabo 
-200:7775:Principal:Jaboato (Parador) 
-201:8604:Principal:Moreno/Jaboato 
-202:8663:Principal:Barro/Macaxeira (Vrzea) 
+200:7775:Principal:Jaboatão (Parador) 
+201:8604:Principal:Moreno/Jaboatão 
+202:8663:Principal:Barro/Macaxeira (Várzea) 
 203:5371:Principal:Zumbi do Pacheco/Barro (Loteamento) 
-204:7390:Principal:Santa Luzia/Loteamento Jiqui 
+204:7390:Principal:Santa Luzia/Loteamento Jiquiá 
 205:8624:Principal:UR-05/Barro (BR-101) 
 206:5373:Principal:Barro/Prazeres 
 207:8376:Principal:Barro/Macaxeira (BR -101) 
-208:6995:Principal:Nossa Senhora da Conceio/Jaboato 
+208:6995:Principal:Nossa Senhora da Conceição/Jaboatão 
 209:5244:Principal:Coqueiral/Barro 
-211:8617:Principal:Vila Tamandar 
-212:8865:Principal:Jardim So Paulo 
+211:8617:Principal:Vila Tamandaré 
+212:8865:Principal:Jardim São Paulo 
 216:5375:Principal:Barro/Prazeres (BR-101) 
-219:8736:ViaFabricas1:Jaboato/TIP (Sancho) 
-219:8737:ViaFabricas2:Jaboato/TIP (Sancho) 
-220:6314:Principal:Jaboato/T.I. Cavaleiro 
+219:8736:ViaFabricas1:Jaboatão/TIP (Sancho) 
+219:8737:ViaFabricas2:Jaboatão/TIP (Sancho) 
+220:6314:Principal:Jaboatão/T.I. Cavaleiro 
 221:8618:Principal:Vila Cardeal Silva 
-222:8256:Principal:Jardim Ucha 
+222:8256:Principal:Jardim Uchôa 
 232:8625:Principal:Cavaleiro 
 233:3629:Principal:Cavaleiro (Bacurau) 
 23:8887:Principal:TI Aeroporto / Tancredo Neves 
@@ -124,20 +122,20 @@
 243:8789:CaisdeSantaRita:Vila Dois Carneiros 
 244:6556:Principal:Alto do Vento/T.I. Cavaleiro 
 245:7394:Principal:Dois Carneiros/T.I. Cavaleiro 
-250:3821:Principal:Santo Aleixo/Jaboato (Luz) 
-251:3822:Principal:Santo Aleixo/Jaboato (Rios) 
-252:8260:Principal:Vila Rica/Jaboato 
-254:3691:Principal:Jaboato (Bacurau) 
+250:3821:Principal:Santo Aleixo/Jaboatão (Luz) 
+251:3822:Principal:Santo Aleixo/Jaboatão (Rios) 
+252:8260:Principal:Vila Rica/Jaboatão 
+254:3691:Principal:Jaboatão (Bacurau) 
 255:5868:Principal:Quitandinha/T.I. Cavaleiro 
-256:6338:Principal:Lot. Nova Esperana/T.I. Cavaleiro 
+256:6338:Principal:Lot. Nova Esperança/T.I. Cavaleiro 
 258:4999:Principal:Moreno (Bacurau) 
-261:5899:Principal:Vila Piedade/Jaboato/Malvinas 
+261:5899:Principal:Vila Piedade/Jaboatão/Malvinas 
 26:8731:Principal:TI Aeroporto / Boa Viagem 
-272:8626:Principal:Colnia/Jaboato 
-274:8070:Principal:Lote 56/Jaboato 
-290:8750:Principal:Bonana/Jaboato 
-302:8834:Principal:Curado II/Caxang 
-303:8614:Principal:Curado II/Caxang (BR-232) 
+272:8626:Principal:Colônia/Jaboatão 
+274:8070:Principal:Lote 56/Jaboatão 
+290:8750:Principal:Bonança/Jaboatão 
+302:8834:Principal:Curado II/Caxangá 
+303:8614:Principal:Curado II/Caxangá (BR-232) 
 304:7336:Principal:TIP (Circular) (BR-408) 
 311:8796:Principal:Bongi (Afogados) 
 312:8641:Principal:Mustardinha 
@@ -145,23 +143,23 @@
 314:8627:Principal:Mangueira 
 315:8795:Principal:Bongi 
 31:8585:Principal:Shopping Center (Terminal Res. Boa Viagem) 
-320:8867:Principal:Curado I/Werneck (Via Tot) 
-321:8739:Principal:Jardim So Paulo (Abdias de Carvalho) 
-322:8868:Principal:Jardim So Paulo (Bacurau) 
-324:8678:Principal:Jardim So Paulo (Piracicaba) 
-324:8869:ViaJusticaFederal:Jardim So Paulo (Piracicaba) 
-32:8586:Principal:Setbal (Conde da Boa Vista) 
+320:8867:Principal:Curado I/Werneck (Via Totó) 
+321:8739:Principal:Jardim São Paulo (Abdias de Carvalho) 
+322:8868:Principal:Jardim São Paulo (Bacurau) 
+324:8678:Principal:Jardim São Paulo (Piracicaba) 
+324:8869:ViaJusticaFederal:Jardim São Paulo (Piracicaba) 
+32:8586:Principal:Setúbal (Conde da Boa Vista) 
 330:8816:Principal:Casa Amarela/CDU (TRT) 
-331:8373:PCRecife:Tot (Jardim Planalto) 
-331:8605:Principal:Tot (Jardim Planalto) 
-332:7997:Principal:Tot (Abdias de Carvalho) 
-333:6191:Principal:Tot (Bacurau) 
+331:8373:PCRecife:Totó (Jardim Planalto) 
+331:8605:Principal:Totó (Jardim Planalto) 
+332:7997:Principal:Totó (Abdias de Carvalho) 
+333:6191:Principal:Totó (Bacurau) 
 33:8841:Principal:Aeroporto 
 33:8842:PCRecife:Aeroporto 
 341:6192:Principal:Curado I 
 351:8606:Principal:Curado II 
 352:8226:Principal:Curado II (Bacurau) 
-360:8870:Principal:Tot/Boa Viagem 
+360:8870:Principal:Totó/Boa Viagem 
 361:8608:Principal:Curado IV - R. 14 
 362:8228:Principal:Curado IV (Bacurau) 
 363:8230:CuradoTIP:Curado IV - Av. 01 
@@ -169,145 +167,145 @@
 36:5673:Principal:Aeroporto (Bacurau) 
 370:8802:Principal:TIP / TI Aeroporto 
 38:7392:Principal:Residencial Boa Viagem (Bacurau) 
-39:8587:Principal:Setbal (Prncipe) 
-402:7647:Principal:Parque Capibaribe/Caxang 
-410:8100:Principal:So Loureno/TIP (Capibaribe) 
-411:8237:NaoAtendePCR:Estrada dos Remdios 
-411:8238:Principal:Estrada dos Remdios 
+39:8587:Principal:Setúbal (Príncipe) 
+402:7647:Principal:Parque Capibaribe/Caxangá 
+410:8100:Principal:São Lourenço/TIP (Capibaribe) 
+411:8237:NaoAtendePCR:Estrada dos Remédios 
+411:8238:Principal:Estrada dos Remédios 
 412:8629:Principal:San Martin (Largo da Paz) 
 413:8621:Principal:Avenida do Forte 
 414:8483:Principal:Torre 
 414:8487:ViaPCR:Torre 
 414:8488:ViaBeiraRio:Torre 
-415:6822:Principal:Stio das Palmeiras 
+415:6822:Principal:Sítio das Palmeiras 
 416:6823:Principal:Roda de Fogo 
-417:7193:Principal:Nova Morada/Caxang 
-418:7646:Principal:Tima/Camaragibe (VPP) 
-419:8101:Principal:Matriz da Luz (Integrao) 
-420:8102:Principal:Muribara (Integrao) 
-421:8231:Principal:Torres 
-422:7195:Principal:Monsenhor Fabrcio 
+417:7193:Principal:Nova Morada/Caxangá 
+418:7646:Principal:Tiúma/Camaragibe (VPP) 
+419:8101:Principal:Matriz da Luz (Integração) 
+420:8102:Principal:Muribara (Integração) 
+421:8231:Principal:Torrões 
+422:7195:Principal:Monsenhor Fabrício 
 423:7196:Principal:Engenho do Meio 
-424:8270:Principal:CDU/Torres (Via San Martin) 
+424:8270:Principal:CDU/Torrões (Via San Martin) 
 425:8223:ViaCaxanga:Barbalho (Detran) 
 425:8422:ViaMauriciodeNassau:Barbalho (Detran) 
-426:8682:Principal:Torres (Bacurau) 
-427:6205:Principal:Monsenhor Fabrcio (Bacurau) 
+426:8682:Principal:Torrões (Bacurau) 
+427:6205:Principal:Monsenhor Fabrício (Bacurau) 
 42:8845:Principal:Aeroporto (Opcional) 
-431:8232:Principal:Cidade Universitria 
-432:7893:Principal:CDU (Vrzea) 
-432:7894:PCRecife:CDU (Vrzea) 
+431:8232:Principal:Cidade Universitária 
+432:7893:Principal:CDU (Várzea) 
+432:7894:PCRecife:CDU (Várzea) 
 433:7895:Principal:Brasilit 
 433:7896:NaoAtendePCR:Brasilit 
-435:6207:Principal:CDU (Vrzea) (Bacurau) 
-437:6682:Principal:Caxang (Conde da Boa Vista) 
+435:6207:Principal:CDU (Várzea) (Bacurau) 
+437:6682:Principal:Caxangá (Conde da Boa Vista) 
 43:8843:Principal:Aeroporto/Tacaruna (Derby) 
-440:8610:Principal:CDU/Caxang/Boa Viagem 
+440:8610:Principal:CDU/Caxangá/Boa Viagem 
 442:8894:AtendimentoLoteamentoNazare:Jardim  Primavera (Vale das Pedreiras) 
 442:8895:Principal:Jardim  Primavera (Vale das Pedreiras) 
 445:8073:Principal:Tabatinga 
 446:8074:Principal:UR-07 
-448:8412:Principal:Jardim Petrpolis 
+448:8412:Principal:Jardim Petrópolis 
 450:8075:Principal:Camaragibe (Conde da Boa Vista) 
-457:7640:Principal:So Loureno (Bacurau) 
-459:8076:UR07:Loteamento Santos Cosme e Damio 
-459:8077:UR07PCRecife:Loteamento Santos Cosme e Damio 
-459:8389:CamaragibePCRecife:Loteamento Santos Cosme e Damio 
-459:8390:Camaragibe:Loteamento Santos Cosme e Damio 
-460:8155:Principal:Camaragibe (Prncipe) 
-462:8391:Principal:Lot. Santos Cosme Damio (Bacurau) 
-463:8192:Principal:Araoiaba/Camaragibe 
-464:8388:Principal:Jardim Terespolis/Caxang 
-466:8081:Principal:Vera Cruz (Integrao) 
-467:8193:Principal:Ch de Cruz (Integrao) 
+457:7640:Principal:São Lourenço (Bacurau) 
+459:8076:UR07:Loteamento Santos Cosme e Damião 
+459:8077:UR07PCRecife:Loteamento Santos Cosme e Damião 
+459:8389:CamaragibePCRecife:Loteamento Santos Cosme e Damião 
+459:8390:Camaragibe:Loteamento Santos Cosme e Damião 
+460:8155:Principal:Camaragibe (Príncipe) 
+462:8391:Principal:Lot. Santos Cosme Damião (Bacurau) 
+463:8192:Principal:Araçoiaba/Camaragibe 
+464:8388:Principal:Jardim Teresópolis/Caxangá 
+466:8081:Principal:Vera Cruz (Integração) 
+467:8193:Principal:Chã de Cruz (Integração) 
 469:8235:Principal:Camaragibe/CDU 
-473:8083:Principal:Loteamento Joo Paulo II (Integrao) 
-475:7891:Principal:Timbi (Integrao) 
-476:8084:Principal:Santa Mnica (Integrao) 
-476:8085:AtendimentoaViana:Santa Mnica (Integrao) 
-476:8529:AtendimentoAltoSantoAntonio:Santa Mnica (Integrao) 
-477:8086:Principal:Santa Terezinha (Integrao) 
-478:7858:Principal:Santana (Integrao) 
+473:8083:Principal:Loteamento João Paulo II (Integração) 
+475:7891:Principal:Timbi (Integração) 
+476:8084:Principal:Santa Mônica (Integração) 
+476:8085:AtendimentoaViana:Santa Mônica (Integração) 
+476:8529:AtendimentoAltoSantoAntonio:Santa Mônica (Integração) 
+477:8086:Principal:Santa Terezinha (Integração) 
+478:7858:Principal:Santana (Integração) 
 480:8087:Principal:Camaragibe/Derby 
 480:8366:SET:Camaragibe/Derby 
 481:8175:Principal:Timbi/Derby 
-483:8090:Principal:Loteamento So Joo e So Paulo (Integrao) 
+483:8090:Principal:Loteamento São João e São Paulo (Integração) 
 486:8194:Principal:Penedo/T.I. Camaragibe 
-487:8092:Principal:Vrzea Fria/T.I. Camaragibe 
-488:8093:Principal:Vila da Fbrica/Caxang 
-488:8094:ViaEstradadeAldeia:Vila da Fbrica/Caxang 
-489:8095:Principal:Bairro dos Estados/Caxang 
+487:8092:Principal:Várzea Fria/T.I. Camaragibe 
+488:8093:Principal:Vila da Fábrica/Caxangá 
+488:8094:ViaEstradadeAldeia:Vila da Fábrica/Caxangá 
+489:8095:Principal:Bairro dos Estados/Caxangá 
 490:8664:Principal:Camaragibe/Macaxeira 
-491:8196:Principal:So Loureno/Camaragibe 
-492:8195:Principal:Parque Capibaribe (Integrao) 
-493:8768:Principal:Tima/Camaragibe 
+491:8196:Principal:São Lourenço/Camaragibe 
+492:8195:Principal:Parque Capibaribe (Integração) 
+493:8768:Principal:Tiúma/Camaragibe 
 50:8590:Principal:PE-15/Boa Viagem 
 510:8817:Principal:Nova Descoberta/Derby 
-511:8818:Principal:Alto do Mand 
-513:8819:Principal:Crrego da Areia 
-513:8831:NaoAtendePCR:Crrego da Areia 
-514:8820:Principal:Nova Descoberta (Crrego do Joaquim) 
+511:8897:Principal:Alto do Mandú 
+513:8819:Principal:Córrego da Areia 
+513:8831:NaoAtendePCR:Córrego da Areia 
+514:8820:Principal:Nova Descoberta (Córrego do Joaquim) 
 515:8821:Principal:Nova Descoberta (Bacurau) 
 516:8822:Principal:Casa Amarela (Nova Torre) 
-517:5725:Principal:Crrego do Incio 
+517:5725:Principal:Córrego do Inácio 
 520:7278:Principal:Macaxeira/Parnamirim 
 521:8056:Principal:Alto Santa Isabel 
-522:8012:Principal:Dois Irmos (Rui Barbosa) 
-522:8013:PCRecife:Dois Irmos (Rui Barbosa) 
-523:8878:Principal:Dois Irmos (Bacurau) 
-524:8665:Principal:Stio dos Pintos (Dois Irmos) 
-524:8666:PCRecife:Stio dos Pintos (Dois Irmos) 
-527:8763:Principal:Stio dos Pintos/IMIP (Joana Bezerra) 
+522:8012:Principal:Dois Irmãos (Rui Barbosa) 
+522:8013:PCRecife:Dois Irmãos (Rui Barbosa) 
+523:8878:Principal:Dois Irmãos (Bacurau) 
+524:8665:Principal:Sítio dos Pintos (Dois Irmãos) 
+524:8666:PCRecife:Sítio dos Pintos (Dois Irmãos) 
+527:8763:Principal:Sítio dos Pintos/IMIP (Joana Bezerra) 
 531:8823:Principal:Casa Amarela (Rosa e Silva) 
-532:8832:Principal:Casa Amarela (Cabug) 
+532:8832:Principal:Casa Amarela (Cabugá) 
 533:8891:Principal:Casa Amarela (Bacurau) 
 601:7732:Principal:P. R. Bola na Rede/Macaxeira 
 604:8528:Principal:Alto do Burity/Macaxeira 
 60:8591:Principal:Shopping/CDU 
-611:5767:Principal:Alto Jos do Pinho 
-612:6543:ViaPCR:Morro da Conceio 
-612:6931:Principal:Morro da Conceio 
-613:6550:Principal:Morro da Conceio (Bacurau) 
+611:5767:Principal:Alto José do Pinho 
+612:6543:ViaPCR:Morro da Conceição 
+612:6931:Principal:Morro da Conceição 
+613:6550:Principal:Morro da Conceição (Bacurau) 
 61:8592:Principal:Piedade 
 621:6328:Principal:Alto Treze de Maio 
-622:8492:Principal:Vasco da Gama (Cabug) 
-623:8848:Principal:Vasco da Gama (Joo de Barros) 
-623:8849:PCRecife:Vasco da Gama (Joo de Barros) 
+622:8492:Principal:Vasco da Gama (Cabugá) 
+623:8848:Principal:Vasco da Gama (João de Barros) 
+623:8849:PCRecife:Vasco da Gama (João de Barros) 
 624:8485:Principal:Brejo 
 626:6222:Principal:Brejo (Bacurau) 
 62:8593:Principal:Jardim Piedade 
 630:8826:Principal:Vasco da Gama/Derby 
-631:6348:NaoAtendePCR:Nova Descoberta (Cabug) 
-631:8486:Principal:Nova Descoberta (Cabug) 
-632:5598:Principal:Alto do Refgio 
+631:6348:NaoAtendePCR:Nova Descoberta (Cabugá) 
+631:8486:Principal:Nova Descoberta (Cabugá) 
+632:5598:Principal:Alto do Refúgio 
 63:7043:Principal:Jardim Piedade (Bacurau) 
 640:8833:Principal:Guabiraba/Derby 
-642:6545:PCRecife:Guabiraba (Crrego do Jenipapo) 
-642:6930:Principal:Guabiraba (Crrego do Jenipapo) 
-643:6225:Principal:Crrego do Jenipapo (Bacurau) 
-644:8847:Principal:Largo do Maracan 
+642:6545:PCRecife:Guabiraba (Córrego do Jenipapo) 
+642:6930:Principal:Guabiraba (Córrego do Jenipapo) 
+643:6225:Principal:Córrego do Jenipapo (Bacurau) 
+644:8847:Principal:Largo do Maracanã 
 645:8499:Principal:Av. Norte (Macaxeira) 
 680:6748:Principal:Vasco da Gama/Afogados 
-69:8594:Principal:Conjunto Catamar 
+69:8594:Principal:Conjunto Catamarã 
 700:8496:Principal:Beberibe/Afogados 
 70:8595:Principal:Candeias/Joana Bezerra 
 710:8828:Principal:Beberibe/Derby 
 711:6715:Principal:Alto do Pascoal 
 712:6716:PCRecife:Alto Santa Terezinha 
 712:6864:Principal:Alto Santa Terezinha 
-713:6834:ViaChadeAlegria:Bomba do Hemetrio 
-713:6835:Principal:Bomba do Hemetrio 
-713:6836:PCRecife:Bomba do Hemetrio 
-714:7771:Principal:Alto Jos Bonifcio (Av. Norte) 
+713:6834:ViaChadeAlegria:Bomba do Hemetério 
+713:6835:Principal:Bomba do Hemetério 
+713:6836:PCRecife:Bomba do Hemetério 
+714:7771:Principal:Alto José Bonifácio (Av. Norte) 
 715:8873:Principal:Alto Santa Terezinha (Bacurau) 
-717:4109:Principal:Jos Amarino dos Reis 
-718:8829:Principal:Crrego do Euclides/Derby 
-721:8063:Principal:gua Fria 
+717:4109:Principal:José Amarino dos Reis 
+718:8829:Principal:Córrego do Euclides/Derby 
+721:8063:Principal:Água Fria 
 722:7772:Principal:Campina do Barreto 
 723:6843:Principal:Cajueiro 
 723:8360:ViaDerby:Cajueiro 
-724:5649:NaoAtendePCR:Cho de Estrelas 
-724:6844:Principal:Cho de Estrelas 
+724:5649:NaoAtendePCR:Chão de Estrelas 
+724:6844:Principal:Chão de Estrelas 
 726:8064:Principal:Alto Santa Terezinha (Conde da Boa Vista) 
 72:8284:Principal:Candeias (Opcional) 
 730:8375:Principal:Beberibe/Av. Norte 
@@ -316,53 +314,53 @@
 741:6846:Principal:Dois Unidos 
 741:6847:PrefeituraPombal:Dois Unidos 
 742:7773:Principal:Linha do Tiro 
-743:6848:Principal:Alto Jos Bonifcio (Joo de Barros) 
-743:6849:PCRecife:Alto Jos Bonifcio (Joo de Barros) 
+743:6848:Principal:Alto José Bonifácio (João de Barros) 
+743:6849:PCRecife:Alto José Bonifácio (João de Barros) 
 744:8880:Principal:Dois Unidos (Bacurau) 
-745:8881:Principal:Alto Jos Bonifcio (Bacurau) 
-746:6752:PCRecife:Alto do Capito 
-746:6862:Principal:Alto do Capito 
+745:8881:Principal:Alto José Bonifácio (Bacurau) 
+746:6752:PCRecife:Alto do Capitão 
+746:6862:Principal:Alto do Capitão 
 760:8359:Principal:Dois Unidos/Derby 
 780:8500:Principal:Alto Santa Terezinha/Derby 
 800:7774:Principal:Dois Unidos/Afogados 
 80:8597:Principal:Joana Bezerra/Boa Viagem 
 810:7960:Principal:Santa Casa/Encruzilhada 
-811:8065:Principal:Campo Grande (Term. Stio Novo) 
-812:6304:Principal:Stio Novo (Av.Norte) 
-821:7141:Principal:Jardim Brasil I (Estrada de Belm) 
-822:8501:Principal:Jardim Brasil I (Cruz Cabug) 
-823:8502:Principal:Jardim Brasil II (Estrada de Belm) 
-824:8503:Principal:Jardim Brasil II (Cruz Cabug) 
+811:8065:Principal:Campo Grande (Term. Sítio Novo) 
+812:6304:Principal:Sítio Novo (Av.Norte) 
+821:7141:Principal:Jardim Brasil I (Estrada de Belém) 
+822:8501:Principal:Jardim Brasil I (Cruz Cabugá) 
+823:8502:Principal:Jardim Brasil II (Estrada de Belém) 
+824:8503:Principal:Jardim Brasil II (Cruz Cabugá) 
 825:8357:Principal:Jardim Brasil/Joana Bezerra 
 827:6690:Principal:Jardim Brasil (Bacurau) 
-830:8347:CorregodoAbacaxi:Caixa Dgua/Derby 
-830:8348:Principal:Caixa Dgua/Derby 
+830:8347:CorregodoAbacaxi:Caixa D´Água/Derby 
+830:8348:Principal:Caixa D´Água/Derby 
 831:8504:ViaEstradadeBelem:Aguazinha 
 831:8506:ViaCruzCabuga:Aguazinha 
 838:8505:Principal:Alto da Conquista 
 840:8508:Principal:Alto da Bondade/Joana Bezerra 
-841:6574:Principal:Nova Olinda 
-842:8509:Principal:guas Compridas 
-843:5852:Principal:Alto da Bondade (Vila Nossa Senhora da Conceio) 
+841:8896:Principal:Nova Olinda 
+842:8509:Principal:Águas Compridas 
+843:5852:Principal:Alto da Bondade (Vila Nossa Senhora da Conceição) 
 844:7419:Principal:Santa Casa 
-846:8872:Principal:guas Compridas (Bacurau) 
-846:8874:ViaStaCasaeAguazinha:guas Compridas (Bacurau) 
-846:8875:ViaAltodaBondade:guas Compridas (Bacurau) 
+846:8872:Principal:Águas Compridas (Bacurau) 
+846:8874:ViaStaCasaeAguazinha:Águas Compridas (Bacurau) 
+846:8875:ViaAltodaBondade:Águas Compridas (Bacurau) 
 847:8510:Principal:Alto Nova Olinda 
 850:8515:Principal:Aguazinha/Joana Bezerra 
-851:6320:Principal:Crrego do Abacaxi 
-852:8516:Principal:Caixa D'gua 
-852:8517:PCRecife:Caixa D'gua 
-852:8519:Cabuga:Caixa D'gua 
+851:6320:Principal:Córrego do Abacaxi 
+852:8516:Principal:Caixa D'água 
+852:8517:PCRecife:Caixa D'água 
+852:8519:Cabuga:Caixa D'água 
 861:8518:Principal:Santa Casa/Joana Bezerra 
-870:7434:Principal:Caixa Dgua/Afogados 
-881:8512:Principal:Caenga/Rio Doce (Getlio Vargas) 
+870:7434:Principal:Caixa D´água/Afogados 
+881:8512:Principal:Caenga/Rio Doce (Getúlio Vargas) 
 882:8575:Principal:Caenga/Rio Doce (Carlos de Lima Cavalcanti) 
 883:8514:Principal:Caenga/Rio Doce (II Perimetral) 
 884:8511:Principal:Jardim Brasil/Rio Doce 
-885:7963:Principal:Stio Novo/Rio Doce 
+885:7963:Principal:Sítio Novo/Rio Doce 
 886:8701:Principal:Ouro Preto/Rio Doce 
-889:8402:Principal:Caixa Dgua/Caenga 
+889:8402:Principal:Caixa Dágua/Caenga 
 890:8407:Principal:Aguazinha/Caenga 
 891:8408:Principal:Alto Nova Olinda/Caenga 
 892:8409:Principal:Alto do Cajueiro/Caenga 
@@ -371,11 +369,11 @@
 895:8531:Principal:Alto do Sol Nascente/Caenga 
 896:8405:Principal:Cidade Tabajara/Ouro Preto 
 897:8406:Principal:Santa Casa/Caenga 
-901:7573:ViaAvNiloCoelhoTarde:Caets/Macaxeira 
-901:7574:ViaAvNiloCoelhoManha:Caets/Macaxeira 
-901:7733:Principal:Caets/Macaxeira 
+901:7573:ViaAvNiloCoelhoTarde:Caetés/Macaxeira 
+901:7574:ViaAvNiloCoelhoManha:Caetés/Macaxeira 
+901:7733:Principal:Caetés/Macaxeira 
 902:6107:Principal:Mirueira/Macaxeira 
-903:7890:Principal:Igarassu/Araoiaba 
+903:7890:Principal:Igarassu/Araçoiaba 
 904:7413:Principal:Igarassu/Nova Cruz 
 905:8649:Principal:Igarassu/Paulista 
 906:8210:Principal:Paulista/Macaxeira 
@@ -389,7 +387,7 @@
 910:8322:BarradeJangada:Piedade/Rio Doce 
 910:8611:Principal:Piedade/Rio Doce 
 911:8741:Principal:Ouro Preto (Cohab) 
-912:7736:Principal:Caets I/Paulista 
+912:7736:Principal:Caetés I/Paulista 
 913:8551:Principal:PE-15/Joana Bezerra 
 914:8497:Principal:PE-15/Afogados 
 914:8498:ViaTamarineira:PE-15/Afogados 
@@ -397,17 +395,17 @@
 915:8553:PCRecife:PE-15 
 916:8554:ViaArgentina:Ouro Preto/Joana Bezerra 
 916:8555:ViaCohab:Ouro Preto/Joana Bezerra 
-917:6580:Principal:Caets II/Paulista 
+917:6580:Principal:Caetés II/Paulista 
 918:7740:Principal:Circular (Porta Larga) 
 920:8521:Principal:Rio Doce/CDU 
-921:8522:Principal:Ouro Preto (Jatob I) 
+921:8522:Principal:Ouro Preto (Jatobá I) 
 922:7939:Principal:Pau Amarelo/Paulista 
 923:7741:Principal:Cidade Tabajara/PE-15 
-926:8401:Principal:Ouro Preto (Jatob II) 
+926:8401:Principal:Ouro Preto (Jatobá II) 
 927:8871:Principal:Ouro Preto (Bacurau) 
 928:8556:Principal:Maranguape II (Bacurau) 
 929:4571:Principal:Alameda Paulista/Rio Doce (Maranguape I) 
-930:8830:Principal:Rio Doce/Dois Irmos 
+930:8830:Principal:Rio Doce/Dois Irmãos 
 931:7742:Principal:Jardim Paulista Baixo/PE-15 
 932:7743:Principal:Jardim  Paulista Alto/PE-15 
 933:7520:Principal:Abreu e Lima/Paulista 
@@ -418,27 +416,27 @@
 940:8558:Principal:Abreu e Lima/Olinda 
 941:7747:Principal:Arthur Lundgren II/PE-15 
 943:7748:Principal:Mirueira/PE-15 
-944:7052:Principal:Loteamento Conceio/Paulista 
+944:7052:Principal:Loteamento Conceição/Paulista 
 945:7940:Principal:Jaguarana/Paulista (Alameda) 
 946:8742:Principal:Igarassu (BR-101) 
 948:8397:Principal:Arthur Lundgren II/Macaxeira 
-949:7517:ViaCaetesIIIParatibe:Caets/Centro de Paulista (Paratibe) 
-949:7518:ViaParatibeCaetesIII:Caets/Centro de Paulista (Paratibe) 
-949:7627:Principal:Caets/Centro de Paulista (Paratibe) 
+949:7517:ViaCaetesIIIParatibe:Caetés/Centro de Paulista (Paratibe) 
+949:7518:ViaParatibeCaetesIII:Caetés/Centro de Paulista (Paratibe) 
+949:7627:Principal:Caetés/Centro de Paulista (Paratibe) 
 950:8692:Principal:Engenho Maranguape/Varadouro 
 952:7054:ViaManoelQuirinoTavares:Maranguape I/Paulista 
 952:7055:ViaNelsonFerreira:Maranguape I/Paulista 
 953:7943:Principal:Maranguape II/Paulista 
 955:8693:Principal:Engenho Maranguape/Paulista 
 956:8743:Principal:Igarassu (Bacurau) 
-957:8654:Principal:Caets I (Bacurau) 
+957:8654:Principal:Caetés I (Bacurau) 
 958:8776:Principal:Costa Azul 
 960:8450:Principal:Maria Farinha/Casa Caiada 
 964:8652:Principal:Igarassu/Macaxeira 
 966:1907:Principal:Rio Doce (Circular) 
-967:8653:Principal:Igarassu (Stio Histrico) 
-968:7751:Principal:Ilha de Itamarac/Igarassu 
-968:7752:ForteOrange:Ilha de Itamarac/Igarassu 
+967:8653:Principal:Igarassu (Sítio Histórico) 
+968:7751:Principal:Ilha de Itamaracá/Igarassu 
+968:7752:ForteOrange:Ilha de Itamaracá/Igarassu 
 969:7416:Principal:Itapissuma/Igarassu 
 970:8574:Principal:Paulista/T.I. PE-15 
 971:8694:Principal:Amparo 
@@ -446,11 +444,11 @@
 972:8839:Principal:Bultrins 
 973:8697:ItinerarioTurnoMT:Casa Caiada 
 973:8698:ItinerarioN:Casa Caiada 
-974:7941:Principal:Jardim Atlntico 
+974:7941:Principal:Jardim Atlântico 
 975:8413:Principal:Amparo (Bacurau) 
 976:8744:Principal:Paulista (Prefeitura) 
 977:8745:Principal:Paulista (Conde da Boa Vista) 
-978:8451:Principal:Loteamento Conceio/Rio Doce (PE-22) 
+978:8451:Principal:Loteamento Conceição/Rio Doce (PE-22) 
 979:8746:Principal:Paulista (Rua do Sol) - Expresso 
 980:4787:Principal:Igarassu/Cidade Tabajara 
 981:8452:Principal:Rio Doce (Conde da Boa Vista) 
@@ -459,7 +457,7 @@
 984:7754:Principal:Loteamento Bonfim/Paulista 
 985:8454:Principal:Rio Doce (Bacurau) 
 986:8702:Principal:Rio Doce/Derby 
-987:8457:Principal:Rio Doce (Prncipe) 
+987:8457:Principal:Rio Doce (Príncipe) 
 988:7512:Principal:Desterro/Paulista 
 989:7516:Principal:Loteamento Planalto/Paulista 
 990:6359:Principal:Pau Amarelo/Varadouro 
@@ -470,4 +468,4 @@
 994:7935:PCRecife:Conjunto Beira Mar 
 995:8532:Principal:Pau Amarelo (Bacurau) 
 996:5760:Principal:Arthur Lundgren II/Rio Doce (Paratibe) 
-998:7478:Principal:Caets III/Paulista 
+998:7478:Principal:Caetés III/Paulista 

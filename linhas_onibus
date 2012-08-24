@@ -3,31 +3,31 @@
 102:Ibura/Santa Luzia 
 103:UR-11/Barro 
 104:Circular (IMIP) 
-106:Parque Aeronutica/Santa Luzia 
-107:Circular (Cabug / Prefeitura) 
+106:Parque Aeronáutica/Santa Luzia 
+107:Circular (Cabugá / Prefeitura) 
 108:Barro/CEASA 
 10:Piedade/Shopping Center 
 110:Ibura/Boa Viagem 
 111:Pinheiros 
 115:TI Aeroporto / TI Afogados 
-116:Circular (Prncipe) 
-117:Circular (Prefeitura / Cabug) 
+116:Circular (Príncipe) 
+117:Circular (Prefeitura / Cabugá) 
 118:Prazeres/Boa Viagem 
 119:Circular/T.I. Cabo 
 11:Piedade/Derby 
 120:IPSEP/Shopping Recife 
 121:Vila da Sudene 
 122:Vila do IPSEP 
-123:Trs Carneiros Baixo (Monte Verde) 
+123:Três Carneiros Baixo (Monte Verde) 
 124:Vila do SESI 
-125:Crrego da Gameleira 
+125:Córrego da Gameleira 
 126:UR-03 (Pantanal) 
 128:UR-03/Barro (Milagres) 
 129:Paiva/T.I. Cabo 
 130:Conj. Marcos Freire/Boa Viagem 
 131:UR-02 (Bacurau) 
 132:UR-02/Ibura (Conde da Boa Vista) 
-133:Trs Carneiros (IMIP) 
+133:Três Carneiros (IMIP) 
 134:Lagoa Encantada 
 135:UR-10 
 136:UR-05 
@@ -44,13 +44,13 @@
 146:UR-11 (Bacurau) 
 148:TIP (Curados)/T.I. Cavaleiro 
 149:Zumbi do Pacheco/T.I. Cavaleiro 
-14:Braslia (Conde da Boa Vista) 
+14:Brasília (Conde da Boa Vista) 
 150:Ponte dos Carvalhos/Prazeres 
-151:Jardim Jordo / Aeroporto 
-152:Jordo Baixo / Aeroporto 
-153:Jordo Alto / Aeroporto 
-154:Jordo (Bacurau) 
-155:Jordo Baixo/Boa Viagem 
+151:Jardim Jordão / Aeroporto 
+152:Jordão Baixo / Aeroporto 
+153:Jordão Alto / Aeroporto 
+154:Jordão (Bacurau) 
+155:Jordão Baixo/Boa Viagem 
 1561:ImbiribeiraBoaviagem 
 157:Gaibu/T.I. Cabo 
 158:Garapu/T.I. Cabo 
@@ -62,7 +62,7 @@
 164:Conjunto Marcos Freire 
 165:Muribeca dos Guararapes 
 166:Cajueiro Seco/Afogados 
-170:Trs Carneiros/CEASA 
+170:Três Carneiros/CEASA 
 172:Conjunto Marcos Freire (Bacurau) 
 178:Porto de Suape/T.I. Cabo 
 180:Dois Carneiros/Boa Viagem 
@@ -71,9 +71,9 @@
 184:Cabo (Bacurau) 
 185:Cabo 
 189:Cabo/Porto de Suape 
-18:Braslia Teimosa 
+18:Brasília Teimosa 
 190:UR-11/Boa Viagem 
-191:Recife/Porto de Galinhas (Nossa Senhora do ) 
+191:Recife/Porto de Galinhas (Nossa Senhora do Ó) 
 194:Cabo/Porto de Galinhas 
 195:Recife/Porto de Galinhas (Opcional) 
 196:Recife/Porto de Galinhas (IMIP) 
@@ -81,25 +81,25 @@
 198:Ipojuca/T.I. Cabo 
 199:Camela/T.I. Cabo 
 1:Ponte dos Carvalhos/Prazeres (Barra de Jangada) 
-200:Jaboato (Parador) 
-201:Moreno/Jaboato 
-202:Barro/Macaxeira (Vrzea) 
+200:Jaboatão (Parador) 
+201:Moreno/Jaboatão 
+202:Barro/Macaxeira (Várzea) 
 203:Zumbi do Pacheco/Barro (Loteamento) 
-204:Santa Luzia/Loteamento Jiqui 
+204:Santa Luzia/Loteamento Jiquiá 
 205:UR-05/Barro (BR-101) 
 206:Barro/Prazeres 
 207:Barro/Macaxeira (BR -101) 
-208:Nossa Senhora da Conceio/Jaboato 
+208:Nossa Senhora da Conceição/Jaboatão 
 209:Coqueiral/Barro 
-20:Candeias/Dois Irmos 
-211:Vila Tamandar 
-212:Jardim So Paulo 
+20:Candeias/Dois Irmãos 
+211:Vila Tamandaré 
+212:Jardim São Paulo 
 216:Barro/Prazeres (BR-101) 
-219:Jaboato/TIP (Sancho) 
-21:Q.G. da Aeronutica 
-220:Jaboato/T.I. Cavaleiro 
+219:Jaboatão/TIP (Sancho) 
+21:Q.G. da Aeronáutica 
+220:Jaboatão/T.I. Cavaleiro 
 221:Vila Cardeal Silva 
-222:Jardim Ucha 
+222:Jardim Uchôa 
 232:Cavaleiro 
 233:Cavaleiro (Bacurau) 
 23:TI Aeroporto / Tancredo Neves 
@@ -108,20 +108,20 @@
 243:Vila Dois Carneiros 
 244:Alto do Vento/T.I. Cavaleiro 
 245:Dois Carneiros/T.I. Cavaleiro 
-250:Santo Aleixo/Jaboato (Luz) 
-251:Santo Aleixo/Jaboato (Rios) 
-252:Vila Rica/Jaboato 
-254:Jaboato (Bacurau) 
+250:Santo Aleixo/Jaboatão (Luz) 
+251:Santo Aleixo/Jaboatão (Rios) 
+252:Vila Rica/Jaboatão 
+254:Jaboatão (Bacurau) 
 255:Quitandinha/T.I. Cavaleiro 
-256:Lot. Nova Esperana/T.I. Cavaleiro 
+256:Lot. Nova Esperança/T.I. Cavaleiro 
 258:Moreno (Bacurau) 
-261:Vila Piedade/Jaboato/Malvinas 
+261:Vila Piedade/Jaboatão/Malvinas 
 26:TI Aeroporto / Boa Viagem 
-272:Colnia/Jaboato 
-274:Lote 56/Jaboato 
-290:Bonana/Jaboato 
-302:Curado II/Caxang 
-303:Curado II/Caxang (BR-232) 
+272:Colônia/Jaboatão 
+274:Lote 56/Jaboatão 
+290:Bonança/Jaboatão 
+302:Curado II/Caxangá 
+303:Curado II/Caxangá (BR-232) 
 304:TIP (Circular) (BR-408) 
 311:Bongi (Afogados) 
 312:Mustardinha 
@@ -129,142 +129,142 @@
 314:Mangueira 
 315:Bongi 
 31:Shopping Center (Terminal Res. Boa Viagem) 
-320:Curado I/Werneck (Via Tot) 
-321:Jardim So Paulo (Abdias de Carvalho) 
-322:Jardim So Paulo (Bacurau) 
-324:Jardim So Paulo (Piracicaba) 
-32:Setbal (Conde da Boa Vista) 
+320:Curado I/Werneck (Via Totó) 
+321:Jardim São Paulo (Abdias de Carvalho) 
+322:Jardim São Paulo (Bacurau) 
+324:Jardim São Paulo (Piracicaba) 
+32:Setúbal (Conde da Boa Vista) 
 330:Casa Amarela/CDU (TRT) 
-331:Tot (Jardim Planalto) 
-332:Tot (Abdias de Carvalho) 
-333:Tot (Bacurau) 
+331:Totó (Jardim Planalto) 
+332:Totó (Abdias de Carvalho) 
+333:Totó (Bacurau) 
 33:Aeroporto 
 341:Curado I 
 351:Curado II 
 352:Curado II (Bacurau) 
-360:Tot/Boa Viagem 
+360:Totó/Boa Viagem 
 361:Curado IV - R. 14 
 362:Curado IV (Bacurau) 
 363:Curado IV - Av. 01 
 36:Aeroporto (Bacurau) 
 370:TIP / TI Aeroporto 
 38:Residencial Boa Viagem (Bacurau) 
-39:Setbal (Prncipe) 
-402:Parque Capibaribe/Caxang 
-40:CDU/Boa Viagem/Caxang 
-410:So Loureno/TIP (Capibaribe) 
-411:Estrada dos Remdios 
+39:Setúbal (Príncipe) 
+402:Parque Capibaribe/Caxangá 
+40:CDU/Boa Viagem/Caxangá 
+410:São Lourenço/TIP (Capibaribe) 
+411:Estrada dos Remédios 
 412:San Martin (Largo da Paz) 
 413:Avenida do Forte 
 414:Torre 
-415:Stio das Palmeiras 
+415:Sítio das Palmeiras 
 416:Roda de Fogo 
-417:Nova Morada/Caxang 
-418:Tima/Camaragibe (VPP) 
-419:Matriz da Luz (Integrao) 
-420:Muribara (Integrao) 
-421:Torres 
-422:Monsenhor Fabrcio 
+417:Nova Morada/Caxangá 
+418:Tiúma/Camaragibe (VPP) 
+419:Matriz da Luz (Integração) 
+420:Muribara (Integração) 
+421:Torrões 
+422:Monsenhor Fabrício 
 423:Engenho do Meio 
-424:CDU/Torres (Via San Martin) 
+424:CDU/Torrões (Via San Martin) 
 425:Barbalho (Detran) 
-426:Torres (Bacurau) 
-427:Monsenhor Fabrcio (Bacurau) 
+426:Torrões (Bacurau) 
+427:Monsenhor Fabrício (Bacurau) 
 42:Aeroporto (Opcional) 
-431:Cidade Universitria 
-432:CDU (Vrzea) 
+431:Cidade Universitária 
+432:CDU (Várzea) 
 433:Brasilit 
-435:CDU (Vrzea) (Bacurau) 
-437:Caxang (Conde da Boa Vista) 
+435:CDU (Várzea) (Bacurau) 
+437:Caxangá (Conde da Boa Vista) 
 43:Aeroporto/Tacaruna (Derby) 
-440:CDU/Caxang/Boa Viagem 
+440:CDU/Caxangá/Boa Viagem 
 442:Jardim  Primavera (Vale das Pedreiras) 
 445:Tabatinga 
 446:UR-07 
-448:Jardim Petrpolis 
+448:Jardim Petrópolis 
 44:Massangana (Boa Vista) 
 450:Camaragibe (Conde da Boa Vista) 
-457:So Loureno (Bacurau) 
-459:Loteamento Santos Cosme e Damio 
-460:Camaragibe (Prncipe) 
-462:Lot. Santos Cosme Damio (Bacurau) 
-463:Araoiaba/Camaragibe 
-464:Jardim Terespolis/Caxang 
-466:Vera Cruz (Integrao) 
-467:Ch de Cruz (Integrao) 
+457:São Lourenço (Bacurau) 
+459:Loteamento Santos Cosme e Damião 
+460:Camaragibe (Príncipe) 
+462:Lot. Santos Cosme Damião (Bacurau) 
+463:Araçoiaba/Camaragibe 
+464:Jardim Teresópolis/Caxangá 
+466:Vera Cruz (Integração) 
+467:Chã de Cruz (Integração) 
 469:Camaragibe/CDU 
-473:Loteamento Joo Paulo II (Integrao) 
-475:Timbi (Integrao) 
-476:Santa Mnica (Integrao) 
-477:Santa Terezinha (Integrao) 
-478:Santana (Integrao) 
+473:Loteamento João Paulo II (Integração) 
+475:Timbi (Integração) 
+476:Santa Mônica (Integração) 
+477:Santa Terezinha (Integração) 
+478:Santana (Integração) 
 480:Camaragibe/Derby 
 481:Timbi/Derby 
-483:Loteamento So Joo e So Paulo (Integrao) 
+483:Loteamento São João e São Paulo (Integração) 
 486:Penedo/T.I. Camaragibe 
-487:Vrzea Fria/T.I. Camaragibe 
-488:Vila da Fbrica/Caxang 
-489:Bairro dos Estados/Caxang 
+487:Várzea Fria/T.I. Camaragibe 
+488:Vila da Fábrica/Caxangá 
+489:Bairro dos Estados/Caxangá 
 490:Camaragibe/Macaxeira 
-491:So Loureno/Camaragibe 
-492:Parque Capibaribe (Integrao) 
-493:Tima/Camaragibe 
+491:São Lourenço/Camaragibe 
+492:Parque Capibaribe (Integração) 
+493:Tiúma/Camaragibe 
 50:PE-15/Boa Viagem 
 510:Nova Descoberta/Derby 
-511:Alto do Mand 
-513:Crrego da Areia 
-514:Nova Descoberta (Crrego do Joaquim) 
+511:Alto do Mandú 
+513:Córrego da Areia 
+514:Nova Descoberta (Córrego do Joaquim) 
 515:Nova Descoberta (Bacurau) 
 516:Casa Amarela (Nova Torre) 
-517:Crrego do Incio 
+517:Córrego do Inácio 
 520:Macaxeira/Parnamirim 
 521:Alto Santa Isabel 
-522:Dois Irmos (Rui Barbosa) 
-523:Dois Irmos (Bacurau) 
-524:Stio dos Pintos (Dois Irmos) 
-527:Stio dos Pintos/IMIP (Joana Bezerra) 
+522:Dois Irmãos (Rui Barbosa) 
+523:Dois Irmãos (Bacurau) 
+524:Sítio dos Pintos (Dois Irmãos) 
+527:Sítio dos Pintos/IMIP (Joana Bezerra) 
 531:Casa Amarela (Rosa e Silva) 
-532:Casa Amarela (Cabug) 
+532:Casa Amarela (Cabugá) 
 533:Casa Amarela (Bacurau) 
 601:P. R. Bola na Rede/Macaxeira 
 604:Alto do Burity/Macaxeira 
 60:Shopping/CDU 
-611:Alto Jos do Pinho 
-612:Morro da Conceio 
-613:Morro da Conceio (Bacurau) 
+611:Alto José do Pinho 
+612:Morro da Conceição 
+613:Morro da Conceição (Bacurau) 
 61:Piedade 
 621:Alto Treze de Maio 
-622:Vasco da Gama (Cabug) 
-623:Vasco da Gama (Joo de Barros) 
+622:Vasco da Gama (Cabugá) 
+623:Vasco da Gama (João de Barros) 
 624:Brejo 
 626:Brejo (Bacurau) 
 62:Jardim Piedade 
 630:Vasco da Gama/Derby 
-631:Nova Descoberta (Cabug) 
-632:Alto do Refgio 
+631:Nova Descoberta (Cabugá) 
+632:Alto do Refúgio 
 63:Jardim Piedade (Bacurau) 
 640:Guabiraba/Derby 
-642:Guabiraba (Crrego do Jenipapo) 
-643:Crrego do Jenipapo (Bacurau) 
-644:Largo do Maracan 
+642:Guabiraba (Córrego do Jenipapo) 
+643:Córrego do Jenipapo (Bacurau) 
+644:Largo do Maracanã 
 645:Av. Norte (Macaxeira) 
 680:Vasco da Gama/Afogados 
-69:Conjunto Catamar 
+69:Conjunto Catamarã 
 700:Beberibe/Afogados 
 70:Candeias/Joana Bezerra 
 710:Beberibe/Derby 
 711:Alto do Pascoal 
 712:Alto Santa Terezinha 
-713:Bomba do Hemetrio 
-714:Alto Jos Bonifcio (Av. Norte) 
+713:Bomba do Hemetério 
+714:Alto José Bonifácio (Av. Norte) 
 715:Alto Santa Terezinha (Bacurau) 
-717:Jos Amarino dos Reis 
-718:Crrego do Euclides/Derby 
+717:José Amarino dos Reis 
+718:Córrego do Euclides/Derby 
 71:Candeias 
-721:gua Fria 
+721:Água Fria 
 722:Campina do Barreto 
 723:Cajueiro 
-724:Cho de Estrelas 
+724:Chão de Estrelas 
 726:Alto Santa Terezinha (Conde da Boa Vista) 
 72:Candeias (Opcional) 
 730:Beberibe/Av. Norte 
@@ -272,45 +272,45 @@
 73:Candeias (Bacurau) 
 741:Dois Unidos 
 742:Linha do Tiro 
-743:Alto Jos Bonifcio (Joo de Barros) 
+743:Alto José Bonifácio (João de Barros) 
 744:Dois Unidos (Bacurau) 
-745:Alto Jos Bonifcio (Bacurau) 
-746:Alto do Capito 
+745:Alto José Bonifácio (Bacurau) 
+746:Alto do Capitão 
 760:Dois Unidos/Derby 
 780:Alto Santa Terezinha/Derby 
 800:Dois Unidos/Afogados 
 80:Joana Bezerra/Boa Viagem 
 810:Santa Casa/Encruzilhada 
-811:Campo Grande (Term. Stio Novo) 
-812:Stio Novo (Av.Norte) 
-821:Jardim Brasil I (Estrada de Belm) 
-822:Jardim Brasil I (Cruz Cabug) 
-823:Jardim Brasil II (Estrada de Belm) 
-824:Jardim Brasil II (Cruz Cabug) 
+811:Campo Grande (Term. Sítio Novo) 
+812:Sítio Novo (Av.Norte) 
+821:Jardim Brasil I (Estrada de Belém) 
+822:Jardim Brasil I (Cruz Cabugá) 
+823:Jardim Brasil II (Estrada de Belém) 
+824:Jardim Brasil II (Cruz Cabugá) 
 825:Jardim Brasil/Joana Bezerra 
 827:Jardim Brasil (Bacurau) 
-830:Caixa Dgua/Derby 
+830:Caixa D´Água/Derby 
 831:Aguazinha 
 838:Alto da Conquista 
 840:Alto da Bondade/Joana Bezerra 
 841:Nova Olinda 
-842:guas Compridas 
-843:Alto da Bondade (Vila Nossa Senhora da Conceio) 
+842:Águas Compridas 
+843:Alto da Bondade (Vila Nossa Senhora da Conceição) 
 844:Santa Casa 
-846:guas Compridas (Bacurau) 
+846:Águas Compridas (Bacurau) 
 847:Alto Nova Olinda 
 850:Aguazinha/Joana Bezerra 
-851:Crrego do Abacaxi 
-852:Caixa D'gua 
+851:Córrego do Abacaxi 
+852:Caixa D'água 
 861:Santa Casa/Joana Bezerra 
-870:Caixa Dgua/Afogados 
-881:Caenga/Rio Doce (Getlio Vargas) 
+870:Caixa D´água/Afogados 
+881:Caenga/Rio Doce (Getúlio Vargas) 
 882:Caenga/Rio Doce (Carlos de Lima Cavalcanti) 
 883:Caenga/Rio Doce (II Perimetral) 
 884:Jardim Brasil/Rio Doce 
-885:Stio Novo/Rio Doce 
+885:Sítio Novo/Rio Doce 
 886:Ouro Preto/Rio Doce 
-889:Caixa Dgua/Caenga 
+889:Caixa Dágua/Caenga 
 890:Aguazinha/Caenga 
 891:Alto Nova Olinda/Caenga 
 892:Alto do Cajueiro/Caenga 
@@ -319,9 +319,9 @@
 895:Alto do Sol Nascente/Caenga 
 896:Cidade Tabajara/Ouro Preto 
 897:Santa Casa/Caenga 
-901:Caets/Macaxeira 
+901:Caetés/Macaxeira 
 902:Mirueira/Macaxeira 
-903:Igarassu/Araoiaba 
+903:Igarassu/Araçoiaba 
 904:Igarassu/Nova Cruz 
 905:Igarassu/Paulista 
 906:Paulista/Macaxeira 
@@ -329,22 +329,22 @@
 909:Paulista/Joana Bezerra 
 910:Piedade/Rio Doce 
 911:Ouro Preto (Cohab) 
-912:Caets I/Paulista 
+912:Caetés I/Paulista 
 913:PE-15/Joana Bezerra 
 914:PE-15/Afogados 
 915:PE-15 
 916:Ouro Preto/Joana Bezerra 
-917:Caets II/Paulista 
+917:Caetés II/Paulista 
 918:Circular (Porta Larga) 
 920:Rio Doce/CDU 
-921:Ouro Preto (Jatob I) 
+921:Ouro Preto (Jatobá I) 
 922:Pau Amarelo/Paulista 
 923:Cidade Tabajara/PE-15 
-926:Ouro Preto (Jatob II) 
+926:Ouro Preto (Jatobá II) 
 927:Ouro Preto (Bacurau) 
 928:Maranguape II (Bacurau) 
 929:Alameda Paulista/Rio Doce (Maranguape I) 
-930:Rio Doce/Dois Irmos 
+930:Rio Doce/Dois Irmãos 
 931:Jardim Paulista Baixo/PE-15 
 932:Jardim  Paulista Alto/PE-15 
 933:Abreu e Lima/Paulista 
@@ -355,33 +355,33 @@
 940:Abreu e Lima/Olinda 
 941:Arthur Lundgren II/PE-15 
 943:Mirueira/PE-15 
-944:Loteamento Conceio/Paulista 
+944:Loteamento Conceição/Paulista 
 945:Jaguarana/Paulista (Alameda) 
 946:Igarassu (BR-101) 
 948:Arthur Lundgren II/Macaxeira 
-949:Caets/Centro de Paulista (Paratibe) 
+949:Caetés/Centro de Paulista (Paratibe) 
 950:Engenho Maranguape/Varadouro 
 952:Maranguape I/Paulista 
 953:Maranguape II/Paulista 
 955:Engenho Maranguape/Paulista 
 956:Igarassu (Bacurau) 
-957:Caets I (Bacurau) 
+957:Caetés I (Bacurau) 
 958:Costa Azul 
 960:Maria Farinha/Casa Caiada 
 964:Igarassu/Macaxeira 
 966:Rio Doce (Circular) 
-967:Igarassu (Stio Histrico) 
-968:Ilha de Itamarac/Igarassu 
+967:Igarassu (Sítio Histórico) 
+968:Ilha de Itamaracá/Igarassu 
 969:Itapissuma/Igarassu 
 970:Paulista/T.I. PE-15 
 971:Amparo 
 972:Bultrins 
 973:Casa Caiada 
-974:Jardim Atlntico 
+974:Jardim Atlântico 
 975:Amparo (Bacurau) 
 976:Paulista (Prefeitura) 
 977:Paulista (Conde da Boa Vista) 
-978:Loteamento Conceio/Rio Doce (PE-22) 
+978:Loteamento Conceição/Rio Doce (PE-22) 
 979:Paulista (Rua do Sol) - Expresso 
 980:Igarassu/Cidade Tabajara 
 981:Rio Doce (Conde da Boa Vista) 
@@ -390,7 +390,7 @@
 984:Loteamento Bonfim/Paulista 
 985:Rio Doce (Bacurau) 
 986:Rio Doce/Derby 
-987:Rio Doce (Prncipe) 
+987:Rio Doce (Príncipe) 
 988:Desterro/Paulista 
 989:Loteamento Planalto/Paulista 
 990:Pau Amarelo/Varadouro 
@@ -399,4 +399,4 @@
 994:Conjunto Beira Mar 
 995:Pau Amarelo (Bacurau) 
 996:Arthur Lundgren II/Rio Doce (Paratibe) 
-998:Caets III/Paulista 
+998:Caetés III/Paulista 

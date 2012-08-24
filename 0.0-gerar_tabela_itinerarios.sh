@@ -12,7 +12,8 @@ extrair_lista_options ()
 
 remover_caracteres_invalidos ()
 {
-	tr -cd '\11\12\15\40-\176' < linhas_onibus_raw.txt > linhas_onibus_raw_ascii
+#	tr -cd '\11\12\15\40-\176' < linhas_onibus_raw.txt > linhas_onibus_raw_ascii
+	iconv -f latin1 -t utf-8 < linhas_onibus_raw.txt > linhas_onibus_raw_ascii
 }
 
 remover_tags_html ()
@@ -42,7 +43,7 @@ limpeza ()
 	rm itinerarios_raw.txt itinerarios_raw2 itinerarios_raw3 itinerarios.asp
 	rm linhas_onibus_raw.txt linhas_onibus_raw_ascii
 	rm itinerarios_sem_as_linhas
-	rm linhas_onibus
+#	rm linhas_onibus
 }
 
 
